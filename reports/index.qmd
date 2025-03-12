@@ -1,4 +1,4 @@
-git init---
+---
 title: "Pre and Posttest Analysis - Telangana"
 format: dashboard
 logo: "plots/ihrptm.jpg"
@@ -7,6 +7,7 @@ fig-height: 8
 dpi: 600
 theme: journal
 css: styles.css
+scrolling: true
 ---
 
 ```{r}
@@ -24,6 +25,7 @@ library(gtsummary)
 library(gt)
 library(tidyr)
 library(viridis)
+library(glue)
 
 # Define the file paths
 filepaths <- c(
@@ -874,9 +876,6 @@ df_questions_combined_anm1[, 2:ncol(df_questions_combined_anm1)] <- round(df_que
 
 df_questions_combined_anm1_gt <- df_questions_combined_anm1 %>%
   gt() %>%
-  tab_header(
-    title = "Question-wise Pre-Post Score Percentage"
-  ) %>%
   cols_label(
     question = "Question",
     qanc_pre = "QANC Pre",
@@ -1844,9 +1843,6 @@ df_questions_combined_anm2[, 2:ncol(df_questions_combined_anm2)] <- round(df_que
 
 df_questions_combined_anm2_gt <- df_questions_combined_anm2 %>%
   gt() %>%
-  tab_header(
-    title = "Question-wise Pre-Post Score Percentage"
-  ) %>%
   cols_label(
     question = "Question",
     tb_pre = "TB Pre",
@@ -2762,9 +2758,6 @@ df_questions_combined_mo1[, 2:ncol(df_questions_combined_mo1)] <- round(df_quest
 # Create a gt table and apply some custom formatting
 df_questions_combined_mo1_gt <- df_questions_combined_mo1 %>%
   gt() %>%
-  tab_header(
-    title = "Question-wise Pre-Post Score Percentage"
-  ) %>%
   cols_label(
     question = "Question",
     qanc_pre = "QANC Pre",
@@ -3754,9 +3747,6 @@ df_questions_combined_mo2[, 2:ncol(df_questions_combined_mo2)] <- round(df_quest
 # Create a gt table and apply some custom formatting
 df_questions_combined_mo2_gt <- df_questions_combined_mo2 %>%
   gt() %>%
-  tab_header(
-    title = "Question-wise Pre-Post Score Percentage"
-  ) %>%
   cols_label(
     question = "Question",
     tb_pre = "TB Pre",
@@ -4677,9 +4667,6 @@ df_questions_combined_sn1[, 2:ncol(df_questions_combined_sn1)] <- round(df_quest
 # Create a gt table and apply some custom formatting
 df_questions_combined_sn1_gt <- df_questions_combined_sn1 %>%
   gt() %>%
-  tab_header(
-    title = "Question-wise Pre-Post Score Percentage"
-  ) %>%
   cols_label(
     question = "Question",
     qanc_pre = "QANC Pre",
@@ -4724,6 +4711,85 @@ write.csv(df_questions_combined_sn1_gt, "tables/df_questions_combined_sn1_ts_gt.
 ```
 
 # Phase 1 {.tabset}
+
+## Row {.flow.small}
+
+```{r}
+#| content: valuebox
+#| color: primary
+#| title: "Topics"
+#| font-size-content: 5
+
+"Quality ANC"
+
+```
+
+```{r}
+#| content: valuebox
+#| color: primary
+#| title: "Topics"
+#| font-size-content: 5
+
+"Anaemia"
+
+```
+
+```{r}
+#| content: valuebox
+#| color: primary
+#| title: "Topics"
+#| font-size-content: 5
+
+"GDM"
+
+```
+
+```{r}
+#| content: valuebox
+#| color: primary
+#| title: "Topics"
+#| font-size-content: 5
+
+"Hypertension"
+
+```
+
+```{r}
+#| content: valuebox
+#| color: primary
+#| font-size-content: 5
+#| title: "Topics"
+
+"APH"
+
+```
+
+```{r}
+#| content: valuebox
+#| title: "MO (Approx.)"
+#| color: success
+#| font-size-content: 5
+
+nrow(df_mo1[df_mo1$condition == 'qanc', ])
+```
+
+```{r}
+#| content: valuebox
+#| title: "ANM (Approx.)"
+#| color: success
+#| font-size-content: 5
+
+nrow(df_anm1[df_anm1$condition == 'qanc', ])
+```
+
+```{r}
+#| content: valuebox
+#| title: "SN (Approx.)"
+#| color: success
+#| font-size-content: 5
+
+nrow(df_sn1[df_sn1$condition == 'qanc', ])
+```
 
 ## Row {.flow}
 
@@ -4881,6 +4947,86 @@ df_questions_combined_sn1_gt
 ```
 
 # Phase 2 {.tabset}
+
+## Row {.flow.small}
+
+```{r}
+#| content: valuebox
+#| color: primary
+#| title: "Topics"
+#| font-size-content: 5
+
+"Previous LSCS"
+
+```
+
+```{r}
+#| content: valuebox
+#| color: primary
+#| title: "Topics"
+#| font-size-content: 5
+
+"SOB"
+
+```
+
+```{r}
+#| content: valuebox
+#| color: primary
+#| title: "Topics"
+#| font-size-content: 5
+
+"TB"
+
+```
+
+```{r}
+#| content: valuebox
+#| color: primary
+#| title: "Topics"
+#| font-size-content: 5
+
+"Jaundice"
+
+```
+
+```{r}
+#| content: valuebox
+#| color: primary
+#| font-size-content: 5
+#| title: "Topics"
+
+"Epilepsy"
+
+```
+
+```{r}
+#| content: valuebox
+#| color: primary
+#| font-size-content: 5
+#| title: "Topics"
+
+"Heart Disease"
+
+```
+
+```{r}
+#| content: valuebox
+#| title: "MO (Approx.)"
+#| color: success
+#| font-size-content: 5
+
+nrow(df_mo2[df_mo2$condition == 'jau', ])
+```
+
+```{r}
+#| content: valuebox
+#| title: "ANM (Approx.)"
+#| color: success
+#| font-size-content: 5
+
+nrow(df_anm2[df_anm2$condition == 'jau', ])
+```
 
 ## Row {.flow}
 
