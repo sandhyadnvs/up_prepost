@@ -4911,3 +4911,782 @@ number,name_pre,name_post,age_pre,age_post,entry_pre,entry_post,districts_pre,di
 350,parushaveni latha,parushaveni latha,44,44,TSMTO7,TSMTO7,23,23,Anthergoan,Anthergoan,17,17,9603783615,960378361,20-02-2025,20-02-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
 568,s jyothi,s jyothi,40,40,TSMTO10,TSMTO10,1,1,Gimma,Gimma,17,17,9640424023,9491465675,21-02-2025,21-02-2025,4,4,3,3,4,4,4,4,4,3,4,1,4,2,1,1,4,4,1,1,lscs,ts,anm
 466,susheela,susheela,45,45,TSMTO10,TSMTO10,1,1,Pittabgama,Pittabgrama,18,18,9951047450,995104450,20-02-2025,20-02-2025,4,2,4,2,4,2,4,4,3,3,3,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+202,Renuka,Renuka,37,37,TSMTO2,TSMTO2,20,20,Mustipally,Mustipally,18,17,9160822100,9160822100,03-03-2025,03-03-2025,4,4,3,3,4,4,3,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+203,Yellamma,C yellamma,46,46,TSMTO2,TSMTO2,20,20,Gokulnagar,Gokulnagar,19,20,9110323428,9110323428,03-03-2025,03-03-2025,2,4,3,3,1,4,4,3,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+204,P. Sunitha,P. Sunitha,38,38,TSMTO2,TSMTO2,20,20,Raikode,Raikode,17,17,9701160948,9701160948,03-03-2025,03-03-2025,2,4,4,4,4,4,3,3,3,3,4,4,3,3,3,3,1,4,3,3,lscs,ts,anm
+205,Anuradha,Anuradha,43,43,TSMTO2,TSMTO2,20,20,Kotakonda,Kotakonda,18,18,9985241729,9985241729,03-03-2025,03-03-2025,2,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+206,Pushpalatha,Pushpalatha,28,28,TSMTO2,TSMTO2,20,20,UPHC Ashok Nagar,UPHC Ashok Nagar,8,8,8106901049,8106901049,03-03-2025,03-03-2025,4,4,1,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+207,OR.sridevi,R sridevi,45,45,TSMTO2,TSMTO2,20,20,Mushrifa,Mushrifa,24,24,9010369120,9010369120,03-03-2025,03-03-2025,1,4,2,3,2,1,2,1,4,1,1,1,1,2,1,3,1,1,1,1,lscs,ts,anm
+208,Anuradha,Anuradha,45,45,TSMTO2,TSMTO2,20,20,Bhiramkonda,Bhairamkonda,18,18,9398571477,9398571477,03-03-2025,03-03-2025,4,4,2,3,4,4,4,3,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+209,Yellamma,Satyamma,46,26,TSMTO2,TSMTO2,20,20,Gokulnagar,Kommur,19,6,9502160823,9502160823,03-03-2025,03-03-2025,2,4,3,4,1,2,4,4,3,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+210,C Sujatha,C Sujatha,48,48,TSMTO2,TSMTO2,20,20,Makthal B,Makthal B,22,22,9440030067,9440030067,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+211,As   Jerusha,As. Jerusha,40,40,TSMTO2,TSMTO2,20,20,Pallerla,Pallerla,15,15,9491101485,9491101485,03-03-2025,03-03-2025,4,4,3,3,4,2,4,4,1,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+212,Kavitha,Kavitha,38,38,TSMTO2,TSMTO2,20,20,Utkoor. B,Utkoor. B,17,17,7337379724,7337379724,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+213,Sujatha Rani,Sujatha Rani,38,38,TSMTO2,TSMTO2,20,20,Perapalla,Perapalla,18,18,9701253079,9701253079,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+214,K Vedhavathi,K Vedhavathi,48,48,TSMTO2,TSMTO2,20,20,Chandapur,Chandapur,22,22,8790152158,8790152158,03-03-2025,03-03-2025,2,4,3,3,4,4,3,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+215,Yellamma,C yellamma,46,46,TSMTO2,TSMTO2,20,20,Gokulnagar,Gokulnagar,19,20,9440767060,9440767060,03-03-2025,03-03-2025,2,4,3,3,1,4,4,3,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+216,Varalaxmi,Varalaxmi,43,43,TSMTO2,TSMTO2,20,20,Kondapur,Kondapur,18,18,9493082053,9493082053,03-03-2025,03-03-2025,4,4,2,3,4,4,4,3,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+217,Ramalingamma,Ramaligamma,42,42,TSMTO2,TSMTO2,20,20,Vittalapur,Sajanapur,17,17,9492173526,9492173526,03-03-2025,03-03-2025,4,1,4,1,3,1,4,4,3,2,4,2,1,2,4,1,1,1,1,1,lscs,ts,anm
+218,G Narsingamma,G Narsingamma,44,42,TSMTO2,TSMTO2,20,20,Bhuneed,Bhuneed,18,19,8790186987,8790186987,03-03-2025,03-03-2025,4,4,3,3,4,2,4,3,2,4,4,4,1,3,3,3,4,4,3,1,lscs,ts,anm
+219,Munemma,Munemma,52,52,TSMTO2,TSMTO2,20,20,Manthangode,Manthangode,17,17,8498881424,8498881424,03-03-2025,03-03-2025,4,4,3,3,1,4,4,3,2,2,4,4,2,3,1,3,4,1,1,3,lscs,ts,anm
+220,Anitha,Anitha,47,47,TSMTO2,TSMTO2,20,20,Chinnajatram,Chinnajatram,22,22,9704852214,9704852214,03-03-2025,03-03-2025,4,4,3,3,4,1,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+221,Anasuya,Anasuya,39,39,TSMTO2,TSMTO2,20,20,Sangambanda,Sangambanda,17,17,9948812664,9948812664,03-03-2025,03-03-2025,4,4,3,3,2,4,4,4,1,2,1,1,3,1,3,3,4,4,3,3,lscs,ts,anm
+223,Sumalatha,Sumalatha,38,38,TSMTO2,TSMTO2,20,20,Marikal -B,Kistapur,18,18,9703027205,9703027205,03-03-2025,03-03-2025,4,4,3,2,4,4,4,3,3,3,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+224,Karuna,Karuna,39,39,TSMTO2,TSMTO2,20,20,Ppunit,Ppunit,14,14,8497925147,8497925147,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,4,3,4,4,1,3,2,3,4,4,3,3,lscs,ts,anm
+225,Dasari Pushpa,Dasari Pushpa,42,42,TSMTO2,TSMTO2,20,20,Kummariwada,Kummariwada,2011,2011,7997853381,7997853381,20-02-2025,03-03-2025,4,4,4,3,2,1,4,4,4,3,4,4,3,3,3,3,1,1,3,3,lscs,ts,anm
+227,P.Prameela,P.Prameela,42,42,TSMTO2,TSMTO2,20,20,Damaragidda,Damaragidda,18,18,8247052562,8247052562,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+228,Geetha,Geetha,38,37,TSMTO2,TSMTO2,20,20,Marikal A,Marikal A,17,17,9676985166,9676985166,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+229,S. Bharathi,S. Bharathamma,42,42,TSMTO2,TSMTO2,20,20,Mirjapur,Mirjapur,18,18,9704840751,9704840751,03-03-2025,03-03-2025,1,4,3,3,4,4,3,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+230,Rameshwari,Rameshwari,33,33,TSMTO2,TSMTO2,20,20,Uphc Ashok nagar,BC colony,14,14,8121476015,8121476015,03-03-2025,03-03-2025,4,4,3,3,4,4,4,3,3,3,4,4,3,3,3,3,4,4,1,1,lscs,ts,anm
+231,Madhavi,Madhavi,2008,1985,TSMTO2,TSMTO2,20,20,Chendravancha,Chendravancha,17,17,8008083121,8008083121,03-03-2025,03-03-2025,4,4,3,3,4,4,4,3,4,3,4,4,3,1,3,3,4,4,3,1,lscs,ts,anm
+232,Aruna,Aruna,58,58,TSMTO2,TSMTO2,20,20,Kethepally,Kethepally,18,18,7013689281,7013689281,03-03-2025,03-03-2025,4,4,3,3,4,4,3,4,1,3,4,4,2,3,1,3,1,4,1,3,lscs,ts,anm
+233,Manjula,Manjula,40,40,TSMTO2,TSMTO2,20,20,Theelair,Theelair,2008,17,8179655001,8179655001,03-03-2025,03-03-2025,4,4,3,3,4,4,3,3,3,3,4,4,1,1,3,3,4,4,3,3,lscs,ts,anm
+234,Laxmi,Laxmi,40,40,TSMTO2,TSMTO2,20,20,Pulimamidi,Pulimamidi,17,17,9640439243,9640439243,03-03-2025,03-03-2025,4,4,3,3,4,4,4,3,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+235,laxmirajyam,Laxmirajyam,42,42,TSMTO2,TSMTO2,20,20,Pedripad,Pedripad,15,15,8374249838,8374249838,03-03-2025,03-03-2025,4,4,3,3,4,4,4,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+236,K Shobha,K Shobha,38,38,TSMTO2,TSMTO2,20,20,Kollampally A,Kollampally A,18,18,9100171603,9100171603,03-03-2025,03-03-2025,2,4,4,3,4,4,3,3,4,2,4,4,1,1,3,3,4,4,3,3,lscs,ts,anm
+237,Venkatamma T,Venkatamma T,4,40,TSMTO2,TSMTO2,20,20,Sarjakhanpet,Sarjakhanpet,18,18,9676163576,9676163576,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+238,B VIJAYALAXMI,B vijayalaxmi,48,48,TSMTO2,TSMTO2,20,20,Hakeempet,Hakeempet,18,18,9391725636,9391725636,03-03-2025,03-03-2025,4,4,3,4,4,4,4,3,3,4,4,4,4,4,3,3,4,1,1,1,lscs,ts,anm
+239,B Tirupathamma,B Tirupathamma,45,45,TSMTO2,TSMTO2,20,20,Kosgi A,Kosgi A,17,17,9885287180,9885287180,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,4,4,4,3,4,1,3,3,lscs,ts,anm
+240,N.c.Ravanamma,N C.Ravanamma,54,54,TSMTO2,TSMTO2,20,20,Vitalapur,Vitalapur,17,17,9398683746,9398683746,03-03-2025,03-03-2025,3,4,4,3,1,4,3,3,4,2,4,4,2,2,3,3,4,4,2,3,lscs,ts,anm
+241,G padmavathi,G padmavathi,48,48,TSMTO2,TSMTO2,20,20,Chandapur,Chandapur,22,22,9505528950,9505528950,03-03-2025,03-03-2025,4,4,4,3,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+242,S vanisri,S vanisri,40,40,TSMTO2,TSMTO2,20,20,Gundumal B,Gundumal B,16,16,9347318218,9347318218,03-03-2025,03-03-2025,4,2,4,3,1,4,4,3,3,4,4,4,3,1,3,3,1,1,3,3,lscs,ts,anm
+243,N Anusuya,N Anusuya,42,42,TSMTO2,TSMTO2,20,20,Kothapally,Kothapally,13,13,7780109880,7780109880,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+244,Sumithra,Sumithra,53,53,TSMTO2,TSMTO2,20,20,Dhanwada,Dhanwada,18,18,9491194595,9491194595,03-03-2025,03-03-2025,4,4,3,3,4,4,4,3,2,3,3,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+245,Savithramma,Savithramma,35,35,TSMTO2,TSMTO2,20,20,Renivatla,Renivatla,19,19,9441910364,9441910364,03-03-2025,03-03-2025,1,4,3,3,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+246,G. Manjula,G. Manjula,37,37,TSMTO2,TSMTO2,20,20,Rakonda,Rakonda,15,15,9948115848,9948115848,03-03-2025,03-03-2025,4,4,3,2,4,4,4,4,4,2,4,4,3,3,2,1,4,4,3,3,lscs,ts,anm
+247,Chanrakala,Chandrakala,27,37,TSMTO2,TSMTO2,20,20,Karni,Karni,17,17,9959774554,9959774554,03-03-2025,03-03-2025,4,4,3,3,4,3,3,3,1,3,4,4,3,1,1,3,4,4,4,3,lscs,ts,anm
+248,Dasari Venkateshwaramma,Dasari Venkateshwaramma,40,40,TSMTO2,TSMTO2,20,20,Kachwar,Kachwar,18,18,9705343886,9705343886,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+249,D chandrakala,D. Chandrakala,36,36,TSMTO2,TSMTO2,20,20,Mirjapur,Mirjapur,17,16,8897422498,8897422498,03-03-2025,03-03-2025,4,3,2,3,1,4,2,2,1,1,4,4,2,3,3,3,4,4,2,3,lscs,ts,anm
+250,Shahanaz begum,Shahanaz begum,36,36,TSMTO2,TSMTO2,20,20,Maddur,Maddur,18,18,9573780206,9573780206,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,2,2,3,3,4,4,3,3,lscs,ts,anm
+252,Saraswathi k,Kuntirayapolla Saraswathi,39,38,TSMTO2,TSMTO2,20,20,Bc colony,Bc colony,12,12,7981603869,7981603869,03-03-2025,03-03-2025,4,4,3,3,2,4,4,3,2,2,4,4,1,3,1,3,4,1,1,3,lscs,ts,anm
+253,K Devikarani,K Devikarani,49,49,TSMTO2,TSMTO2,20,20,Chinnaporla,Chinnaporla,18,18,9704453349,9704453349,03-03-2025,03-03-2025,4,4,3,2,4,4,3,4,3,3,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+254,P girija,P girija,37,37,TSMTO2,TSMTO2,20,20,Neredgam,Neredgam,18,18,9550340642,9550340642,03-03-2025,03-03-2025,4,4,4,2,4,4,4,3,2,3,1,1,4,3,3,2,4,4,1,3,lscs,ts,anm
+255,padma,padma,2,1976,TSMTO2,TSMTO2,20,20,mandipally,mandipally,20,20,6281117881,6281117881,03-03-2025,03-03-2025,4,4,3,4,4,4,4,4,3,3,1,4,3,3,3,3,4,4,2,3,lscs,ts,anm
+256,K Vanisree,K Vanisree,51,51,TSMTO2,TSMTO2,20,20,Bogaram,Bogaram,17,18,9347703980,9347703980,03-03-2025,04-03-2025,3,4,4,3,2,4,4,4,4,4,4,4,4,4,2,3,1,4,1,3,lscs,ts,anm
+257,B Sheebharani,B Sheebharani,48,48,TSMTO2,TSMTO2,20,20,Gotur,Gotur,17,17,8374912702,8374912702,03-03-2025,03-03-2025,4,4,3,3,4,4,3,4,3,3,4,1,3,4,3,3,4,4,3,3,lscs,ts,anm
+258,GRajini,GRajini,38,38,TSMTO2,TSMTO2,20,20,Mudumal,Mudumal,16,16,9676215478,9676215478,03-03-2025,03-03-2025,4,4,2,3,4,4,3,3,2,2,1,1,2,4,1,3,1,1,3,3,lscs,ts,anm
+259,Kamala,Kamala,41,1986,TSMTO2,TSMTO2,20,20,KOSGI B,KOSGI B,18,18,9963525879,9963525879,03-03-2025,03-03-2025,2,3,2,2,4,4,4,4,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+260,M Manjula,M Manjula,38,38,TSMTO2,TSMTO2,20,20,Nidugurthi,Nidugurthi,16,16,9701783781,9701783781,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,4,3,4,4,4,3,3,3,4,4,1,3,lscs,ts,anm
+261,P Laxmi,P Laxmi,48,48,TSMTO2,TSMTO2,20,20,Makthal A,Makthal A,22,22,9440682142,9440682142,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+262,D.jyothi,D jyothi,47,47,TSMTO2,TSMTO2,20,20,Narwa b,Narwa b,17,17,9908721876,9908721876,03-03-2025,03-03-2025,4,4,2,3,4,4,4,3,2,2,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+264,Shivaleela,Shivaleela,35,35,TSMTO2,TSMTO2,20,20,Muslaipally,Muslaipally,18,18,9603321176,9603321176,03-03-2025,03-03-2025,4,4,3,3,4,4,3,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+265,Chandrakanti Sujathsa,Chandrakanti Sujatha,52,53,TSMTO2,TSMTO2,20,20,Pagidimary,Pagidimary,17,17,7675943488,7675943488,03-03-2025,03-03-2025,4,4,3,3,4,4,3,4,3,3,4,4,4,1,3,3,4,4,3,3,lscs,ts,anm
+268,indira,Indira,52,52,TSMTO2,TSMTO2,20,20,Ammireddypally,Ammireddypally,18,18,9912309512,9912309512,03-03-2025,03-03-2025,2,4,3,3,4,4,4,4,2,3,3,4,1,3,2,3,2,4,3,2,lscs,ts,anm
+269,Aruna,Aruna,47,47,TSMTO2,TSMTO2,20,20,S/C Jajapur,Jajapur,18,18,9989419136,9989419136,03-03-2025,03-03-2025,2,4,4,3,3,4,4,4,2,3,4,3,1,2,3,3,4,4,3,3,lscs,ts,anm
+270,Maheshwari,Maheshwari,37,37,TSMTO2,TSMTO2,20,20,Kollur,Kollur,17,17,9491389411,9491389411,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,2,1,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+271,E Chandrakala,E Chandrakala,50,50,TSMTO2,TSMTO2,20,20,Kanmanur,Kanmanur,17,17,9848238650,9848238650,03-03-2025,03-03-2025,4,4,2,3,4,4,4,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+272,Govindamma,Govindamma,49,49,TSMTO2,TSMTO2,20,20,Utkoor,Utkoor A,49,24,6305465321,6305465321,03-03-2025,03-03-2025,2,4,3,3,1,4,4,4,3,3,4,1,3,3,3,3,4,1,3,1,lscs,ts,anm
+274,M Chittemma,M Chittemma,45,1980,TSMTO2,TSMTO2,20,20,Rudrasamudram,Rudrasamudram,14,14,9553303220,9553303220,03-03-2025,03-03-2025,4,4,3,3,1,4,4,4,3,2,4,4,3,3,3,3,4,3,3,1,lscs,ts,anm
+275,CH Rameshwari,Ch Rameshwarin,45,45,TSMTO2,TSMTO2,20,20,Kunsi,Kunsi,18,18,9959540106,9959540106,03-03-2025,03-03-2025,4,4,4,3,4,4,3,3,4,4,4,4,3,3,3,3,2,4,3,3,lscs,ts,anm
+276,K vara Laxmi,K varalaxmi,49,49,TSMTO2,TSMTO2,20,20,Chegunta,Maganoor,17,17,9652178087,9652178087,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+277,Sridevi,Sridevi,38,38,TSMTO2,TSMTO2,20,20,Dhanwada,Dhanwada,18,18,9492502290,9492502290,03-03-2025,03-03-2025,4,4,4,4,4,4,4,3,2,2,4,4,3,2,1,1,4,1,1,3,lscs,ts,anm
+278,T Swathi,TSwathi,37,37,TSMTO2,TSMTO2,20,20,Kalwal,Kalwal,17,17,8897554189,8897554189,03-03-2025,03-03-2025,4,4,4,3,4,4,4,4,4,3,4,4,4,3,3,3,4,3,3,3,lscs,ts,anm
+279,N Sudha Rani,N Sudha Rani,33,33,TSMTO2,TSMTO2,20,20,Maganoor,Maganoor,15,15,8374994891,8374994891,03-03-2025,03-03-2025,4,4,4,3,4,4,4,4,4,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+281,Savithramma,Savithramma,53,53,TSMTO2,TSMTO2,20,20,Abhangapur,Abhangapur,18,18,9704741938,9704741938,03-03-2025,03-03-2025,4,4,2,3,4,4,3,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+282,Alivelu,Alivelamma.M,49,39,TSMTO2,TSMTO2,20,20,Kistapur,Kistapur,18,18,9652410403,9652410403,03-03-2025,03-03-2025,4,4,2,2,2,1,4,4,3,4,4,4,3,4,3,4,4,4,1,3,lscs,ts,anm
+283,K shobhadevi,K shobhadevi,51,51,TSMTO2,TSMTO2,20,20,Kankurthy,Mogulamadka,18,18,9666952588,9666952588,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+284,B Laxmidevi,B Laxmidevi,50,50,TSMTO2,TSMTO2,20,20,Kolpur,Kolpur,23,23,8247625330,8247625330,03-03-2025,03-03-2025,4,4,4,3,4,4,4,3,4,4,4,4,4,4,3,3,4,1,3,3,lscs,ts,anm
+285,Andalamma,M Andalamma,58,56,TSMTO2,TSMTO2,20,20,Manthangode,Manthangode,28,28,9848567491,9848567491,03-03-2025,03-03-2025,4,4,3,3,4,4,3,4,2,2,4,4,3,3,1,3,4,4,3,3,lscs,ts,anm
+287,Savithramma,Savithramma,44,44,TSMTO2,TSMTO2,20,20,Gundumal A,Gundumal A,18,18,9502481140,9502481140,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+288,D.Ananthamma,D Ananthamma,40,40,TSMTO2,TSMTO2,20,20,Peddajatram,Peddajatram,17,17,9912308389,9912308389,03-03-2025,03-03-2025,2,4,4,4,1,2,4,4,2,3,4,3,4,3,2,2,4,4,1,3,lscs,ts,anm
+289,Subhashithamma,Subhashithamma,54,54,TSMTO2,TSMTO2,20,20,Peddakadmoor,Peddakadmoor,25,25,8309504058,8309504058,03-03-2025,03-03-2025,4,4,4,4,4,4,4,4,4,3,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+290,Pittala manjula,Pittala manjula,51,50,TSMTO2,TSMTO2,20,20,Narwa-a,Narwa-a,18,18,9701457034,9701457034,03-03-2025,03-03-2025,4,4,4,3,4,4,4,4,4,3,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+291,Shashikala,shashikala,50,50,TSMTO2,TSMTO2,20,20,Gudigandla,Gudigandla,17,17,6300152952,6300152952,03-03-2025,03-03-2025,2,4,4,3,2,4,3,3,1,3,4,4,1,3,1,3,4,4,3,3,lscs,ts,anm
+292,V Venkatalaxmi,V Venkatalaxmi,47,47,TSMTO2,TSMTO2,20,20,Appampally,Appampally,22,22,7893520261,7893520261,03-03-2025,03-03-2025,4,4,3,3,4,4,3,4,2,2,4,4,1,3,3,3,4,1,3,3,lscs,ts,anm
+294,Krushnamma,Krushnamma,39,39,TSMTO2,TSMTO2,20,20,Jinnaram,Jinnaram,17,17,9542106135,9542106135,03-03-2025,03-03-2025,4,4,3,3,4,4,3,3,3,3,4,4,3,3,3,3,3,4,3,3,lscs,ts,anm
+295,Varalaxmi,Varalaxmi,53,53,TSMTO2,TSMTO2,20,20,Elligandla,Elligandla,17,17,8096293010,8096293010,03-03-2025,03-03-2025,4,4,3,3,4,4,3,4,2,2,3,4,3,3,2,3,1,1,2,3,lscs,ts,anm
+308,Korri Nirmala ku,K Nirmala Kumari,1968,55,TSMTO3,TSMTO3,8,8,Neral,Neral,19,19,9603716972,9603716972,11-03-2025,11-03-2025,4,3,3,3,2,3,4,3,3,1,4,4,4,4,3,3,4,4,3,3,lscs,ts,anm
+309,Annam Vanisree,Annam Vanisree,39,39,TSMTO3,TSMTO3,8,8,Reddypet,Reddypet,3,3,9951087590,9951087590,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+310,K sunitha,K sunitha,17,35,TSMTO3,TSMTO3,8,8,Bhavanipet,Bhavanipet,17,17,9493520725,9493520725,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,3,1,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+311,S Rajamani,S Rajamani,45,45,TSMTO3,TSMTO3,8,8,Lingampally,Lingampally,18,18,9505231286,9505231286,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+312,Ch Vimala,Ch Vimala,51,52,TSMTO3,TSMTO3,8,8,Thimmakpally,Thimmakpally,18,18,9291327838,9291327838,11-03-2025,11-03-2025,4,4,3,2,4,4,4,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+313,Kancharla sujatha,Kancharla sujatha,40,40,TSMTO3,TSMTO3,8,8,Shabdipoor,Shabdipoor,18,18,9121995043,9121995043,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+315,Asiya sulthana,Asiya sulthana,38,38,TSMTO3,TSMTO3,8,8,Lingapoor,Lingapoor,16,16,9553697867,9553697867,11-03-2025,11-03-2025,4,4,4,3,4,4,4,3,3,2,2,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+316,M Swarooparani,M Swarooparani,1980,1980,TSMTO3,TSMTO3,8,8,Chukkapur,Chukkapur,18,18,9959359327,9959359327,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+317,Pandiri bharathi,P.Bharathi,8.21972,1972,TSMTO3,TSMTO3,8,8,Lachapet,Lachapet,16,15,9618456252,9618456252,11-03-2025,11-03-2025,1,4,4,3,4,4,4,4,2,4,2,4,3,3,2,3,4,4,3,3,lscs,ts,anm
+318,Akkapally Balamani,Akkapally Balamani,39,39,TSMTO3,TSMTO3,8,8,Devanpally,Devanpally,18,18,9494261642,9494261642,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,1,1,lscs,ts,anm
+319,Devasoth Shanthi bai,D Shanthi bai,24,24,TSMTO3,TSMTO3,8,8,Ankole,Ankole,2,2,8184990116,8184990116,11-03-2025,11-03-2025,4,4,3,3,4,4,4,2,4,1,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+321,BRENUKA,B Renuka,38,38,TSMTO3,TSMTO3,8,8,Fareedpet,Fareedpet,18,18,9959709790,9959709790,11-03-2025,11-03-2025,4,4,3,3,3,4,4,3,2,3,2,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+322,Barla. Saraswathi,Barla. Saraswathi,43,43,TSMTO3,TSMTO3,8,8,Pothaipally,Pothaipally,22,22,9440519178,9440519178,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+323,D srilatha,D srilatha,36,36,TSMTO3,TSMTO3,8,8,Anchanoor,Anchanoor,15,16,9640295018,9640295018,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,4,3,3,3,4,4,1,3,lscs,ts,anm
+324,Peddavoinola Limbamma,Peddavoinola Limbamma,45,45,TSMTO3,TSMTO3,8,8,Ramareddy B,Ramareddy B,15,15,9553056829,9553056829,11-03-2025,11-03-2025,4,4,3,3,4,4,3,3,3,4,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+325,K.Lalitha,K.lalitha,40,40,TSMTO3,TSMTO3,8,8,Ramareddu,Ramareddy,18,18,9989552376,9989552376,11-03-2025,11-03-2025,1,1,3,3,3,1,1,3,4,4,3,2,2,3,2,3,3,1,3,3,lscs,ts,anm
+327,Asham Radhika,Asham Radhika,36,36,TSMTO3,TSMTO3,8,8,Ambaripet b,Ambaripet b,17,17,9989929924,9989929924,11-03-2025,11-03-2025,4,4,3,3,1,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+329,P Sravani,P Sravani,37,37,TSMTO3,TSMTO3,8,8,Ankole,Ankole,18,18,9849549824,9849549824,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,1,3,4,4,3,3,3,3,1,4,3,3,lscs,ts,anm
+330,Manda Rukmini,Rukimini,38,36,TSMTO3,TSMTO3,8,8,Damarancha,Damarancha,18,18,9603848505,9603848505,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,1,3,4,4,1,3,lscs,ts,anm
+331,p. padmalatha,p padmalatha,56,56,TSMTO3,TSMTO3,8,8,damarancha,damarancha,29,29,8099584684,8099584684,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,1,3,3,1,1,4,4,1,3,lscs,ts,anm
+332,Nowsheen,Nowsheen,35,35,TSMTO3,TSMTO3,8,8,Lingampet -b,Lingampet -b,17,17,8919195561,8919195561,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+333,M lakshimi,M lakshimi,46,46,TSMTO3,TSMTO3,8,8,Rajeevnagar,Rajeevnagar,22,22,9573761630,9573761630,11-03-2025,11-03-2025,4,4,3,3,2,2,3,3,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+334,Ch Balarajavva,Ch Balarajavva,40,40,TSMTO3,TSMTO3,8,8,Kyasampally,Kyasampally,18,18,9553655838,9553655838,11-03-2025,11-03-2025,4,4,4,4,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+335,M.Anuradha,M.Anuradha,18,48,TSMTO3,TSMTO3,8,8,Borlam,Borlam,18,18,8897663671,8897663671,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+336,T kavitha,T kavitha,42,42,TSMTO3,TSMTO3,8,8,Pmhcolony,Pmhcolony,10,8,9652872355,9652872355,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+337,Eeram Jyothi,Eeram Jyothi,27,27,TSMTO3,TSMTO3,8,8,Kistapur,Kistapur,9,9,9346447407,9346447407,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+338,Malajangam Annapurna,Malajangam Annapurna,39,39,TSMTO3,TSMTO3,8,8,Gouraram,Gouraram,15,15,9948554686,9948554686,11-03-2025,11-03-2025,4,4,3,3,1,1,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+339,U Maheshwari,U Maheshwari,45,45,TSMTO3,TSMTO3,8,8,Ramareddy A,Ramareddy A,18,18,9291560878,9291560878,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,2,2,1,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+340,G vijayakumari,G vijayakumari,49,49,TSMTO3,TSMTO3,8,8,Polkampet,Polkampet,23,23,9951259808,9951259808,11-03-2025,11-03-2025,4,4,4,2,4,4,4,4,4,3,4,4,4,4,3,3,4,4,3,3,lscs,ts,anm
+341,E Rajini,E Rajini,33,33,TSMTO3,TSMTO3,8,8,Polkampet,Polkampet,16,15,7382100080,7382100080,11-03-2025,11-03-2025,4,4,3,3,2,4,3,3,3,2,1,4,3,3,3,3,2,4,3,3,lscs,ts,anm
+342,U Maheshwari,U Maheshwari,45,45,TSMTO3,TSMTO3,8,8,Ramareddy A,Ramareddy A,18,18,9291560878,9291560878,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,2,2,1,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+343,B Jyosthnadevi,B jyosthnadevi,1980,43,TSMTO3,TSMTO3,8,8,Mumbajipet,Mumbajipet,22,23,9948259036,9948259036,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,4,2,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+344,A.Sudharani,A.Sudharani,35,35,TSMTO3,TSMTO3,8,8,S/C Bibipet A,S/C Bibipet A,14,14,6309618693,6309618693,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,2,2,4,3,3,1,1,3,4,4,1,3,lscs,ts,anm
+345,S Kavitha,S kavitha,36,36,TSMTO3,TSMTO3,8,8,Lingampet  b,Lingampet b,15,15,9346099928,9346099928,11-03-2025,11-03-2025,4,4,4,3,2,4,4,4,4,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+346,MahmoodaBegum,mmahmood,38,38,TSMTO3,TSMTO3,8,8,Banapoor,Banapoor,15,15,9603532558,9603532558,11-03-2025,11-03-2025,4,4,3,2,4,2,4,3,4,4,4,4,3,4,2,2,4,4,3,3,lscs,ts,anm
+347,Ragam susheela,Ragam susheela,36,36,TSMTO3,TSMTO3,8,8,Gandhari B,Gandhari B,3,3,8179010477,8179010477,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,1,3,3,4,4,3,3,lscs,ts,anm
+348,Gajjela shobha,Gajjela Shobha,1985,1985,TSMTO3,TSMTO3,8,8,Posanipet,Posanipet,3,3,9959217880,9959217880,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,2,2,3,3,4,4,3,3,lscs,ts,anm
+350,K Srilatha,K Srilatha,45,45,TSMTO3,TSMTO3,8,8,Tujalpoor,Tujalpoor,16,16,8179042755,8179042755,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,1,1,lscs,ts,anm
+352,P. Radha,P Radha,29,29,TSMTO3,TSMTO3,8,8,Machareddy,Machareddy,18,18,9704731348,9704731348,11-03-2025,11-03-2025,1,4,2,3,4,4,4,4,1,1,4,3,3,3,3,1,1,1,3,2,lscs,ts,anm
+354,D shobha,D shobha,43,46,TSMTO3,TSMTO3,8,8,Thirumalapoor,Thirumalapoor,18,18,7993923801,7993923801,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,3,2,2,4,4,1,2,3,4,4,1,1,lscs,ts,anm
+355,K A Debora,K A Debora,50,49,TSMTO3,TSMTO3,8,8,Ambaripet A,Ambaripet A,27,27,9908809281,9908809281,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,1,1,lscs,ts,anm
+356,Sydugari madhavi,S .Madhavi,38,38,TSMTO3,TSMTO3,8,8,Rameshwarpally,Rameshwarpally,18,18,9963070046,9963070046,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,3,3,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+357,G.Lavanya,G.Lavanya,35,35,TSMTO3,TSMTO3,8,8,Shetpally sangareddy,Shetpally sangareddy,3,3,7989305007,7989305007,11-03-2025,11-03-2025,4,2,4,3,4,1,1,3,2,3,1,1,2,2,1,2,4,1,2,2,lscs,ts,anm
+358,B Anjamma,B Anjamma,42,42,TSMTO3,TSMTO3,8,8,Palvancha,Palvancha,18,18,9848336388,9848336388,11-03-2025,11-03-2025,4,4,3,3,4,4,3,3,2,1,3,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+359,A Sukanya,A Sukanya,35,35,TSMTO3,TSMTO3,8,8,Janagaom,Janagaom,18,18,8106249213,8106249213,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+360,Gundeykoyalker Yasoda,G yasoda,45,45,TSMTO3,TSMTO3,8,8,Borlam,Borlam,16,16,7660898044,7660898044,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,2,1,3,3,4,4,2,1,lscs,ts,anm
+361,K. Sravani,K. Sravani,35,35,TSMTO3,TSMTO3,8,8,Deshaipet,Deshaipet,17,17,9912132532,9912132532,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,1,4,3,3,lscs,ts,anm
+362,Basam Shashirekha,Basam Shashirekha,53,53,TSMTO3,TSMTO3,8,8,Muthyampet,Muthyampet,18,18,8019402283,8019402283,11-03-2025,11-03-2025,4,4,3,3,4,1,3,4,2,2,4,4,3,2,3,1,4,1,3,3,lscs,ts,anm
+363,Anuradha l,Anuradha l,42,42,TSMTO3,TSMTO3,8,8,Mumbajipet,Mumbajipet,42,18,9912110756,9912110756,11-03-2025,11-03-2025,4,4,3,3,4,4,3,3,4,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+364,Gurjela Shirisha,Gurjela shirisha,46,46,TSMTO3,TSMTO3,8,8,Mirzapur,Mirzapur,18,18,9550409565,9550409565,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+365,Aske Divya,Aske Divya,42,42,TSMTO3,TSMTO3,8,8,Tujalpoor,Tujalpoor,18,18,9949310729,9949310729,11-03-2025,11-03-2025,4,4,3,3,1,4,4,3,2,3,3,4,3,3,3,3,1,4,3,3,lscs,ts,anm
+366,Dasari ?????????,Dasari Rajeshwari,44,44,TSMTO3,TSMTO3,8,8,Rukminikunta,Rukuminikunta,17,17,9440436046,9440436046,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+367,Rayudu Nagaramani,Rayudu Nagaramani,50,48,TSMTO3,TSMTO3,8,8,Thimmapur,Thimmapur,18,18,9491748861,9491748861,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+369,M SAnjeevi,M Sanjeevi,59,59,TSMTO3,TSMTO3,8,8,Domakonda   B,Domakonda B,59,30,9959404818,9959404818,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+370,Bodige Sridevi,Bodige Sridevi,41,41,TSMTO3,TSMTO3,8,8,Gandhari A,Gandhari A,18,18,9440762953,9440762953,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,2,4,4,4,1,3,3,4,4,3,3,lscs,ts,anm
+371,M SAnjeevi,M Sanjeevi,59,59,TSMTO3,TSMTO3,8,8,Domakonda   B,Domakonda B,59,30,9959404818,9959404818,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+372,Bheemagani Devi,Bheemagani Devi,48,48,TSMTO3,TSMTO3,8,8,Gandharib,Gandharib,17,17,9603925232,9603925232,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,3,4,3,1,3,3,4,4,3,3,lscs,ts,anm
+373,P Gangamani,P Gangamani,52,52,TSMTO3,TSMTO3,8,8,Mirzapur,Mirzapur,24,24,9912373536,9912373536,11-03-2025,11-03-2025,4,4,4,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+374,Jsdr rajeswari,Jsdr rajeswari,28,58,TSMTO3,TSMTO3,8,8,Lingampeta,Lingampet - a,28,28,9441423115,9441423115,11-03-2025,11-03-2025,4,4,3,3,2,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+375,D Susheela,D Susheela,46,46,TSMTO3,TSMTO3,8,8,Ambaripet B,Ambaripet B,18,18,9705001076,9705001076,11-03-2025,11-03-2025,4,4,4,3,1,4,4,4,1,1,4,4,4,4,1,1,1,4,2,3,lscs,ts,anm
+378,Rayudu Nagaramani,Rayudu Nagaramani,50,48,TSMTO3,TSMTO3,8,8,Thimmapur,Thimmapur,18,18,9491748861,9491748861,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+379,K Rekha,K Rekha,37,37,TSMTO3,TSMTO3,8,8,Durki,Durki,15,18,8897904001,8897904001,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+380,Macha Sunitha,Sunitha,48,16,TSMTO3,TSMTO3,8,8,Konapoor,Konapoor,16,16,9492211850,9492211850,11-03-2025,11-03-2025,4,4,4,3,4,4,4,4,1,3,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+381,U Maheshwari,U Maheshwari,45,45,TSMTO3,TSMTO3,8,8,Ramareddy A,Ramareddy A,18,18,9291560878,9291560878,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,2,2,1,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+382,Dharavath Manjula,Dharavath Manjula,16,16,TSMTO3,TSMTO3,8,8,Ufwc S/c Gudem,Ufwc banswada,16,16,9490941439,9490941439,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+383,Gangaram Shanthamma,Gangaram Shanthamma,45,45,TSMTO3,TSMTO3,8,8,Banapoor,Banapoor,18,18,9182098792,9182098792,11-03-2025,11-03-2025,4,4,4,3,1,4,4,4,3,2,4,4,3,3,1,3,4,4,1,3,lscs,ts,anm
+384,P Anjali,P Anjali,2007,1986,TSMTO3,TSMTO3,8,8,Lingampally,Lingampally,18,18,8985333598,8985333598,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,1,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+385,Moota Renukadevi,Moota Renukadevi,56,56,TSMTO3,TSMTO3,8,8,Thimmakpally k,Thimmakpally,30,30,9676717850,9676717850,11-03-2025,11-03-2025,4,4,4,4,2,4,4,2,1,3,4,3,2,2,2,1,4,1,1,1,lscs,ts,anm
+386,Mangali Jyothi,Mangali Jyothi,36,36,TSMTO3,TSMTO3,8,8,Tadkol,Tadkol,15,15,8500834282,8500834282,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+387,Basam Shashirekha,Basam Shashirekha,53,53,TSMTO3,TSMTO3,8,8,Muthyampet,Muthyampet,18,18,80194022830,80194022830,11-03-2025,11-03-2025,4,4,3,3,2,1,3,4,2,2,4,4,4,2,3,1,4,1,3,3,lscs,ts,anm
+388,K sumalatha,K sumalatha,34,34,TSMTO3,TSMTO3,8,8,Bibipet,Bibipet,3,3,9652196407,9652196407,11-03-2025,11-03-2025,2,4,3,3,4,4,4,4,4,3,4,4,2,3,3,3,4,4,1,3,lscs,ts,anm
+389,Kethavath Meena,Kethavath  Meena,36,36,TSMTO3,TSMTO3,8,8,Hanmajipet,Hanmajipet,16,16,6300902104,6300902104,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+390,KSwaroopa,K Swaroopa,38,38,TSMTO3,TSMTO3,8,8,Peddamallareddy,Peddamallareddy,18,18,9618439956,9618439956,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,4,2,4,1,4,3,3,3,4,4,3,3,lscs,ts,anm
+391,K lacmi,K laxmi,39,39,TSMTO3,TSMTO3,8,8,Mandapoor,Mandapoor,17,18,9666727734,9666727734,11-03-2025,11-03-2025,4,1,2,2,1,3,3,3,1,4,4,4,4,4,4,3,1,1,1,3,lscs,ts,anm
+392,Pottigari padma,P.padma,50,50,TSMTO3,TSMTO3,8,8,Posanipet,Posanipet,18,18,9490149033,9490149033,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+393,Basam Shashirekha,Basam Shashirekha,53,53,TSMTO3,TSMTO3,8,8,Muthyampet,Muthyampet,18,18,8019402283,8019402283,11-03-2025,11-03-2025,4,4,3,3,4,1,3,4,2,2,4,4,3,2,3,1,4,1,3,3,lscs,ts,anm
+394,Baja Bhagya laxmi,Baja Bhagya laxmi,33,33,TSMTO3,TSMTO3,8,8,Lingampet,Lingampet-A,16,16,9490678231,9490678231,11-03-2025,11-03-2025,2,2,3,3,4,4,4,4,1,4,1,1,1,4,1,1,1,4,1,1,lscs,ts,anm
+395,N. Shobha,N.Shobha,46,46,TSMTO3,TSMTO3,8,8,Gouliguda,Gouliguda,16,16,9951836639,9951836639,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+396,P suvarna,P suvarna,39,39,TSMTO3,TSMTO3,8,8,Domakonda b,Domakonda b,18,18,9177328285,9177328285,11-03-2025,11-03-2025,4,4,4,3,1,3,4,4,4,4,4,4,3,3,3,3,4,1,3,1,lscs,ts,anm
+397,Maddela palavva,Maddela palavva,36,36,TSMTO3,TSMTO3,8,8,SS Reddy,SS Reddy,17,17,9492312290,9492312290,11-03-2025,11-03-2025,4,4,3,4,4,4,3,1,2,2,4,3,1,1,1,3,1,4,3,3,lscs,ts,anm
+398,G indira,G indira,46,46,TSMTO3,TSMTO3,8,8,Pothaipally,Pothaipally,19,19,8463947409,8463947409,11-03-2025,11-03-2025,4,2,3,3,4,1,3,4,2,3,4,1,1,1,1,1,1,1,1,2,lscs,ts,anm
+399,Rojaramani,Gowrigari Rojaramani,52,52,TSMTO3,TSMTO3,8,8,Annaram,Annaram,25,25,8008817596,8008817596,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,3,4,4,3,3,3,1,4,3,3,lscs,ts,anm
+400,Halige Yashoda,Halige Yashoda,43,43,TSMTO3,TSMTO3,8,8,Essaipet,Essaipet,21,21,9652261513,9652261513,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+401,Chakali Bhagyasri,Ch Bhagyasri,42,40,TSMTO3,TSMTO3,8,8,Uthnoor,Uthnoor,3,3,8985047650,8985047650,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,1,1,3,1,1,3,3,lscs,ts,anm
+402,H. Yashoda,Hatkar Yashoda,45,45,TSMTO3,TSMTO3,8,8,Singaraipally,Singaraipally,17,17,9959415668,9959415668,11-03-2025,11-03-2025,4,4,4,4,1,1,4,4,3,3,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+403,Pillamari. Sujatha,P. Sujatha,38,38,TSMTO3,TSMTO3,8,8,Mothe,Mothe,3,3,9347501441,9347501441,11-03-2025,11-03-2025,4,2,2,2,4,4,2,3,3,2,4,4,3,3,3,1,4,4,3,3,lscs,ts,anm
+404,V. Padma,V. Padma,50,50,TSMTO3,TSMTO3,8,8,Petsangam,Petsangam,15,15,9505007394,9505007394,11-03-2025,11-03-2025,1,4,3,3,4,4,4,4,3,3,4,4,4,2,3,3,4,4,3,1,lscs,ts,anm
+405,Mandala manjula,Kasala manjula,39,39,TSMTO3,TSMTO3,8,8,Bhiknoor b,Bhiknoor b,18,18,9550288138,9550288138,11-03-2025,11-03-2025,4,4,3,4,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+406,Pittala Jhansirani,Pittala Jhansirani,45,45,TSMTO3,TSMTO3,8,8,Bhairapur,Bhairapur,22,22,9963066576,9963066576,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,2,2,4,4,1,4,1,3,4,4,1,3,lscs,ts,anm
+407,Pittla Praveena Laxmi,Pittla Praveena Laxmi,42,42,TSMTO3,TSMTO3,8,8,Gandivet,Gandivet,3,3,7095055115,7095055115,11-03-2025,11-03-2025,4,4,3,3,4,1,4,4,4,3,4,4,4,1,3,3,4,4,3,3,lscs,ts,anm
+408,R Bhagyalaxmi,R Bhagyalaxmi,29,29,TSMTO3,TSMTO3,8,8,Petsangam,Petsangam,3,3,9640011891,9640011891,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,2,2,1,4,3,2,1,3,1,4,3,3,lscs,ts,anm
+409,M Jhansi  Rani,M Jhansi,43,43,TSMTO3,TSMTO3,8,8,SOMESHWAR,SOMESHWAR,18,18,9494260068,9494260068,11-03-2025,11-03-2025,4,4,3,2,4,2,4,3,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+410,Lingayyagari Hemalatha,Lingayyagari Hemalatha,44,44,TSMTO3,TSMTO3,8,8,Peddamallareddy,Peddamallareddy,24,24,9963469695,9963469695,11-03-2025,11-03-2025,4,4,3,3,1,4,4,4,3,3,1,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+411,V.Anjali,V.Anjali,55,55,TSMTO3,TSMTO3,8,8,UfwcBanswada,UfwcBanswada,22,22,9000625429,9000625429,11-03-2025,11-03-2025,4,4,4,2,3,2,4,3,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+412,M. Durgamani,M. Durgamani,48,48,TSMTO3,TSMTO3,8,8,Deshaipet,Deshaipet,1976,17,9010280008,9010280008,11-03-2025,11-03-2025,4,4,4,3,4,4,4,3,4,4,4,4,3,1,3,3,4,4,3,3,lscs,ts,anm
+414,Mothe Bhargavi,Mothe Bhargavi,23,23,TSMTO3,TSMTO3,8,8,Nasurullabad,Nasurullabad,2,2,8186994365,8186994365,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+415,Shyamala kurra,K.Shyamala,39,39,TSMTO3,TSMTO3,8,8,Bhiknoor A,Bhiknoor A,16,16,9640070471,9640070471,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+416,Thogari Shyamala,Thogari Shyamala,44,44,TSMTO3,TSMTO3,8,8,Kachapoor,Kachapoor,18,18,9515752238,9515752238,11-03-2025,11-03-2025,4,4,3,3,1,2,3,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+417,Y.Anjanadevi pm,y.Anjanadevi,60,60,TSMTO3,TSMTO3,8,8,Nasrullabad,Birkoor,30,30,9908595977,9908595977,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+419,M Samadhana,M samadhana,1977,1977,TSMTO3,TSMTO3,8,8,Ibrahimpet,Ibrahimpet,17,17,9121481492,9121481492,11-03-2025,11-03-2025,4,4,3,3,4,3,4,4,4,3,4,4,3,3,3,3,2,4,3,3,lscs,ts,anm
+420,Bathini sujatha,B.sujatha,41,41,TSMTO3,TSMTO3,8,8,Somaram,Somaram,14,14,9573831591,9573831591,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+422,K Indira,K Indira,52,52,TSMTO3,TSMTO3,8,8,Somaram,Somaram,15,15,9493041946,9493041946,11-03-2025,11-03-2025,4,4,3,3,1,4,4,4,3,2,4,4,3,3,3,3,1,4,3,3,lscs,ts,anm
+425,Anuradha,halige Anuradha,40,40,TSMTO3,TSMTO3,8,8,Mirzapur,Mirzapur,15,15,7730034351,7730034351,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,4,2,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+427,K Yashoda,K Yashoda,48,48,TSMTO3,TSMTO3,8,8,Esannapally,Esannapally,18,18,9963643684,9963643684,11-03-2025,11-03-2025,4,4,3,2,3,4,3,4,3,3,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+428,G rdhika,G rdhika,42,43,TSMTO3,TSMTO3,8,8,Shetpally,Shetplly,19,19,9490018218,9490018218,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+429,Samala vanitha,Samala vanitha,38,38,TSMTO3,TSMTO3,8,8,Gandhari-A,Gandhari-A,15,15,9948305397,9948305397,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+430,Baluri  Savithri47,Baluri savithri,47,47,TSMTO3,TSMTO3,8,8,Hwc  neral,Neral,15,15,9848963529,9848963529,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+431,k sangeetha,k sangeetha,35,35,TSMTO3,TSMTO3,8,8,gandivet,gandivet,18,18,9848751943,9848751943,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+433,Penugobda Sandhya Rani,Penugonda Sandhya rani,35,35,TSMTO3,TSMTO3,8,8,Rajanagar,Rajanagar,2,2,9553142789,9553142789,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+437,Ippa Rajamani,Ippa Rajamani,49,49,TSMTO3,TSMTO3,8,8,Bhavanipet,Bhavanipet,29,29,8985305811,8985305811,11-03-2025,11-03-2025,4,4,4,4,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+438,G. Umadevi,G. Umadevi,48,48,TSMTO3,TSMTO3,8,8,Durki,Durki,21,21,9493020114,9493020114,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+439,M kalyani,M kalyani,36,36,TSMTO3,TSMTO3,8,8,Somaram,Somaram,15,15,9494859941,9494859941,11-03-2025,11-03-2025,4,4,3,3,4,2,3,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+441,B.Sumalatha,B.Sumalatha,37,37,TSMTO3,TSMTO3,8,8,Annaram,Annaram,18,18,9908571575,9908571575,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+442,Undavally Kavya,Undavally Kavya,37,37,TSMTO3,TSMTO3,8,8,Bhairapur,Bhairapur,18,18,9951898518,9951898518,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+443,K Gangamani,K Gangamani,1971,1971,TSMTO3,TSMTO3,8,8,Yellampet,Yellampet,18,18,9398717913,9398717913,11-03-2025,11-03-2025,4,2,3,3,1,4,4,4,1,3,4,3,1,3,1,3,4,4,2,3,lscs,ts,anm
+444,T Bhuvaneshwari,T Bhuvaneshwari,46,46,TSMTO3,TSMTO3,8,8,Reddipet,Reddipet,17,17,9948507181,9948507181,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,1,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+445,Pathipaka Jyothi,Pathipaka Jyothi,47,47,TSMTO3,TSMTO3,8,8,Issannapally,Issannapally,17,17,9390232262,9390232262,11-03-2025,11-03-2025,4,4,3,3,1,4,4,4,3,3,1,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+446,M surekha,M surekha,1983,41,TSMTO3,TSMTO3,8,8,Pothangal Khalan,Pothangal Khalan,18,18,9652290847,9652290847,11-03-2025,11-03-2025,4,4,3,3,2,4,4,4,3,1,4,4,4,4,3,3,4,4,3,3,lscs,ts,anm
+447,D Anjalidevi,D Anjalidevi,49,49,TSMTO3,TSMTO3,8,8,Bhavanipet,Bhavanipet,25,25,9666688551,9666688551,11-03-2025,11-03-2025,4,2,4,3,4,2,4,3,3,3,2,4,3,1,3,2,3,3,1,1,lscs,ts,anm
+451,s venkatalaxmi,s venkatalaxmi,37,36,TSMTO3,TSMTO3,8,8,Nasurullabad,nasrullabad,18,18,7382317187,7382317187,11-03-2025,11-03-2025,4,4,3,3,1,4,4,4,2,2,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+454,M  Rajeshwari,M  Rajeshwari,44,44,TSMTO3,TSMTO3,8,8,Bibipet  B,Bibipet  B,16,16,9912582005,9912582005,11-03-2025,11-03-2025,4,4,4,3,4,4,4,4,3,3,4,3,3,3,3,3,4,4,3,3,lscs,ts,anm
+456,Kolluri Swapna,K Swapna,36,36,TSMTO3,TSMTO3,8,8,Gargul,Gargul,18,18,9959811395,9959811395,11-03-2025,11-03-2025,2,2,3,3,1,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+461,M. Elizabeth,M. Elizabeth,1982,1982,TSMTO3,TSMTO3,8,8,Mothe,Mothey,17,17,9492729906,9492729906,11-03-2025,11-03-2025,4,2,3,3,2,1,4,3,1,2,1,4,2,3,1,3,1,4,1,1,lscs,ts,anm
+469,Athmakuri Renuka,Athmakuri Renuka,31,31,TSMTO3,TSMTO3,8,8,Bathukamma kunta,Bathukamma kunta,9,9,7993782134,7993782134,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+471,Ippa yadamma,I. Yadamma,43,43,TSMTO3,TSMTO3,8,8,Janagoan,Janagoan,22,24,9010267299,9010267299,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+477,S. Annapurna,S. Annapurna,58,58,TSMTO3,TSMTO3,8,8,Chinnamallareddy,Chinnamallareddy,30,30,9951328948,9951328948,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+481,D.Rajeshwari,D.Rajeshwari,49,49,TSMTO3,TSMTO3,8,8,Kyasampally,Kyasampally,26,26,7036245453,7036245453,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,1,3,4,4,4,3,4,3,4,4,3,3,lscs,ts,anm
+482,Gangaparthi Nagajyothi,Gangaparthi Nagajyothi,40,40,TSMTO3,TSMTO3,8,8,Chinnamallareddy,Chinnamallareddy,18,18,9441169476,9441169476,11-03-2025,11-03-2025,4,3,3,2,4,2,4,4,2,2,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+484,M. Padma,M. Padma,39,39,TSMTO3,TSMTO3,8,8,Somarpet,Somarpet,18,18,7893231971,7893231971,11-03-2025,11-03-2025,4,4,3,3,4,4,3,3,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+488,Sundaramma,Sundaramma,47,47,TSMTO3,TSMTO3,8,8,Bibipet A,Bibipet A,26,26,6309717825,6309717825,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+498,Ch Padma,Ch Padma,46,46,TSMTO7,TSMTO7,27,27,Palamakula,Palamakula,18,18,9618515102,9618515102,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+499,Dasari Balamani,Dasari Balamani,48,46,TSMTO7,TSMTO7,27,27,Allipur,Allipur,17,17,9177332316,9177332316,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,1,3,1,lscs,ts,anm
+500,M Laxmi,M Laxmi,49,48,TSMTO7,TSMTO7,27,27,Veerareddypally,Veerareddypally,22,22,9701544802,9701544802,11-03-2025,11-03-2025,4,4,3,3,1,1,4,4,2,3,1,3,3,3,1,3,4,1,1,1,lscs,ts,anm
+501,B Jamuna,B Jamuna,34,34,TSMTO7,TSMTO7,27,27,Potharam,Potharam,4,4,8374671815,8374671815,11-03-2025,11-03-2025,4,4,3,4,4,4,4,3,2,4,4,3,3,3,3,3,4,4,3,3,lscs,ts,anm
+502,Asa Pushpalatha,Asa Pushpalatha,49,49,TSMTO7,TSMTO7,27,27,Dharmajipet,Dharmajipet,17,17,9676267026,9676267026,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,2,4,4,3,3,3,3,3,4,4,3,3,lscs,ts,anm
+503,C Saileela,C Saileela,28,28,TSMTO7,TSMTO7,27,27,Potharam,Potharam,4,4,9912069745,9912069745,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,4,4,3,3,3,3,3,4,4,3,3,lscs,ts,anm
+504,A Vijaya,A Vijaya,44,44,TSMTO7,TSMTO7,27,27,Mirdoddi,Mirdoddi,18,18,9502587170,9502587170,11-03-2025,11-03-2025,4,4,3,3,3,4,4,4,4,3,4,4,3,2,3,3,4,4,3,3,lscs,ts,anm
+505,Bandimangamma123@gmail.com,B mangamma,45,45,TSMTO7,TSMTO7,27,27,Jakkapur,Jakkapur,19,19,9550043652,9550043652,11-03-2025,11-03-2025,4,4,3,3,1,4,4,4,4,2,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+506,G.bharathi,G Bharathi,1970,1970,TSMTO7,TSMTO7,27,27,Laxmidavipally,Laxmidevipally,18,18,9949184170,9949184170,11-03-2025,11-03-2025,4,4,1,3,2,1,1,1,3,3,3,4,3,1,2,1,1,1,4,3,lscs,ts,anm
+508,A kavitha,A kavitha,37,37,TSMTO7,TSMTO7,27,27,PHC RAMAKKAPET  s/c  Cheekode,Cheekode,4,4,9849871217,9849871217,11-03-2025,11-03-2025,4,4,3,3,1,4,4,1,1,2,3,3,4,1,2,1,1,3,3,1,lscs,ts,anm
+509,Bhagyamma,Bhagyamma,36,36,TSMTO7,TSMTO7,27,27,Chowdram,Chowdram,3,3,9949042849,9949042849,11-03-2025,11-03-2025,1,1,1,3,1,2,4,4,4,4,4,4,4,2,3,3,4,4,3,1,lscs,ts,anm
+510,A shailaja,A shailaja,17,42,TSMTO7,TSMTO7,27,27,Dommat,Dommat,17,17,9676297524,9676297524,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+511,Pushpalatha,Pushpalatha,42,42,TSMTO7,TSMTO7,27,27,Mubaraspur,Mubaraspur,17,17,6281003695,6281003695,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+512,S Anasuya,S Anasuya,45,45,TSMTO7,TSMTO7,27,27,Chepyal,Chepyala,17,17,7675819194,7675819194,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,4,4,3,3,4,4,3,3,lscs,ts,anm
+513,Ganta Mallavva,G. Mallavva,48,48,TSMTO7,TSMTO7,27,27,Andey,Andey,17,18,9959005753,9959005753,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,4,4,3,3,4,4,3,3,lscs,ts,anm
+514,D Padma,D Padma,37,37,TSMTO7,TSMTO7,27,27,Chepyal,Chepyal,16,16,8008007556,8008007556,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+515,M Laxmi,M Laxmi,38,38,TSMTO7,TSMTO7,27,27,Venkatraopet,Venkatraopet,17,17,9959565736,9959565736,11-03-2025,11-03-2025,2,4,3,3,1,4,4,4,4,2,4,3,1,3,3,3,4,3,3,1,lscs,ts,anm
+516,Dasari Surekha,D surekha,40,40,TSMTO7,TSMTO7,27,27,Vittalapur,Vittalapur,18,18,9133110369,9133110369,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+517,Gudumalla Thirumala,Gudumalla Thirumala oo,44,44,TSMTO7,TSMTO7,27,27,Chandlapur,Chandlapur,17,17,9550800776,9550800776,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,1,3,3,4,4,3,3,lscs,ts,anm
+518,D Kanakalaxmi,D Kanakalaxmi,37,37,TSMTO7,TSMTO7,27,27,Chinnakodur,Chinnakodur,17,17,9182338594,9182338594,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,1,3,1,4,4,3,3,lscs,ts,anm
+519,K.Narsamma,K.Narsamma,59,59,TSMTO7,TSMTO7,27,27,Alwal,Alwal,26,26,9989627563,9989627563,11-03-2025,11-03-2025,4,4,3,3,3,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+520,Kolanu Chandrakala,Kolanu Chandrakala,49,49,TSMTO7,TSMTO7,27,27,Ramancha,Ramancha,17,17,9505919937,9505919937,11-03-2025,11-03-2025,4,4,4,3,4,4,4,4,2,2,4,4,3,1,3,3,4,4,3,3,lscs,ts,anm
+521,CH kavitha,CH kavitha,2021,1985,TSMTO7,TSMTO7,27,27,Pullur,Pullur,4,4,8499994992,8499994992,11-03-2025,11-03-2025,4,4,4,3,3,4,4,4,4,3,4,4,4,3,4,4,4,1,4,1,lscs,ts,anm
+522,Kandhi Balamani,Kandhi Balamani,53,53,TSMTO7,TSMTO7,27,27,Mandapally,Mandapally,22,22,8121932275,8121932275,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,1,3,3,3,3,4,4,3,1,lscs,ts,anm
+523,M Bhagyachakram,M Bhagyachakram,51,51,TSMTO7,TSMTO7,27,27,Medipally,Medipally,22,23,8897778944,8897778944,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,2,2,1,1,1,3,3,3,4,4,1,1,lscs,ts,anm
+524,G Bhagyalaxmi,G Bhagyalaxmi,1985,1985,TSMTO7,TSMTO7,27,27,Lingareddypally,Lingareddypally,4,4,9701447747,9701447747,11-03-2025,11-03-2025,4,4,2,3,4,4,4,4,4,3,4,1,3,3,3,3,4,4,3,1,lscs,ts,anm
+525,R Meenakshi,R Meenakshi,49,22,TSMTO7,TSMTO7,27,27,Mubaraspur,Mubaraspur,22,22,9963754562,9963754562,11-03-2025,11-03-2025,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,3,4,4,3,3,lscs,ts,anm
+527,P.Karuna.kumari,P.Karuna.Kumari,43,43,TSMTO7,TSMTO7,27,27,Doulthabad,Doulthabad,17,17,9704877317,9704877317,11-03-2025,11-03-2025,4,4,3,3,1,4,4,4,2,3,4,4,3,3,3,3,1,4,1,1,lscs,ts,anm
+529,Malyala Jaya,M Jaya,52,52,TSMTO7,TSMTO7,27,27,Ramancha,Ramancha,28,52,9885959465,9885959465,11-03-2025,11-03-2025,4,4,3,3,1,4,3,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+530,Nanam Sujatha,N Sujatha,35,35,TSMTO7,TSMTO7,27,27,Irkode,Irkode,17,18,9182761716,9182761716,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,4,3,4,1,3,3,1,3,4,4,3,3,lscs,ts,anm
+531,Ch Mamatha,Ch Mamatha,35,35,TSMTO7,TSMTO7,27,27,Rajagopalpet,Rajagopalpet,16,16,8985891251,8985891251,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+533,P Usharani,PUsharani,31,31,TSMTO7,TSMTO7,10,10,Kamepally,Kamepally,9,9,9182878770,9182878770,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+534,V Sandhyarani,V Sandhyarani,46,46,TSMTO7,TSMTO7,10,10,Rajeswarapuram,Rajeswarapuram,18,18,9948112815,9948112815,04-03-2025,04-03-2025,4,4,4,2,4,4,4,4,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+536,R Ramadevi,Ramadevi,1981,43,TSMTO7,TSMTO7,10,10,Ayyagaripeta,Ayyagaripeta,17,17,9397876064,9397876064,04-03-2025,04-03-2025,4,4,3,4,4,4,3,3,1,3,1,2,3,3,4,3,4,3,3,3,lscs,ts,anm
+537,D sujathabhai,D sujathabhai,45,45,TSMTO7,TSMTO7,10,10,Rajupeta,Rajupeta,16,16,9603622680,9603622680,04-03-2025,04-03-2025,4,4,4,3,4,4,4,4,2,2,4,4,3,3,3,1,4,4,3,3,lscs,ts,anm
+539,Surabaka Siromani,Surabaka Siromani,1992,1992,TSMTO7,TSMTO7,10,10,Sriramagiri,Sriramagiri,3,3,8374864637,8374864637,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+540,Lanitha,L Anitha,28,28,TSMTO7,TSMTO7,10,10,Singareni,Singareni,9,9,9100263728,9100263728,11-07-2016,04-03-2025,4,4,3,3,4,4,3,3,2,2,4,4,3,3,3,3,4,1,3,1,lscs,ts,anm
+541,Murikipudi Ramadevi,Murikipudi Ramadevi,34,34,TSMTO7,TSMTO7,10,10,Seetharampuram,Seetharampuram,16,16,8008078849,8008078849,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+542,K Sunitha,K Sunitha,51,51,TSMTO7,TSMTO7,10,10,Jujjulraopeta,Jujjulraopeta,16,16,8897763178,8897763178,04-03-2025,04-03-2025,4,4,2,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+543,Guguloth Vijaya Laxmi,Guguloth Vijaya Laxmi,34,34,TSMTO7,TSMTO7,10,10,Karepalli 2,Karepalli 2,9,9,9550043234,9550043234,11-07-2016,04-03-2025,4,4,3,3,4,3,3,3,2,2,4,4,3,3,3,3,4,3,3,1,lscs,ts,anm
+544,Kunja Meena,K . Meena,31,31,TSMTO7,TSMTO7,10,10,Mucherla,Mucherla,9,9,9704743375,9704743375,04-03-2025,04-03-2025,4,4,3,3,4,4,4,3,3,3,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+545,Byram varalaxmi,B varalaxmi,42,42,TSMTO7,TSMTO7,10,10,Peddamunagala,Peddamunagala,16,16,9493808340,9493808340,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+546,E Nagamani,E Nagamani,37,36,TSMTO7,TSMTO7,10,10,Lankasagar,Lankasagar,17,17,9989017648,9989017648,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,1,1,1,1,4,3,1,3,lscs,ts,anm
+547,D Aruna kumari,D Arunakumari,48,48,TSMTO7,TSMTO7,10,10,Kunchaparthi,Kunchaparthi,17,17,9704669806,9704669806,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+549,Jalagam,Jalagam Umadevi,36,36,TSMTO7,TSMTO7,10,10,Pallipadu,Pallipadu,16,16,9908917811,9908917811,04-03-2025,04-03-2025,2,4,4,2,1,4,4,4,1,1,4,4,3,3,3,3,2,4,3,1,lscs,ts,anm
+550,T jayamma,Tjayamma,50,50,TSMTO7,TSMTO7,10,10,Peddha beravalli,Peeddaberavalli,16,16,9550370089,9550370089,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,1,3,4,4,1,3,3,3,4,2,1,1,lscs,ts,anm
+551,Joga Mangathayaru,J Mangathayaru,38,38,TSMTO7,TSMTO7,10,10,Baswapuram,Baswapuram,17,17,9618680090,9618680090,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+553,M Sandhya Rani,M Sandhya Rani,38,38,TSMTO7,TSMTO7,10,10,Pandillapalli,Pandillapalli,18,18,9948470663,9948470663,04-03-2025,04-03-2025,4,2,3,3,4,4,4,4,2,2,1,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+554,Sidhaboena Rupamma,Sidhaboena Rupamma e,1974,1974,TSMTO7,TSMTO7,10,10,Ponnekallu,Kamepally,9,9,9963808269,9963808269,04-03-2025,04-03-2025,4,4,4,4,4,4,4,4,1,3,2,3,2,3,3,3,4,4,3,3,lscs,ts,anm
+555,B Leela bai,B Leela bai,45,17,TSMTO7,TSMTO7,10,10,Bhagya nagar thanda,Bhagya nagar thanda,17,17,9618072576,9618072576,04-03-2025,04-03-2025,4,4,4,3,4,4,4,4,4,4,4,4,2,1,3,3,4,4,3,3,lscs,ts,anm
+556,Boda aruna kumari,Bod arunakumari,37,37,TSMTO7,TSMTO7,10,10,Tlpeta,Tlpeta,15,15,9959443072,9959443072,03-03-2025,04-03-2025,4,1,3,2,3,2,4,4,2,2,4,3,2,4,3,3,4,4,3,2,lscs,ts,anm
+557,U vijayakumari a,U vijayakumari anm,40,40,TSMTO7,TSMTO7,10,10,Kamalapuram,Kamalapuram,9,9,8106339123,8106339123,04-03-2025,04-03-2025,4,4,2,3,4,4,4,4,4,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+558,T V Ratnam,V Ratnam,42,42,TSMTO7,TSMTO7,10,10,Kalakota,Kalakota,17,16.6,9014133260,9014133260,04-03-2025,04-03-2025,4,4,3,3,4,4,3,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+559,T Padmavathi,T Padmavathi,57,57,TSMTO7,TSMTO7,10,10,MNP Unit,Mnp unit,29,29,9963852378,9963852378,04-03-2025,04-03-2025,4,4,3,3,4,3,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+560,Bj Lalitha kumari,Bj Lalitha kumari,54,54,TSMTO7,TSMTO7,10,10,Tlpeta,Tlpeta,33,32,9000571986,9000571986,04-03-2025,04-03-2025,4,2,4,3,4,4,4,4,3,2,4,4,2,3,2,3,4,4,3,2,lscs,ts,anm
+561,B.sony,B sony,50,8008325233,TSMTO7,TSMTO7,10,10,Koyachalak,Koyachalaka,29,29,8008325233,8008325233,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+562,S Gopamma,S Gopamma,33,32,TSMTO7,TSMTO7,10,10,Kavirajnagar,Kavirajnagar,7,6,6305483698,6305483698,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+563,P Satyavani,P Satyavani,45,50,TSMTO7,TSMTO7,10,10,Mahadevapuram,Mahadevapuram,18,17,9676626139,9676626139,04-03-2025,04-03-2025,3,4,2,3,2,1,2,4,2,3,2,4,2,3,3,3,3,2,2,3,lscs,ts,anm
+564,Lagadapati Ratnamala,L Ratnamala,52,52,TSMTO7,TSMTO7,10,10,Dendukuru,Dendukuru,29,29,9494317555,9494317555,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+565,K. Suguna,K. Suguna,52,52,TSMTO7,TSMTO7,10,10,Meenavolu,Meenavolu,52,26,9908705886,9908705886,04-03-2025,04-03-2025,4,4,3,3,4,4,3,4,3,3,4,4,3,3,4,3,4,4,3,3,lscs,ts,anm
+566,Maloth Nirmala,Maloth Nirmala,34,34,TSMTO7,TSMTO7,10,10,Nacharam,Nacharam,17,17,9866884831,9866884831,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+567,Syamala,Syamala,35,35,TSMTO7,TSMTO7,10,10,Gandhi nagar,Gandhi nagar,14,14,9581142423,9581142423,04-03-2025,04-03-2025,4,4,2,3,4,4,4,4,3,3,3,1,1,3,4,3,4,4,3,1,lscs,ts,anm
+568,Sk Fathima,SK Fathima,51,51,TSMTO7,TSMTO7,10,10,Mustikuntla,Mustikuntla,22,51,9346369381,9346369381,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+570,E Radhika,Erpa Radhika,33,33,TSMTO7,TSMTO7,10,10,vootukur,vootukur,7993852524,4,7993852524,7993852524,04-03-2025,04-03-2025,1,2,3,4,2,4,4,4,3,2,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+571,????? ????? ????,B KRISHNAVENI,45,45,TSMTO7,TSMTO7,10,10,??????????????,Jujjulraopeta,24,16,9550430477,9550430477,04-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+572,Varsa Kamala,Varsa Kamala,37,37,TSMTO7,TSMTO7,10,10,Ontigudise,Ontigudise,17,17,9704656348,9704656348,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+573,Thalluri rohini,T rohini,60,60,TSMTO7,TSMTO7,10,10,Cheravumadaram,Cheruvumadhram,29,29,9866711482,9866711482,04-03-2025,04-03-2025,4,4,3,3,4,1,4,4,2,3,1,1,3,4,3,2,4,1,3,1,lscs,ts,anm
+574,B Divya,B Divya,43,43,TSMTO7,TSMTO7,10,10,Pallipadu,Pallipadu,17,17,6281701398,6281701398,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,2,4,3,3,lscs,ts,anm
+575,konakandla suguna,konakandla suguna,53,53,TSMTO7,TSMTO7,10,10,Vallabhi,Vallabhi,32,32,9502045371,9502045371,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,1,4,4,3,1,lscs,ts,anm
+576,Charla  Thirupathamma,Charla Thirupathamma,52,52,TSMTO7,TSMTO7,10,10,Chirunomula,Chirunomula,22,22,9182504156,9182504156,04-03-2025,04-03-2025,2,4,4,3,1,1,4,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+577,D. Chandrakala,D Chandrakala,28,28,TSMTO7,TSMTO7,10,10,Suryathanda,Suryathanda,9,9,7658997237,7658997237,09-07-2016,04-03-2025,4,4,3,3,4,4,3,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+578,Dharavath Jyothi,Dharavath Jyothi,45,45,TSMTO7,TSMTO7,10,10,Ontigudise,Ontigudise,15,15,9701030789,9701030789,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+579,SB Vijaya Nirmala,SB Vijaya Nirmala,52,51,TSMTO7,TSMTO7,10,10,Rajeswarapuram,Rajeswarapuram,32,32,9704542082,9704542082,04-03-2025,04-03-2025,4,4,3,1,1,4,4,3,3,3,4,4,4,3,1,3,4,4,1,3,lscs,ts,anm
+580,K Nageswaramma,K Nageswaramma,55,55,TSMTO7,TSMTO7,10,10,Burada Ragapuram,Burada Ragapuram,14,14,9948278730,9948278730,04-03-2025,04-03-2025,3,4,4,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+581,Ch muntaz,Chichadi muntaz,56,56,TSMTO7,TSMTO7,10,10,Govindrala,Govindrala,27,27,7382090955,7382090955,04-03-2025,04-03-2025,4,4,3,3,4,2,4,4,4,2,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+582,Bodapatla Rajeswari,Bodapatla Rajeswari,1976,1976,TSMTO7,TSMTO7,10,10,Vallabhi,Vallabhi,17,17,9948712659,9948712659,10-12-2024,04-03-2025,4,4,4,3,4,4,4,4,3,1,4,4,3,4,3,3,4,4,3,3,lscs,ts,anm
+583,K.jayalaxmi,K.Jayalaxmi,57,57,TSMTO7,TSMTO7,10,10,Chennaram,Chennaram,29,29,9963841817,9963841817,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+585,Dharavath sunitha,D sunitha,45,45,TSMTO7,TSMTO7,10,10,Jannaram,Jannaram,14,15,9502883834,9502883834,04-03-2025,04-03-2025,4,4,3,3,4,1,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+586,Janaki,Janaki,59,59,TSMTO7,TSMTO7,10,10,Kamalapuram,Kamalapuram,30,29,8790417881,8790417881,03-03-2025,04-03-2025,1,4,1,3,1,4,4,4,4,3,1,4,4,4,4,3,4,4,1,3,lscs,ts,anm
+587,Puppula janakidevi,Pappula janakidevi,59,59,TSMTO7,TSMTO7,10,10,Pocharam,Pocharam,32,32,9440380135,9440380135,04-03-2025,04-03-2025,4,4,3,4,1,4,4,4,1,3,4,4,3,4,3,3,4,4,3,3,lscs,ts,anm
+588,P Abeda,P Abeda,50,50,TSMTO7,TSMTO7,10,10,Ananthanagar,Ananthanagar,18,18,9505804066,9505804066,04-03-2025,04-03-2025,4,4,3,3,4,4,3,3,1,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+589,P prameelarani,P.prameelarani0,55,55,TSMTO7,TSMTO7,10,10,Khanapuram,Khanapuram,23,22,9848341925,9848341925,04-03-2025,04-03-2025,4,4,4,3,1,4,4,4,2,1,3,4,1,1,3,3,1,4,1,3,lscs,ts,anm
+590,Saathupati Nagendramma,Saathupati Nagendramma,1980,42,TSMTO7,TSMTO7,10,10,Barlagudem,Barlagudem,9,9,6305320388,6305320388,04-03-2025,04-03-2025,4,4,4,3,1,1,4,4,4,4,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+591,Ka.thi  Geetha bai,Kalthi Geetha bai,45,45,TSMTO7,TSMTO7,10,9,Vootkuru Vootkuru,Vootkuru,9,9,7207373770,7207373770,04-03-2025,04-03-2025,4,4,3,3,2,2,4,3,2,2,4,2,1,3,3,3,4,1,3,3,lscs,ts,anm
+592,B. Padmavathi,B. Padmavathi ho,49,49,TSMTO7,TSMTO7,10,10,Kodumuru,Kodumuru,28,28,9391261257,9391261257,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,1,3,4,4,1,3,lscs,ts,anm
+593,V sreedevi,V sreedevi,39,39,TSMTO7,TSMTO7,10,10,Nelapatla,Nelapatla,16,16,9912517002,9912517002,04-03-2025,04-03-2025,2,2,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,1,1,lscs,ts,anm
+595,????????.?????,T Varamma,50,50,TSMTO7,TSMTO7,10,10,Konijerla,Konijerla,31,31,9642920004,9642920004,04-03-2025,04-03-2025,2,2,4,2,2,1,4,4,3,2,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+596,T Mariyamma,T Mariyamma,48,48,TSMTO7,TSMTO7,10,10,Narayanapuram,Narayanapuram,15,15,9652241457,9652241457,04-03-2025,04-03-2025,4,4,4,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,4,lscs,ts,anm
+597,M pushpavathi,M. Pushpavathi,49,49,TSMTO7,TSMTO7,10,10,Vvpalem,Vvpalem,29,29,9177484924,9177484924,04-03-2025,04-03-2025,1,4,3,3,2,4,4,4,3,2,4,4,3,3,3,1,4,4,3,1,lscs,ts,anm
+598,P Nagamani,P Nagamani,45,46,TSMTO7,TSMTO7,10,10,Nelakondapalli,Nelakondapalli,16,16,9640762120,9640762120,04-03-2025,04-03-2025,4,4,4,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+599,P Sandhya,P Sandhya,49,49,TSMTO7,TSMTO7,10,10,Ppunit,Ppunit madhira,29,29,9573542047,9573542047,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+600,Amarlapudi Lalithakumari,A Lalithakumari,1980,44,TSMTO7,TSMTO7,10,10,Chinnamandava,Chinnamandava,18,18,9177436879,9177436879,04-03-2025,04-03-2025,4,2,3,3,2,4,4,4,3,2,3,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+601,Chintha  Guruvamma,Ch Guguvamma,53,17,TSMTO7,TSMTO7,10,10,Govindrala,Govindrala,17,17,9866456267,9866456267,04-03-2025,04-03-2025,4,2,4,2,1,1,4,4,4,4,4,4,3,3,3,2,4,1,1,3,lscs,ts,anm
+602,M chandrakala,M chandrakala,35,35,TSMTO7,TSMTO7,10,10,KG SIRIPURAM,Kg siripuram,9,9,9100128308,9100128308,04-03-2025,04-03-2025,4,4,3,3,4,2,4,4,1,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+603,S VIJAYALAXMI,S VIJAYALAXMI,49,49,TSMTO7,TSMTO7,10,10,Annarugudem,Annarugudem,27,27,7382716323,7382716323,04-03-2025,04-03-2025,4,4,3,3,4,4,3,4,3,3,4,4,4,4,3,3,4,4,3,3,lscs,ts,anm
+605,G Dhana Lakshmi,G Dhana Lakshmi,38,38,TSMTO7,TSMTO7,10,10,Kusumachi,Kusumachi,16,16,9912833528,9912833528,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+606,BANOTH SANDHYA RANI,B sandhya Rani,24,24,TSMTO7,TSMTO7,10,10,Srinagar colony,Srinagar colony,3,3,9390762464,9390762464,04-03-2025,04-03-2025,2,2,1,1,2,1,3,2,4,2,4,4,3,4,3,3,4,1,4,3,lscs,ts,anm
+607,Sumathi pachigulla,Sumathi pachigulla,46,46,TSMTO7,TSMTO7,10,10,Kistaram,Kistaram,17,17,9177891677,9177891677,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,1,4,3,3,lscs,ts,anm
+608,Sk Raheembi,Sk Raheembi,32,31,TSMTO7,TSMTO7,10,10,Bank colony,Bank colony,7,7,9542493437,9542493437,04-03-2025,05-03-2025,4,4,2,2,4,4,4,4,4,2,4,4,3,3,3,2,4,4,3,3,lscs,ts,anm
+609,B vasantharani,B vasantharani,1979,1979,TSMTO7,TSMTO7,10,10,Garikapadu,Garikapadu,17,16,7032625852,7032625852,04-03-2025,04-03-2025,4,4,1,1,1,4,4,4,1,4,3,4,3,3,1,1,4,1,3,3,lscs,ts,anm
+611,Dasari Manohara vara kumari,D. Manohara vara kumari,54,54,TSMTO7,TSMTO7,10,10,Thallada,Thallada,12,12,9100506026,9100506026,03-03-2025,03-03-2025,4,4,3,3,4,4,3,4,2,2,4,4,3,3,3,3,4,2,3,3,lscs,ts,anm
+613,D Shireesha,D Shireesha,38,38,TSMTO7,TSMTO7,27,27,Bairanpally,Bairanpally,16,16,9666424484,9666424484,10-03-2025,10-03-2025,2,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+614,P.jyothikumari,P.jyothikum inari,46,46,TSMTO7,TSMTO7,27,27,Maddur,Maddur,15,16,7993814393,7993814393,10-03-2025,10-03-2025,1,4,2,3,4,4,3,3,2,3,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+615,P vijjayalaxmi,P vijayalaxmi,50,50,TSMTO7,TSMTO7,27,27,Mangole,Mangole,29,29,9666919863,9666919863,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,2,3,3,3,3,4,4,3,3,lscs,ts,anm
+616,M Rekha,M Rekha,25,25,TSMTO7,TSMTO7,27,27,Salakpoor,Salakpoor,4,4,9618863930,9618863930,10-03-2025,10-03-2025,1,4,2,2,1,4,3,4,4,1,1,4,4,3,1,3,4,4,1,3,lscs,ts,anm
+617,Hameeda,Hameeda,34,34,TSMTO7,TSMTO7,27,27,Duddeda,Duddeda,16,16,9502585939,9502585939,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+618,D Nagalaxmi,D Nagalaxmi,44,45,TSMTO7,TSMTO7,27,27,Medinipur,Medinipur,16,16,9652298209,9652298209,10-03-2025,10-03-2025,4,4,4,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+619,G Devalaxmi,G Devalaxmi,39,39,TSMTO7,TSMTO7,27,27,Medinipur,Medinipur,16,16,9676596608,9676596608,10-03-2025,10-03-2025,4,4,4,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+620,E Elishamma,E Elishamma,46,46,TSMTO7,TSMTO7,27,27,Kurella,Kurella,16,16,9948036567,9948036567,10-03-2025,10-03-2025,4,4,3,3,4,4,3,4,2,3,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+621,A.Karunavathi,A.Karunavathi,50,50,TSMTO7,TSMTO7,27,27,Raorukula,Raorukula,18,18,9704931390,9704931390,10-03-2025,10-03-2025,4,4,4,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+622,K. Laxmi,K. Laxmi,54,56,TSMTO7,TSMTO7,27,27,Baswapur,Baswapur,26,26,9000190534,9000190534,10-03-2025,10-03-2025,4,4,4,2,3,4,4,4,3,4,4,4,4,1,2,3,4,4,3,1,lscs,ts,anm
+623,L Yadamma,L Yadamma,45,45,TSMTO7,TSMTO7,27,27,Ladnoor,Ladnoor,16,16,9989251042,9989251042,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,4,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+624,B Paranjyothi,Paranjyothi,45,45,TSMTO7,TSMTO7,27,27,ITIKYAL,Itikyal,18,18,9908426075,9908426075,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+625,Kanikaram.Lalitha,K Lalitha,45,45,TSMTO7,TSMTO7,27,27,Rebarthy,Rebarthy,16,16,9676715765,9676715765,10-03-2025,10-03-2025,4,4,3,4,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+626,J Rathnakumari,J Rathnakumari,48,48,TSMTO7,TSMTO7,27,27,Bairanpally,Bairanpally,17,17,9440061108,9440061108,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,4,3,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+627,Gowraboina Rajasri,G Rajasri,45,45,TSMTO7,TSMTO7,27,27,JANAGAM,JANAGAM,16,16,9912117748,9912117748,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,4,3,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+628,K.Ramya,K.Ramya,25,25,TSMTO7,TSMTO7,27,27,Dhoolimitta,Dhoolimitta,4,4,9398530836,9398530836,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+629,Shareena,Shareena,42,42,TSMTO7,TSMTO7,27,27,Akkannapet,Akkannapet,15,15,9618983188,9618983188,10-03-2025,10-03-2025,4,4,4,3,4,4,4,4,2,3,4,4,3,3,1,3,4,4,1,3,lscs,ts,anm
+630,M Jhansilaxmi,M Jhansilaxmi,38,38,TSMTO7,TSMTO7,27,27,Sirisangandla,Sirisangandla,16,16,9676237695,9676237695,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+631,Thadichettu Rajakumari,T Rajakumari,49,49,TSMTO7,TSMTO7,27,27,Kondapak -A,Kondapak -A,16,16,9652625725,9652625725,10-03-2025,10-03-2025,4,4,3,3,2,2,4,4,3,3,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+632,P Ballaxmi,P Ballaxmi,45,45,TSMTO7,TSMTO7,27,27,Bandaram,Bandaram,2009,2009,9177605136,9177605136,10-03-2025,10-03-2025,4,3,4,4,4,4,4,4,3,1,4,3,4,4,3,3,4,4,1,3,lscs,ts,anm
+633,D Ramdevi,DRAMADEVI,35,35,TSMTO7,TSMTO7,27,27,Katkur,Katkur,17,17,9701782889,9701782889,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+634,B veena,B veena,36,36,TSMTO7,TSMTO7,27,27,Begumpet,Begumpet,17,17,9492982410,9492982410,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,4,4,3,3,4,4,3,3,lscs,ts,anm
+635,M Saroja,M Saroja,38,38,TSMTO7,TSMTO7,27,27,Kallepally,Kallepally,18,18,9676367797,9676367797,10-03-2025,10-03-2025,4,4,2,3,4,2,4,4,3,3,4,4,2,3,3,3,4,4,1,3,lscs,ts,anm
+636,B Rathnamm,BRathnamma,1976,40,TSMTO7,TSMTO7,27,27,GagillPur,Gagillapur,24,20,9705628515,9705628515,10-03-2025,10-03-2025,4,4,3,2,4,4,4,3,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+637,G Sharada,G Sharada,36,36,TSMTO7,TSMTO7,27,27,Kachapur,Kachapur,16,16,9618739657,9618739657,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+638,M. Ramadevi,M. Ramadevi,51,51,TSMTO7,TSMTO7,27,27,Samudrala,Samudrala,22,23,9491177716,9491177716,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+639,S.Vanikumari,S.vanikumari,52,52,TSMTO7,TSMTO7,27,27,Bejjanki,Bejjanki,25,25,8985424259,8985424259,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,2,3,3,4,4,1,3,lscs,ts,anm
+640,Erra Sunitha,Erra Sunitha,1984,1984,TSMTO7,TSMTO7,27,27,Shanigaram,Shanigaram,4,4,8143923787,8143923787,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,4,3,4,4,3,3,3,2,4,4,3,3,lscs,ts,anm
+641,K Jyothilaxmi,Jyothilaxmi,1985,1985,TSMTO7,TSMTO7,27,27,Samudrala,Samudrala,17,17,7702792915,7702792915,10-03-2025,10-03-2025,4,4,3,3,4,4,3,3,3,3,4,4,3,3,3,2,4,4,3,1,lscs,ts,anm
+642,B Meena,B Meena,40,40,TSMTO7,TSMTO7,27,27,Mamidyal,Mamidyal,17,17,9542227242,9542227242,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,4,3,3,3,4,4,1,3,lscs,ts,anm
+644,B nirmala,B Normals,1979,18,TSMTO7,TSMTO7,27,27,Gagillapur,Gagillapur,18,18,8179883326,8179883326,10-03-2025,10-03-2025,4,4,4,3,4,4,4,4,4,3,3,4,3,3,4,2,4,4,1,3,lscs,ts,anm
+645,Soundarya,D.Soundarya,26,26,TSMTO7,TSMTO7,27,27,Ladnoor S/c,S/c Ladnoor,1,1,9014909053,9014909053,10-03-2025,10-03-2025,4,4,3,3,4,4,4,1,4,3,4,4,1,1,1,3,4,4,3,3,lscs,ts,anm
+646,B. Neeraja,B. Neeraja,38,38,TSMTO7,TSMTO7,27,27,Thangallapally,Thangallapally,17,17,7995688919,7995688919,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,4,1,4,4,3,1,3,3,4,4,3,1,lscs,ts,anm
+647,J Rajitha,J Rajitha,38,38,TSMTO7,TSMTO7,27,27,Katkur,Katkur,18,18,9963865997,9963865997,10-03-2025,10-03-2025,4,4,3,3,4,4,3,4,4,4,4,4,3,4,2,3,4,1,2,3,lscs,ts,anm
+649,Chinnapally Kavitha,Ch kavitha,45,45,TSMTO7,TSMTO7,27,27,Salakpur,Salakpur,16,16,9491970239,9491970239,10-03-2025,10-03-2025,4,4,3,3,4,4,4,3,4,4,4,4,4,4,3,2,1,3,1,3,lscs,ts,anm
+650,G Chandrakala,G Chandrakala,53,25,TSMTO7,TSMTO7,27,27,Jangamu,Jangamu,25,25,8187071652,8187071652,10-03-2025,11-03-2025,1,1,1,3,1,4,3,4,2,2,4,4,3,3,2,1,4,4,1,1,lscs,ts,anm
+651,G Swaroopa Rani,G Swaroopa Rani,1982,43,TSMTO7,TSMTO7,27,27,Marpadaga,Marpadaga,16,16,9550561753,9550561753,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,1,3,3,3,4,4,1,3,lscs,ts,anm
+653,G jyothi,G jyothi,40,40,TSMTO7,TSMTO7,27,27,Ramchandrapur,Ramchandrapur,17,17,9440995253,9440995253,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,4,4,4,3,1,lscs,ts,anm
+654,Md Asiya begum,Md Aasiya begum,31,31,TSMTO7,TSMTO7,27,27,Mamidyal,Mamidyal,3,3,8374218875,8374218875,10-03-2025,17-03-2025,4,4,3,3,4,4,4,3,2,3,3,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+655,Bingi Lalitha,Bingi Lalitha Thipparam,36,36,TSMTO7,TSMTO7,27,27,Thipparam,Thipparam,16,16,9618497204,9618497204,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+656,Mandha Swaroopa,Mandha Swaroopa,1972,52,TSMTO7,TSMTO7,27,27,Ramchendrapur,Ramchendrapur,27,27,9492982608,9492982608,10-03-2025,10-03-2025,4,4,3,3,4,4,4,3,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+657,M Laxmi,M Laxmi,44,44,TSMTO7,TSMTO7,27,27,Kokkonda,Kokkonda,16,16,6305766521,6305766521,10-03-2025,10-03-2025,4,4,3,3,4,1,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+658,Y Santhoshamma,Y santhoshamma,39,39,TSMTO7,TSMTO7,27,27,Thipparam,Thipparam,16,16,9652138501,9652138501,10-03-2025,10-03-2025,1,4,3,2,2,4,4,3,1,3,4,2,4,3,3,1,4,1,1,3,lscs,ts,anm
+659,M Nagamani,M Nagamani,52,52,TSMTO7,TSMTO7,27,27,Varadharajpur,Varadharajpur,52,30,9908774911,9908774911,10-03-2025,10-03-2025,3,2,4,3,1,1,4,3,3,1,4,4,1,2,2,1,2,4,2,2,lscs,ts,anm
+660,B manjula,B manjula,39,38,TSMTO7,TSMTO7,27,27,Ramavaram,Ramavaram,16,16,9542658885,9542658885,10-03-2025,18-03-2025,4,4,3,3,1,1,3,3,2,2,1,2,3,3,3,3,1,4,3,3,lscs,ts,anm
+661,K Rajani Kumari,K Rajani Kumari,18,47,TSMTO7,TSMTO7,27,27,Pregnapur,Pregnapur,18,18,9866256307,9866256307,10-03-2025,10-03-2025,4,4,3,3,1,4,3,3,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+662,D Shyamala,D Shyamala,35,35,TSMTO7,TSMTO7,27,27,Thimmareddypally,Thimmareddypally,16,16,9676165681,9676165681,10-03-2025,10-03-2025,3,4,3,3,2,4,3,4,2,2,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+663,Manjula,Katam Manjula,47,47,TSMTO7,TSMTO7,27,27,Ramsagar,Ramsagar,17,17,9963464586,9963464586,10-03-2025,10-03-2025,4,4,3,3,4,1,4,3,4,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+665,Rampally Bhagya,R . Bhagya,38,38,TSMTO7,TSMTO7,27,27,Anajipur,Anajipur,17,17,7093256905,7093256905,10-03-2025,10-03-2025,4,4,3,3,4,1,4,3,4,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+666,G kanakamma,G kanakamma,23,2003,TSMTO7,TSMTO7,27,27,Kondapak B,Kondapak B,23,23,9989714734,9989714734,10-03-2025,10-03-2025,3,2,4,3,2,4,4,4,3,4,4,4,3,3,4,3,4,4,4,3,lscs,ts,anm
+667,J Mariya,J Mariya,36,36,TSMTO7,TSMTO7,27,27,Thimmareddypally,Thimmareddypally,4,4,8639850148,8639850148,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,2,4,4,3,3,3,3,1,4,1,3,lscs,ts,anm
+668,M.rajitha,M.Rajitha,1988,35,TSMTO7,TSMTO7,27,27,Rayavaram,Rayavaram,3,3,9704575987,9704575987,10-03-2025,10-03-2025,4,4,3,3,1,2,3,3,4,1,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+669,Swapna,Swapna,37,35,TSMTO7,TSMTO7,27,27,Markook,Markook,17,17,9573648440,9573648440,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+670,Ch. Swaroopa,Ch. Swaroopa,43,43,TSMTO7,TSMTO7,27,27,Koheda,Baswapur,17,17,7569262120,7569262120,10-03-2025,10-03-2025,4,4,3,3,4,4,3,3,4,3,4,4,3,1,1,1,4,4,1,3,lscs,ts,anm
+671,Md Beepasha,Md Beepasha,16,38,TSMTO7,TSMTO7,27,27,Chebarthi,Cheberthi,16,16,8106053815,8106053815,10-03-2025,10-03-2025,4,4,3,3,1,2,4,4,2,3,4,4,1,1,1,3,1,4,1,3,lscs,ts,anm
+672,Mahalaxmi,Mahalaxmi,28,28,TSMTO7,TSMTO7,27,27,Theegulnarsapur,Theegulnarsapur,3,3,6300803228,6300803228,13-10-2021,10-03-2025,4,4,2,3,1,4,4,4,4,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+673,A Shyamala Jyothi,A Shyamala Jyothi,49,49,TSMTO7,TSMTO7,27,27,Mulugu,Mulugu,22,22,9949178305,9949178305,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+674,P.vijayalaxmi,P.vijyalaxmi,58,28,TSMTO7,TSMTO7,27,27,Ksheerasager,Ksheerasager,28,28,9949366895,9949366895,10-03-2025,10-03-2025,4,4,4,3,1,4,4,4,3,3,4,4,3,3,4,3,4,4,3,3,lscs,ts,anm
+675,Bathula sunitha,Bathula sunitha,36,36,TSMTO7,TSMTO7,27,27,Gandipalli,Gandipalli,16,16,9676934535,9676934535,06-03-2025,10-03-2025,4,4,3,3,4,4,3,3,4,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+676,E Nagamani,E Nagamani,1975,1975,TSMTO7,TSMTO7,27,27,Zapthinacharam,Zapthinacharam,16,16,9849784961,9849784961,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+677,S Indira,S.indira,45,45,TSMTO7,TSMTO7,27,27,Arepalli,Arepalli,22,22,9441732793,9441732793,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,2,3,4,4,2,3,lscs,ts,anm
+678,G kanakavva,G kanakavva,52,52,TSMTO7,TSMTO7,27,27,praganapur,Pragnapur,17,17,9618195056,9618195056,10-03-2025,10-03-2025,4,4,4,2,4,4,4,4,3,3,2,4,3,3,4,3,4,1,2,3,lscs,ts,anm
+679,G. Shivalaxmi,G.Shivalaxmi,52,52,TSMTO7,TSMTO7,27,27,Munigadapa,Munigadapa,18,18,9704618680,9704618680,10-03-2025,10-03-2025,4,4,3,3,1,4,4,4,3,3,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+681,P Bhagya,P Bhagya,48,48,TSMTO7,TSMTO7,27,27,Akkannapet,Akkannapet,25,25,8008966827,8008966827,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,1,4,1,3,3,3,3,4,4,3,3,lscs,ts,anm
+682,Bpadma,Bpadma,45,16,TSMTO7,TSMTO7,27,27,Kukunoorpally,Kukunoorpally,16,16,9550544916,9550544916,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,3,4,3,3,4,4,3,3,lscs,ts,anm
+683,D manjula,D Manjula,36,36,TSMTO7,TSMTO7,27,27,Kodakandla,Kodakandla,16,16,9705230395,9705230395,10-03-2025,10-03-2025,4,4,3,3,4,4,4,3,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+684,Kalva Shobha,Kalva Shobha,46,46,TSMTO7,TSMTO7,27,27,Marpadaga,Marpadaga,27,27,9502920880,9502920880,10-03-2025,10-03-2025,4,4,3,3,1,1,4,4,1,4,4,4,3,3,1,3,4,3,3,3,lscs,ts,anm
+685,Gourigari Sujatha,Gourigari Sujatha,42,42,TSMTO7,TSMTO7,27,27,Gouravelly,Gouravelly,18,18,9640417443,9640417443,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+686,B Madhavi,B Madhavi,36,36,TSMTO7,TSMTO7,27,27,Raipole,Raipole,17,17,8466985866,8466985866,10-03-2025,10-03-2025,4,4,4,2,2,4,4,4,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+687,Mikkili Prema,M Prema,54,54,TSMTO7,TSMTO7,27,27,Lingareddypally,Lingareddypally,23,23,9908696163,9908696163,10-03-2025,10-03-2025,4,3,4,2,2,4,4,4,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+688,V Sujatha,V Sujatha,53,26,TSMTO7,TSMTO7,27,27,Wattipally,Wattipally,26,26,9441854961,9441854961,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,1,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+689,Ambhati,Ambhati Vijaya,45,45,TSMTO7,TSMTO7,27,27,Kothur,Kothur,17,17,8106184577,8106184577,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,1,3,3,3,3,4,4,3,3,lscs,ts,anm
+690,E. Vijaya Laxmi,E. Vijaya Laxmi,50,50,TSMTO7,TSMTO7,27,27,Kothur,Kothur,18,18,9959177372,9959177372,10-03-2025,10-03-2025,3,4,4,3,4,4,3,3,3,3,4,4,4,4,3,3,4,4,3,3,lscs,ts,anm
+691,S Jyothi rani,S Jyothi rani,1973,1973,TSMTO7,TSMTO7,27,27,Kondapur,Kondapur,22,22,9010673064,9010673064,10-03-2025,10-03-2025,4,3,4,2,4,4,4,4,3,2,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+692,K. Malhothri devi,K.malhothridevi,1972,1972,TSMTO7,TSMTO7,27,27,Rebarthy,Rebarthy,22,22,9704741821,9704741821,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,4,4,3,3,3,3,3,4,4,3,3,lscs,ts,anm
+693,M UMA Rani,M UMA Rani,37,37,TSMTO7,TSMTO7,27,27,Majeedpally,Majeedpally,17,17,9502819646,9502819646,10-03-2025,10-03-2025,4,4,2,2,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+694,K Padma,K Padma,58,58,TSMTO7,TSMTO7,27,27,Mahammadapur,Mahammadapur,19,19,9666595845,9666595845,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+695,Katha Premalatha,Katha Premalatha,48,48,TSMTO7,TSMTO7,27,27,Husband,Husnabad,19,19,8374760017,8374760017,10-03-2025,10-03-2025,4,4,3,3,4,4,4,3,2,3,4,4,1,3,3,3,1,4,3,1,lscs,ts,anm
+696,G Ramadevi,G Ramadevi,40,40,TSMTO7,TSMTO7,27,27,Bejgama,Bejgama,16,17,8985894815,8985894815,10-03-2025,10-03-2025,4,4,3,3,4,4,4,3,2,3,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+697,S.Rajitha,S.Rajitha,42,17,TSMTO7,TSMTO7,27,27,BANGLAVENKATAPUR,BANGLAVENKATAPUR,17,17,9000907138,9000907138,10-03-2025,10-03-2025,4,4,3,3,2,4,4,3,2,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+698,N Prabhavathi,N Prabhavathi,40,40,TSMTO7,TSMTO7,27,27,Ahamedipur,Ahamedipur,16,16,9550647899,9550647899,10-03-2025,10-03-2025,4,4,4,2,4,4,4,3,4,3,4,4,1,3,3,3,1,4,3,3,lscs,ts,anm
+699,T sunitha,T sunitha,42,42,TSMTO7,TSMTO7,27,27,Singatm,Singatm,16,16,9908131961,9908131961,10-03-2025,10-03-2025,4,3,3,4,2,4,4,3,2,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+700,K Radha,RADHA,45,45,TSMTO7,TSMTO7,27,27,Dacharam,Dacharam,21,21,9492838404,9492838404,10-03-2025,10-03-2025,4,4,3,4,4,4,3,4,2,2,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+701,Bhagya Lakshmi,Jbhagy laxmi,37,17,TSMTO7,TSMTO7,27,27,Theegul,Theegul,16,17,9652941559,9652941559,10-03-2025,10-03-2025,4,4,3,1,1,1,4,3,4,3,4,4,4,2,2,2,1,3,1,1,lscs,ts,anm
+702,K Ramadevi,K Ramadevi,1974,1974,TSMTO7,TSMTO7,27,27,Thunikibolaramu,Thunikibolaramu,18,18,8897792889,8897792889,10-03-2025,10-03-2025,4,4,3,3,4,4,4,3,3,3,4,4,3,4,3,3,4,4,3,3,lscs,ts,anm
+704,Bhavvanii,Bhavvanii,50,50,TSMTO7,TSMTO7,27,27,Thotapally,Thotapally,31,31,8309323120,8309323120,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+705,Y saraswathi,Y saraswathi,53,53,TSMTO7,TSMTO7,27,27,Gajwel D,Gajwel D,22,21,9989137003,9989137003,10-03-2025,10-03-2025,4,4,3,3,1,1,4,4,4,2,4,4,1,1,3,3,4,1,3,3,lscs,ts,anm
+706,G padma,G padma,29,29,TSMTO7,TSMTO7,27,27,Kallepally,Kallepally,3,3,6303229906,6303229906,10-03-2025,10-03-2025,2,2,3,3,4,4,4,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+707,V rajamani,Velpula  rajamani,52,52,TSMTO7,TSMTO7,27,27,Husnabad,Husnabad,19,19,9912213111,9912213111,10-03-2025,10-03-2025,4,2,3,3,4,2,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+708,G Aruna Jyothi,G Aruna Jyothi,1988,1988,TSMTO7,TSMTO7,27,27,Girmapur,Girmapur,17,17,9505195016,9505195016,10-03-2025,10-03-2025,4,4,3,3,1,4,4,4,3,3,3,4,3,3,2,1,4,4,2,3,lscs,ts,anm
+709,Manda Latha,M Latha,1997,27,TSMTO7,TSMTO7,27,27,Wattpally,Theegul,8,8,9494461598,9494461598,10-03-2025,10-03-2025,4,4,3,3,1,1,4,4,2,3,4,4,3,1,3,3,3,3,2,2,lscs,ts,anm
+710,K Lavanya,K.Lavanya,42,42,TSMTO7,TSMTO7,27,27,Kokkonda,Kokkonda,17,17,9182190275,9182190275,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+711,Kistamgari kasthuri,K. Kasthuri,49,49,TSMTO7,TSMTO7,27,27,Gajwel A,Gajwel A,18,18,9908474701,9908474701,10-03-2025,10-03-2025,4,4,3,3,1,4,3,4,2,3,4,4,3,3,1,3,1,4,1,3,lscs,ts,anm
+712,B.Sridevi.,Sridevi,41,41,TSMTO7,TSMTO7,27,27,Srigiripally,Srigiripally,17,17,9182548073,9182548073,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+713,G Sundari,G Sundari,48,48,TSMTO7,TSMTO7,27,27,Dharmareddypally,Dharmareddypally,16,16,9849071553,9849071553,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+714,P.swana,P. swapna,34,34,TSMTO7,TSMTO7,27,27,Peerlapally,Peerlapally,16,16,9676446064,9676446064,10-03-2025,10-03-2025,4,4,4,3,4,4,3,3,2,2,4,3,3,3,1,1,1,4,3,3,lscs,ts,anm
+715,Potharaju Shantha,Potharaju Shantha,47,47,TSMTO7,TSMTO7,27,27,Arjunpatla,Arjunpatla,16,16,6309800551,6309800551,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+716,Duddela Kavitha,Duddela Kavitha,40,40,TSMTO7,TSMTO7,27,27,Arepalli,Arepalli,17,17,9959971778,9959971778,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+717,P.Manjula,P.Manjula,41,41,TSMTO7,TSMTO7,27,27,Chatlapally,Chatlapally,16,16,7989072966,7989072966,10-03-2025,10-03-2025,4,4,3,3,4,4,3,3,3,3,4,1,2,3,3,3,4,4,1,3,lscs,ts,anm
+718,M manikyam,M manickyam,48,48,TSMTO7,TSMTO7,27,27,Gouraram,Gouraram,22,22,8374221788,8374221788,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,1,3,1,1,4,4,1,3,lscs,ts,anm
+719,M Swaroopa,M swaroopa,45,45,TSMTO7,TSMTO7,27,27,Dhoolmitta,Dhoolmitta,16,16,9951482882,9951482882,10-03-2025,10-03-2025,4,4,2,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+720,CH Deevena,Deevena,52,52,TSMTO7,TSMTO7,27,27,Srigiripally,Gajwel c,18,18,9963317355,9963317355,10-03-2025,10-03-2025,2,4,2,3,1,4,4,3,3,4,4,4,4,4,1,2,4,1,4,3,lscs,ts,anm
+721,B swaroopa rani,B Swaroopa ranii,51,51,TSMTO7,TSMTO7,27,27,Duddeda,Duddeda,28,28,9704822751,9704822751,10-03-2025,10-03-2025,2,1,2,2,1,4,1,3,1,3,1,1,2,2,1,1,1,1,1,1,lscs,ts,anm
+722,K Suguna,KADASU Suguna,50,50,TSMTO7,TSMTO7,27,27,Pandilla,Pandilla,19,19,9705182318,9705182318,10-03-2025,10-03-2025,4,4,4,3,4,4,3,4,4,2,4,4,1,3,3,3,1,4,3,3,lscs,ts,anm
+723,Bolla Manjula,Bolla Manjula,48,48,TSMTO7,TSMTO7,27,27,Narmetta,Narmetta,18,18,8790818766,8790818766,10-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+724,Veerabharhinj Rajani,V.Rajani,35,35,TSMTO7,TSMTO7,27,27,Mundrai,Mundrai,18,18,9948119440,9948119440,10-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+725,A Anitha,AANITHA,39,39,TSMTO7,TSMTO7,27,27,Bejjanki,Bejjanki,18,18,9666019732,9666019732,10-03-2025,10-03-2025,4,4,3,3,4,4,3,4,4,4,2,4,3,2,3,3,4,4,3,3,lscs,ts,anm
+726,Bhukya.dakkubai,b.dakkubai,46,46,TSMTO7,TSMTO7,10,10,Raghunadhapalem,Raghunadhapalem,28,28,9515019554,9515019554,03-03-2025,03-03-2025,4,1,4,1,1,1,3,1,3,1,4,1,3,1,3,3,4,1,2,1,lscs,ts,anm
+727,Ch Vijayakumari,Ch Vijayakumari,47,47,TSMTO7,TSMTO7,10,10,Mahadevapuram,Dendukuru,17,17,9502541528,9502541528,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,4,4,3,3,4,4,2,3,lscs,ts,anm
+728,kota lakshmi prasanna,kota lakshmi prasanna,31,31,TSMTO7,TSMTO7,10,10,nizampeta,nizampeta,7,7,7997409078,7997409078,03-03-2025,03-03-2025,4,4,3,3,4,4,3,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+729,MD Rijuvana,MD Rijuvana,44,44,TSMTO7,TSMTO7,10,10,Konijerla,Konijerla,17,17,8179921853,8179921853,03-03-2025,03-03-2025,4,1,3,4,4,4,4,3,3,3,4,1,3,3,3,3,4,4,3,3,lscs,ts,anm
+730,Ch Navaneethamma,Ch Navaneethamma,50,50,TSMTO7,TSMTO7,10,10,Gollagudem,Gollagudem,25,25,9951659826,9951659826,04-03-2025,03-03-2025,1,4,3,3,4,4,4,4,2,3,4,3,3,3,3,3,4,4,3,3,lscs,ts,anm
+731,Meda chilakamma,M chilakamma,48,29,TSMTO7,TSMTO7,10,10,Khanapuram,Khanapuram,29,29,9494043865,9494043865,03-03-2025,03-03-2025,4,2,4,3,2,4,4,4,2,3,4,4,4,2,3,3,4,4,3,3,lscs,ts,anm
+732,T Ratnakumari,T Ratnakumari,49,49,TSMTO7,TSMTO7,10,10,Mudigonda,Mudigonda,20,20,9502275211,9502275211,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+733,A Mangathayamma,A Mangathayamma,54,54,TSMTO7,TSMTO7,10,10,Tekulapally,Tekulapally,32,32,7893742035,7893742035,03-03-2025,03-03-2025,4,4,2,3,4,4,3,4,3,1,4,4,3,2,3,4,4,4,3,3,lscs,ts,anm
+734,M.Sravana Sandya,M.Sravana Sandya,35,35,TSMTO7,TSMTO7,10,10,Nuthanakal,Nuthanakal,4,4,9390712467,9390712467,03-03-2025,03-03-2025,4,4,3,2,4,4,4,4,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+735,Pappula Uma,P. Uma,35,35,TSMTO7,TSMTO7,10,10,Gollapudi,Gollapudi,8,8,9963832298,9963832298,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,1,4,4,4,1,1,3,3,4,4,3,3,lscs,ts,anm
+736,J Swaroopa Rani,J Swaroopa Rani,54,54,TSMTO7,TSMTO7,10,10,Peddakorukondi,Peddakorukondi,18,18,9959341430,9959341430,10-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+737,M Vijayakumari,M Vijayakumari,54,31.6,TSMTO7,TSMTO7,10,10,Chandrupatla,Chandrupatla,32,31.6,9440225984,9440225984,03-03-2025,03-03-2025,4,4,3,4,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+738,Cherukuri Nagamani,Cherukuri Nagamani,52,52,TSMTO7,TSMTO7,10,10,Muttagudem,Muttagudem,28,28,9908039245,9908039245,03-03-2025,03-03-2025,4,4,3,3,2,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+739,Chava Sirisha,Chava Sirisha,41,41,TSMTO7,TSMTO7,10,10,Brahmanapalli,Brahmanapalli,16,16,9704322960,9704322960,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+740,T.Saraswathi,T Saraswathi,54,54,TSMTO7,TSMTO7,10,10,Wyra,Wyra,18,18,9396783267,9396783267,03-03-2025,03-03-2025,4,2,4,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+741,Peetla Lakshmi,Peetla Lakshmi,40,40,TSMTO7,TSMTO7,10,10,Gandhasiri,Gandhasiri,15,15,9550838697,9550838697,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+742,DARA RAMANA,D  Ramana,44,44,TSMTO7,TSMTO7,10,10,Somavaram,Somavaram,17,18,8919076395,8919076395,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+743,Panda.Arunakumari,P.Arunakumari,40,40,TSMTO7,TSMTO7,10,10,Paladugu,Paladugu,17,17,9581130559,9581130559,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+744,Kuriyala Elijebeth rani,Kuriyala Elijebeth rani,57,57,TSMTO7,TSMTO7,10,10,Kondapuram,Kondapuram,13,13,9704310435,9704310435,03-03-2025,03-03-2025,2,4,3,2,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+745,T adilakshmi,T adilakshmi,46,46,TSMTO7,TSMTO7,10,10,Kurnavalli,Kurnavalli,13,13,9390016407,9390016407,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+746,N.VASANTHA,N.VASANTHA,61,60,TSMTO7,TSMTO7,10,10,KUSUMANCHI,KUSUMANCHI,32,32,8501071044,8501071044,03-03-2025,03-03-2025,2,2,3,4,1,1,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+747,T Rani,T Rani,44,44,TSMTO7,TSMTO7,10,10,NAIKANGUDEM,Naikangudem,16,16,9701474453,9701474453,03-03-2025,03-03-2025,2,2,3,3,1,1,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+748,Nanduri. Raghavamma,N.Raghavamma,53,53,TSMTO7,TSMTO7,10,10,Thanikella,Thanikella,33,33,9618141686,9618141686,03-03-2025,03-03-2025,4,4,1,3,4,4,4,4,1,3,4,4,3,3,4,1,1,2,1,1,lscs,ts,anm
+749,Easala sunitha,Easala sunitha,12.51987,38,TSMTO7,TSMTO7,10,10,Motlagudem,Motlagudem,17,17,9989051475,9989051475,03-03-2025,03-03-2025,4,4,3,2,4,4,4,3,2,3,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+750,S Devilalithamba,S Devilalithamba,48,48,TSMTO7,TSMTO7,10,10,Manchukonda,Manchukonda,25,25,9550479513,9550479513,03-03-2025,03-03-2025,1,1,3,3,1,4,3,3,2,3,4,4,3,4,3,3,4,4,1,1,lscs,ts,anm
+751,Vasam Krishna veni,Vasam Krishna veni,30,30,TSMTO7,TSMTO7,10,10,BhagyaNagarthanda,BhagyaNagarthanda,4,4,9502349640,9502349640,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+752,Bhukya Usha rani,Bhukya Usharani,1997,1997,TSMTO7,TSMTO7,10,10,Cheemalapadu,Cheemalapadu,4,4,8499906609,8499906609,03-03-2025,03-03-2025,4,4,3,3,4,4,3,3,2,1,4,3,3,3,3,3,4,4,3,3,lscs,ts,anm
+753,P Narasamma,P Narasamma,45,45,TSMTO7,TSMTO7,10,10,Usirikayalapalli,Usirikayalapalli,17,17,8790966914,8790966914,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,1,4,4,3,1,lscs,ts,anm
+754,Banoth Prameela,B Prameela,1995,1995,TSMTO7,TSMTO7,10,10,Kamalapuram,Kamalapuram,4,4,6300905025,6300905025,03-03-2025,03-03-2025,4,4,3,3,4,4,3,3,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+755,S padma,S padma,53,53,TSMTO7,TSMTO7,10,10,Jakkepalli,Jakkepalli,29,29,9618159910,9618159910,03-03-2025,03-03-2025,2,2,3,3,1,1,4,4,3,2,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+756,Thuraka Narasamma,T Narasamma,35,35,TSMTO7,TSMTO7,10,10,Nagulavancha,Nagulavancha,18,18,8897659708,8897659708,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,1,1,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+757,Mergugu Radha,M Radha,56,56,TSMTO7,TSMTO7,10,10,Dhamasalapursm,Dhsmdslaputam,28,28,9985176378,9985176378,03-03-2025,03-03-2025,4,4,4,4,4,1,4,4,3,3,4,4,3,3,3,3,4,4,3,2,lscs,ts,anm
+758,YLAXMI,YLAXMI,52,52,TSMTO7,TSMTO7,10,10,Madhira1,Madhira1,23,23,8985642217,8985642217,03-03-2025,03-03-2025,4,4,3,3,4,4,3,3,4,3,4,4,4,3,3,3,4,4,4,3,lscs,ts,anm
+759,K Rajeswari,K Rajeswari,41,41,TSMTO7,TSMTO7,10,10,Dendukuru,Dendukuru,17,17,9849541754,9849541754,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+760,Vooke.aruna,V Aruna,47,45,TSMTO7,TSMTO7,10,10,Mucherla,Mucharla,25,25,9849920064,9849920064,03-03-2025,03-03-2025,4,4,3,2,4,4,3,4,3,3,4,4,2,4,3,3,3,3,1,1,lscs,ts,anm
+762,Bolledu. Aruna,B. Aruna,39,39,TSMTO7,TSMTO7,10,10,Jamalapuram,Jamalapuram,5,5,7893750510,7893750510,03-03-2025,03-03-2025,4,4,3,3,4,4,4,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+763,Ykrishnaveni,Y krishnaveni,1989,2008,TSMTO7,TSMTO7,10,10,Viswandhapalli,Viswandhapalli,2008,2008,8978486996,8978486996,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+764,Korakasula yadoda,K  yasoda,57,58,TSMTO7,TSMTO7,10,10,Mangapuram,Mangapuram,29,29,9701110065,9701110065,03-03-2025,03-03-2025,4,2,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+765,M suguna rani,M suguna rani,52,52,TSMTO7,TSMTO7,10,10,Singarayapalem,Singsrayapalam,17,17,9494044457,9494044457,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,1,4,4,3,3,4,3,4,4,3,3,lscs,ts,anm
+766,Nandigama Rajani,Nandigama Rajani,39,39,TSMTO7,TSMTO7,10,10,Chinthakani,Chinthakani,18,18,9949523343,9949523343,03-03-2025,03-03-2025,4,2,3,3,4,4,4,4,2,2,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+767,Yarra Rani,Y Rani,1974,51,TSMTO7,TSMTO7,10,10,Singareddypalem,Singareddypalem,27,27,9666969633,9666969633,03-03-2025,03-03-2025,4,4,3,3,4,1,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+768,Tellakula swathi of,Tellakula swathi,1991,31,TSMTO7,TSMTO7,10,10,Painampalli,Painampalli,17,17,9951096511,9951096511,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+769,Bommisetti Padmavathi,B Padmavathi,1972,53,TSMTO7,TSMTO7,10,10,Brahmanapalli,Brahmanapalli,25,25,9160665205,9160665205,03-03-2025,03-03-2025,4,4,4,3,4,4,3,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+770,Balabadra venkata Ramana,B.venkata Ramana,1980,44,TSMTO7,TSMTO7,10,10,Brahmanapalli,Brahmanapalli,17,17,8978547694,8978547694,03-03-2025,03-03-2025,4,4,3,3,4,4,3,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+771,K Nageswari,K Nageswari,54,54,TSMTO7,TSMTO7,10,10,Muthagudem,Muthagudem,25,25,8106460605,8106460605,03-03-2025,03-03-2025,2,4,3,3,4,4,4,4,3,1,4,4,3,2,3,4,4,4,1,3,lscs,ts,anm
+772,Ch Chandramani,Chandramani,38,38,TSMTO7,TSMTO7,10,10,Dwarakanagar,Dwarakanagar,8,8,9010275219,9010275219,03-03-2025,03-03-2025,4,4,3,2,4,4,3,4,4,4,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+774,MD Parveen,MD.Parveen,1972,1972,TSMTO7,TSMTO7,10,10,VVpalem,VVpalem,18,18,8978634543,8978634543,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+775,Palakurthi Venkatanarsamma,P Venkatanarsamma,55,55,TSMTO7,TSMTO7,10,10,Karaigudem,Karaigudem,14,14,9010154862,9010154862,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+776,Dandgala prameela,Prameela,5,35,TSMTO7,TSMTO7,10,10,Papatapalli,Papatapalli,5,5,8008729167,8008729167,03-03-2025,03-03-2025,4,2,3,4,4,1,4,3,3,3,4,3,2,3,3,1,4,4,1,3,lscs,ts,anm
+777,G Rekha indira,G Rekha indira,54,54,TSMTO7,TSMTO7,10,10,Mamahamdapuram,Mmpuram,14,14,9948348745,9948348745,03-03-2025,03-03-2025,4,4,4,2,2,4,2,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+778,Tammisetti Umarani,Tammisetti Umarani,33,33,TSMTO7,TSMTO7,10,10,Musthafa nagar,Musthafa nagar,7,7,9705593275,9705593275,03-03-2025,03-03-2025,4,4,3,1,4,4,4,4,4,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+779,Malla Nagamani,M Nagamani,42,42,TSMTO7,TSMTO7,10,10,Khammampadu,Khammampadu,17,17,6302531155,6302531155,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+780,Challa UPENDRA,Challa UPENDRA,47,47,TSMTO7,TSMTO7,10,10,Nelapatla,Nelapatla,24,24,6302956613,6302956613,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+781,M Vasundhara,M Vasundhara,31,31,TSMTO7,TSMTO7,10,10,Munsaf banjara,Munsaf banjara,9,9,8465048371,8465048371,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+782,J Jyothi,J Jyothi,42,40,TSMTO7,TSMTO7,10,10,Bodulabanda,MujjuGudem,16,16,9989856508,9989856508,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,4,3,3,3,4,4,1,3,lscs,ts,anm
+783,ch saraswathi,ch Saraswathi,57,57,TSMTO7,TSMTO7,10,10,Guvvalagudem,Guvvalagudem,16,16,9948987503,9948987503,03-03-2025,03-03-2025,4,4,3,2,4,4,4,4,3,3,4,4,4,3,3,3,4,4,1,3,lscs,ts,anm
+784,Thati Tulasi,Thati Tulasi,48,48,TSMTO7,TSMTO7,10,10,Ponnekal,Ponnekal,26,26,9550834004,9550834004,03-03-2025,03-03-2025,4,4,4,3,1,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+785,A Nirmala,A Nirmala,38,38,TSMTO7,TSMTO7,10,10,Pullaiah banjar,Pullaiah banjar,15,15,9502431848,9502431848,03-03-2025,03-03-2025,1,1,2,1,4,4,4,3,4,1,4,2,2,3,1,3,4,4,3,3,lscs,ts,anm
+786,B.Jyothi,B.Jyothi,57,57,TSMTO7,TSMTO7,10,10,Mvpalem,Mvpalem,16,16,9701485617,9701485617,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,4,2,3,3,4,4,3,3,lscs,ts,anm
+787,Aripaka Bhavani,A Bhavani,45,45,TSMTO7,TSMTO7,10,10,Lenin Nagar,Lenin Nagar,8,8,7731029336,7731029336,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,3,1,4,3,4,2,3,1,lscs,ts,anm
+789,K Suseela,K Suseela,48,48,TSMTO7,TSMTO7,10,10,Peruvancha,Peruvancha,17,17,8790202370,8790202370,03-03-2025,03-03-2025,1,2,3,1,4,1,4,4,1,1,4,4,3,3,1,3,4,4,3,3,lscs,ts,anm
+790,G Navathakumari,G Navathakumari,46,46,TSMTO7,TSMTO7,10,10,Kokkireni,Kokkireni,18,18,9989605932,9989605932,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,1,3,4,4,1,1,3,3,4,4,3,1,lscs,ts,anm
+791,P. Miriyamma,P. Miriyamma,45,45,TSMTO7,TSMTO7,10,10,Kothuru,Kothuru,18,18,7396048787,7396048787,03-03-2025,03-03-2025,4,4,3,3,2,4,4,4,2,3,1,4,3,3,3,3,3,4,3,1,lscs,ts,anm
+792,Barla Prabhamani,B prabhamani,58,58,TSMTO7,TSMTO7,10,10,Peddamunagala,Peddamunagala,29,29,9948105943,9948105943,03-03-2025,03-03-2025,4,4,3,3,4,4,3,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+794,B Shobha rani,B Shobha rani,40,40,TSMTO7,TSMTO7,10,10,Matoor,Matoor,17,17,8790650208,8790650208,03-03-2025,03-03-2025,4,4,2,3,4,4,4,3,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+795,Boda Sunitha,Bodda Sunitha,37,37,TSMTO7,TSMTO7,10,10,Kothalingala,Kothalingala,17,17,9866046624,9866046624,03-03-2025,03-03-2025,4,4,2,3,4,4,3,3,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+797,Kadari. KrishnaVeni,Kadari. KrishnaVeni,45,45,TSMTO7,TSMTO7,10,10,Sathupally,Sathupally,18,18,9666613867,9666613867,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,4,3,4,4,3,3,4,3,4,4,3,3,lscs,ts,anm
+799,Jarpala Pushpavathi,Jarpula Pushpavathi,1987,1987,TSMTO7,TSMTO7,10,10,Madharam,Madharam,17,17,9959994962,9959994962,03-03-2025,03-03-2025,4,4,2,3,4,4,4,4,4,3,1,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+800,V Vijayakumari,V Vijayakumari,54,54,TSMTO7,TSMTO7,10,10,Madhira2,Madhira 2,28,28,9000065957,9000065957,03-03-2025,03-03-2025,3,4,3,3,4,4,3,4,2,2,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+801,Guguloth kalpana,G kalpana,42,42,TSMTO7,TSMTO7,10,10,Manikyaram,Manikyaram,17,17,9491402146,9491402146,03-03-2025,03-03-2025,1,1,2,2,1,4,3,3,3,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+802,Thati Ramana,T ramana,35,18,TSMTO7,TSMTO7,10,10,Enkoor,Enkoor,18,18,9640501270,9640501270,03-03-2025,03-03-2025,4,4,3,3,2,2,4,4,3,4,4,4,4,4,3,3,1,4,3,3,lscs,ts,anm
+803,J Aruna,J Aruna,32,32,TSMTO7,TSMTO7,10,10,Rayamadaram,Rayamadaram,3,3,9908468431,9908468431,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+805,Kothapalli Rathana kumari,Kothapalli Rathana kumari,46,46,TSMTO7,TSMTO7,10,10,Sadasivunipalem,Sadasivunipalem,17,17,9391150135,9391150135,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,4,3,4,4,3,3,3,3,4,4,1,1,lscs,ts,anm
+806,Ajmira Aruna,Ajmira Aruna,40,40,TSMTO7,TSMTO7,10,10,Indiranagar,Indiranagar,18,18,8897126167,8897126167,03-03-2025,03-03-2025,4,4,3,2,4,4,3,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+807,8341924507,8341924507,32,32,TSMTO7,TSMTO7,10,10,jannaram,jannaram,18,18,8341924507,8341924507,03-03-2025,03-03-2025,4,4,3,3,2,2,4,4,4,4,4,4,4,4,3,3,4,4,3,3,lscs,ts,anm
+808,K Mareswaramma,K Mareswaramma,38,38,TSMTO7,TSMTO7,10,10,Beerapalli,Beerapalli,18,18,9133613224,9133613224,03-03-2025,03-03-2025,4,4,3,3,1,4,3,3,3,3,1,3,3,3,3,3,4,4,1,3,lscs,ts,anm
+809,M krishnakumari,m krishnakumari,45,46,TSMTO7,TSMTO7,10,10,Bhavannapalem,Bhavannapalem,16,16,9603670096,9603670096,03-03-2025,03-03-2025,4,3,3,2,4,1,4,2,3,2,4,1,3,3,3,3,4,4,3,3,lscs,ts,anm
+810,Guda  Kalpana,Guda Kalpana,30,30,TSMTO7,TSMTO7,10,10,Lingagudem,Lingagudem,16,16,9652329455,9652329455,03-03-2025,03-03-2025,4,4,3,2,4,2,3,4,4,4,4,4,2,4,3,4,4,4,2,1,lscs,ts,anm
+811,K Anitha,K Anitha,37,9550143829,TSMTO7,TSMTO7,10,10,Jakkepalli,Jakkepalli,15,15,9550143829,9550143829,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,2,4,4,3,3,2,3,4,4,3,3,lscs,ts,anm
+827,Sirasani Jyothi,Sirasani Jyothi,50,50,TSMTO7,TSMTO7,10,10,Mallaram,Mallaram,21,21,9959086591,9959086591,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+828,Dantallai Ramadevi,D Ramadevi,38,38,TSMTO7,TSMTO7,10,10,Thallapenta,Thallapenta,17,17,9492396280,9492396280,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+829,Modiyam Hymavathi,Modiyam Hymavathi,38,38,TSMTO7,TSMTO7,10,10,Yathalakunta,Yathalakunta,18,18,9989804255,9989804255,04-03-2025,04-03-2025,4,4,3,3,1,4,3,3,1,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+830,Mitcha sarojini,Mitcha sarojini,49,49,TSMTO7,TSMTO7,10,10,Sadashivunipalem,Sadashivunipalem,28,28,8790210663,8790210663,04-03-2025,04-03-2025,4,4,3,3,4,4,3,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+831,T shanthamma,T shanthamma,52,52,TSMTO7,TSMTO7,10,10,Lingagudem,Lingagudem,26,26,9866229632,9866229632,04-03-2025,04-03-2025,1,4,4,2,1,4,3,4,2,4,2,4,4,3,2,3,2,4,1,3,lscs,ts,anm
+832,Maragani Laxmi,M.Laxmi,1977,1977,TSMTO7,TSMTO7,10,10,Rejarla,Rejarla,18,18,9441088024,9441088024,04-03-2025,04-03-2025,4,4,3,2,4,4,4,4,2,2,1,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+833,P. Padma,P. Padma,42,42,TSMTO7,TSMTO7,10,10,Mittapalli,Mittapalli,18,18,9177540391,9177540391,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+834,G mamathakumari,G mamathakumari,44,44,TSMTO7,TSMTO7,10,10,Venkatapuram,Venkatapuram,20,20,9494792681,9494792681,04-03-2025,04-03-2025,4,4,3,3,4,4,3,3,3,3,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+835,Pvaralakshmi,P varalakshmi,59,59,TSMTO7,TSMTO7,10,10,Bhavannapalem,Bhavannapalem,29,29,9885265414,9885265414,04-03-2025,04-03-2025,4,4,4,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+836,BHUKYA VENKATARAMANA,BHUKYA VENKATARAMANA,43,43,TSMTO7,TSMTO7,10,10,KAMEPALLI,KAMEPALLI,16,16.9,9550351487,9550351487,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,2,4,4,1,3,lscs,ts,anm
+837,M Kumari,M Kumari,35,35,TSMTO7,TSMTO7,10,10,Lankasagar,Lankasagar,5,5,9573942429,9573942429,04-03-2025,04-03-2025,2,4,3,2,3,3,3,4,2,3,2,4,1,3,1,3,1,4,1,3,lscs,ts,anm
+838,Vaddeboina Padmavathi,Vaddeboina Padmavathi,57,57,TSMTO7,TSMTO7,10,10,Ananthanagar,Ananthanagar,28,27,9701110058,9701110058,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+839,Ch padmavathi ¹,Ch padmavathi,37,37,TSMTO7,TSMTO7,10,10,Madhapuram,Madhapuram,18,18,9502811586,9502811586,04-03-2025,04-03-2025,4,4,3,3,4,4,4,3,2,2,1,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+840,I Anusha,Itha Anusha,32,32,TSMTO7,TSMTO7,10,10,Kondapuram,Kondapuram,4,4,6304769155,6304769155,04-03-2025,04-03-2025,4,4,3,3,4,1,4,4,3,1,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+841,B vasantha,B vasantha,36,36,TSMTO7,TSMTO7,10,10,Mudigonda,Mudigonda,18,18,9618897202,9618897202,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,1,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+842,P.Hemalatha,P.Hemalatha,38,38,TSMTO7,TSMTO7,10,10,Pammi,Pammi,18,18,9000315611,9000315611,04-03-2025,05-03-2025,4,4,3,3,4,4,4,3,3,2,1,4,3,3,3,1,4,4,3,3,lscs,ts,anm
+843,Mennela parvathi,Mennela parvathi,1967,1967,TSMTO7,TSMTO7,10,10,Remidicharla,Remidicharla,15,15,9948320109,9948320109,04-03-2025,04-03-2025,4,4,3,3,4,4,4,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+844,Annadevara.vijayalakshmi,A.vijayalakshmi,49,49,TSMTO7,TSMTO7,10,10,Kokkireni,Kokkireni,16,16,9553098168,9553098168,04-03-2025,04-03-2025,4,4,3,3,4,4,3,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+845,Gameni Anitha,GAnitha,1977,1977,TSMTO7,TSMTO7,10,10,patharlapadu,patharlapadu,17,17,9505697278,9505697278,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,1,2,4,4,2,3,1,3,4,4,3,3,lscs,ts,anm
+848,Anunthula Hymavathi,A hymavathi,52,52,TSMTO7,TSMTO7,10,10,Arekodu,Arekodu,27,27,9505714497,9505714497,04-03-2025,04-03-2025,4,4,4,3,4,4,4,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+851,MThirupathamma,M Thirupathamma,54,54,TSMTO7,TSMTO7,10,10,Maturpeta,Matoor,32,32,9963668363,9963668363,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,3,3,3,1,4,4,3,1,lscs,ts,anm
+853,P Mariyamma,P Mariyamma,33,33,TSMTO7,TSMTO7,10,10,Kakaravai,Kakaravai,33,33,9704263659,9704263659,05-03-2025,04-03-2025,1,2,1,3,1,3,2,3,2,2,2,2,2,3,2,3,2,1,1,3,lscs,ts,anm
+854,P Renuka,P Renuka Renu,34,34,TSMTO7,TSMTO7,10,10,Thimminenipalem,Thimminenipalem,4,4,9177565195,9177565195,04-03-2025,04-03-2025,4,4,2,2,4,4,4,4,2,2,4,4,1,3,3,3,4,4,1,3,lscs,ts,anm
+855,Yadallapalli Mounika,Yadallapalli Mounika,30,30,TSMTO7,TSMTO7,10,10,Vemsoor,Vemsoor,4,4,9676984854,9676984854,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,4,4,4,1,1,3,1,4,4,3,3,lscs,ts,anm
+856,B.Lakshmi,B.lakshmi,50,50,TSMTO7,TSMTO7,10,10,Gudurupadu,Gudurupadu,27,27,6303971719,6303971719,04-03-2025,04-03-2025,4,4,4,3,4,1,4,4,3,3,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+858,K Upendra rani,k.upendra rani,52,52,TSMTO7,TSMTO7,10,10,Naikangudem,Naikangudem,16,16,9505004391,9505004391,04-03-2025,04-03-2025,4,4,3,3,4,4,4,3,2,2,4,4,3,2,3,3,4,3,3,3,lscs,ts,anm
+860,Kanneganti mary,Kanneganti mary,32,32,TSMTO7,TSMTO7,10,10,Govindapuram,Govindapuram,4,4,9515957363,9515957363,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+861,Dharavath tirupathamma,Dharavath tirupathamma,50,50,TSMTO7,TSMTO7,10,10,Mallaram,Mallaram,16,17,9502218161,9502218161,04-03-2025,04-03-2025,1,1,3,3,1,4,4,4,3,3,4,4,4,2,3,3,4,4,1,1,lscs,ts,anm
+862,Dhara Nirmala,Dhara Nirmala,50,50,TSMTO7,TSMTO7,10,10,Thallada,Thallada,18,18,9966289790,9966289790,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,1,1,3,3,4,4,1,3,lscs,ts,anm
+863,B shravani,B.shravani,22,22,TSMTO7,TSMTO7,10,10,Billupadu,Billupadu,3,3,8464051573,8464051573,04-03-2025,04-03-2025,2,4,2,3,2,2,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+865,Ch mangamma,Ch mangamma,53,53,TSMTO7,TSMTO7,10,10,Pocharam,Pocharam,16,16,9666902469,9666902469,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+867,B Anasurya,B Anasurya,49,49,TSMTO7,TSMTO7,10,10,Jeellachervu,Jeellachervu,28,28,9652712297,9652712297,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+869,Ch Kumari,Ch Kumari,46,46,TSMTO7,TSMTO7,10,10,V V Kistapuram,V V Kistapuram,22,22,9951405356,9951405356,04-03-2025,04-03-2025,4,4,3,3,4,4,4,3,3,3,4,4,2,3,3,3,4,4,2,1,lscs,ts,anm
+870,R Sunitha,R sunitha,39,39,TSMTO7,TSMTO7,10,10,Kurnavalli,Kurnavalli,17,17,9848698339,9848698339,04-03-2025,04-03-2025,1,2,2,1,4,2,4,4,2,4,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+871,Sk. Meharunnisa,Sk. Meharunnisa,48,47,TSMTO7,TSMTO7,10,10,Teldarupalli,Teldarupalli,16,17,9553124850,9553124850,04-03-2025,04-03-2025,1,1,3,3,4,1,3,4,1,1,4,4,2,1,1,3,4,4,1,3,lscs,ts,anm
+872,E krishna veni,E krishna veni,32,5,TSMTO7,TSMTO7,10,10,Perepalli,Perepalli,5,5,9100340728,9100340728,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,1,4,4,3,3,lscs,ts,anm
+873,M.Sreelakshmi,M.sreelakshmi,55,55,TSMTO7,TSMTO7,10,10,Athkoor,Athkoor,29,29,9948652062,9948652062,04-03-2025,04-03-2025,3,2,4,3,4,2,4,4,3,3,4,1,4,2,1,3,4,4,1,1,lscs,ts,anm
+874,Jakkpudi Vijaya,Jakkampudi,52,52,TSMTO7,TSMTO7,10,10,Thatipudi,Thtipudi,30,30,9959593775,9959593775,04-03-2025,04-03-2025,1,1,2,3,1,4,3,3,2,2,4,4,4,1,3,3,4,4,2,1,lscs,ts,anm
+875,Schilakamma,S chilakamma,47,47,TSMTO7,TSMTO7,10,10,Mallemadugu,Mallemadugu,27,27,9440361965,9440361965,04-03-2025,04-03-2025,4,4,3,3,4,4,4,3,1,1,4,4,4,3,4,3,4,4,2,3,lscs,ts,anm
+876,R Ramadevi,Ramadevi,45,45,TSMTO7,TSMTO7,10,10,Thallampadu,Thallampadu,26,26,9704730028,9704730028,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,1,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+877,Kasarla Hemalatha,Kasarla Hemalatha,39,39,TSMTO7,TSMTO7,10,10,Burhanpuram,Burhanpuram,14,14,8790085959,8790085959,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+878,Manikala Nagamani,Manikala Nagamani,1984,1984,TSMTO7,TSMTO7,10,10,Tekulapally,Tekulapally,16,16,9676242352,9676242352,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,1,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+879,M Mani,M Mani,1998,1978,TSMTO7,TSMTO7,10,10,Gollagudem,Gollagudem,17,17,9666780879,9666780879,04-03-2025,04-03-2025,4,4,3,3,2,2,3,4,1,1,4,4,3,3,3,4,4,4,3,3,lscs,ts,anm
+880,B jyothi,B jyothi,46,46,TSMTO7,TSMTO7,10,10,Nelakondapalli,Nelakondapalli,16,16,9000438428,9000438428,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+881,Javvaji Kumari,Javvaji Kumari,32,32,TSMTO7,TSMTO7,10,10,Lankapalli,Lankapalli,3,3,9491593191,9491593191,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+882,S Nagaseshamma,S Nagaseshamma,1981,43,TSMTO7,TSMTO7,10,10,Telagavaram,Telagavaram,16,16,9666495830,9666495830,04-03-2025,04-03-2025,1,1,2,1,4,4,4,4,4,4,4,4,4,4,3,3,4,4,3,3,lscs,ts,anm
+883,Koduri Rajani,Koduri Rajani,35,35,TSMTO7,TSMTO7,10,10,Kalluru (a),Kalluru (a),18,18,6305222609,6305222609,04-03-2025,04-03-2025,2,2,3,3,4,4,4,4,4,2,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+884,Pulipati Sudharani,P Sudharani,51,51,TSMTO7,TSMTO7,10,10,Bathulapalli,Bathulapalli,28,28,9652939588,9652939588,04-03-2025,04-03-2025,2,2,3,3,4,4,4,4,4,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+885,Vuyyala Vijayalaxmi,Vuyyala Vijayalaxmi,48,48,TSMTO7,TSMTO7,10,10,Pulliahbanjar,Pulliahbanjar,28,28,8019976033,8019976033,04-03-2025,04-03-2025,2,2,3,3,4,4,4,4,4,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+886,Bolleddu Padma,Bolleddu padma,47,47,TSMTO7,TSMTO7,10,10,Buggapadu,Buggapadu,22,22,9948284774,9948284774,04-03-2025,04-03-2025,4,4,3,3,1,4,4,4,1,4,4,4,3,4,3,3,4,4,3,3,lscs,ts,anm
+887,?????? ??????,?????? ??????,32,32,TSMTO7,TSMTO7,10,10,????????,????????,9,9,9963395286,9963395286,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,4,4,3,3,4,4,3,3,lscs,ts,anm
+888,Badavath parvathi,B.parvathi,45,45,TSMTO7,TSMTO7,10,10,Jallepalli,Jallepalli,16,16,9959403104,9959403104,04-03-2025,04-03-2025,4,3,3,3,4,4,4,4,4,4,4,4,1,4,3,3,4,4,3,1,lscs,ts,anm
+889,B Adilaxmi,B Adilaxmi,37,37,TSMTO7,TSMTO7,10,10,AAm billupadu,AAm billupadu,18,18,8374920883,8374920883,04-03-2025,04-03-2025,4,4,3,3,1,1,4,4,1,2,4,4,2,2,1,1,1,1,1,1,lscs,ts,anm
+890,S Mary daya mani,S Mary daya mani,42,42,TSMTO7,TSMTO7,10,10,Ramanagutta,Ramanagutta,8,8,8522828811,8522828811,04-03-2025,04-03-2025,2,2,3,3,4,4,3,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+891,Chattu Madaramma,Ch madaramma,51,51,TSMTO7,TSMTO7,10,10,Bodulabanda,Bodulabanda,18,18,6300044062,6300044062,04-03-2025,04-03-2025,4,4,3,3,3,2,4,4,4,2,4,4,3,2,3,3,4,4,3,3,lscs,ts,anm
+892,Ch. P Rajyalakshmi,CH P Rajyalakshmi,41,41,TSMTO7,TSMTO7,10,10,Marlapadu,Marlapadu,18,18,9492263474,9492263474,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+893,Chillimuntha Anitha,Ch Anitha,34,34,TSMTO7,TSMTO7,10,10,Korlagudem,Korlagudem,16,16,8179464818,8179464818,04-03-2025,04-03-2025,2,2,3,2,4,3,4,4,4,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+894,Goli. Nagamma,Goli. Nagamma,51,51,TSMTO7,TSMTO7,10,10,Kallur- b,Kallur- b,18,18,9581529589,9581529589,04-03-2025,04-03-2025,2,4,3,3,4,4,4,4,4,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+895,D sumalatha,D sumalatha,39,39,TSMTO7,TSMTO7,10,10,Venkatapuram,Venkatapuram,17,17,9398050361,9398050361,04-03-2025,04-03-2025,2,4,3,2,4,4,4,4,2,3,1,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+896,Mettu upendra,m.upendra,39,39,TSMTO7,TSMTO7,10,10,Sublaid,Sublaid,17,17,9959515665,9959515665,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+897,Modugu Sujatha,M sujatha,38,38,TSMTO7,TSMTO7,10,10,Muddunuru,Muddunuru,18,18,9640305109,9640305109,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,1,2,2,3,3,4,4,3,1,lscs,ts,anm
+898,G bharathamma,G. Bharathamma,49,49,TSMTO7,TSMTO7,10,10,Pandurangapuram,Pandurangapuram,21,21,8106629494,8106629494,04-03-2025,04-03-2025,4,4,3,3,4,2,4,4,1,3,4,1,3,2,3,3,4,4,2,3,lscs,ts,anm
+899,D Bhadramma,D Bhadramma,1967,1967,TSMTO7,TSMTO7,10,10,Srinivas Nagar,Srinivas Nagar,24,24,9951652658,9951652658,04-03-2025,04-03-2025,4,4,4,3,4,4,4,3,2,2,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+900,Md Ishrath Begum,Md Ishrath Begum,49,49,TSMTO7,TSMTO7,10,10,Vm Banjara,VM BANJARA,28,28,9000325549,9000325549,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,1,3,3,3,3,4,4,3,3,lscs,ts,anm
+901,T Umadevi9,T Umadevi,1983,1983,TSMTO7,TSMTO7,10,10,Mangapuram,Mangapuram,16,16,9550337355,9550337355,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+902,Gugulothu krishna kumari,Gugulothu krishna kumari,41,41,TSMTO7,TSMTO7,10,10,Penuballi,Penuballi,18,18,8555918595,8555918595,04-03-2025,04-03-2025,3,4,2,4,1,4,2,4,1,2,1,4,2,3,3,3,1,1,3,3,lscs,ts,anm
+903,P.Rani,P.Rani,1977,1977,TSMTO7,TSMTO7,10,9,Sublaid,Jupeda,16,16,7981881363,7981881363,04-03-2025,04-03-2025,4,3,3,3,4,4,4,3,3,2,4,3,3,2,3,3,4,4,3,3,lscs,ts,anm
+905,Linganaboina Triveni,L Triveni,30,30,TSMTO7,TSMTO7,10,10,Karaigudem,Karaigudem,4,4,9391458446,9391458446,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+906,T Sujatha,T Sujatha,48,48,TSMTO7,TSMTO7,10,10,Siripuram,Siripuram,18,18,9553898455,9553898455,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+907,G s  koteswaramma,Gs koteswaramma,51,51,TSMTO7,TSMTO7,10,10,Gudimalla,Gudimalla,14,14,9701336054,9701336054,04-03-2025,04-03-2025,4,4,4,3,1,2,4,4,2,3,4,4,3,1,3,3,4,4,3,3,lscs,ts,anm
+908,Sk shameena,SK shameena,36,36,TSMTO7,TSMTO7,10,10,Bathulapalli,Bathulapalli,3,3,8341194124,8341194124,04-03-2025,04-03-2025,4,4,3,2,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+909,Kanagala Nagamani,K Nagamani,49,48,TSMTO7,TSMTO7,10,10,Painampalli,Painampalli,16,16,9949869708,9949869708,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+910,M. Padmavathi,M. Padmavathi,52,52,TSMTO7,TSMTO7,10,10,Nerada,Nerada,28,28,9866820732,9866820732,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,2,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+911,K V RAMANAMMA,K V Ramanamma,46,46,TSMTO7,TSMTO7,10,10,Theegalabanjara,Theegalabanjara,15,15,9573880826,9573880826,04-03-2025,04-03-2025,4,4,1,3,1,4,1,3,2,3,1,4,1,2,1,3,1,4,1,3,lscs,ts,anm
+912,T Adilaxmi,T Adilaxmi,1997,27,TSMTO7,TSMTO7,10,10,Jupeda,Jupeda,4,4,9848206722,9848206722,04-03-2025,05-03-2025,4,4,3,3,4,4,4,4,1,1,4,1,4,3,1,1,4,4,1,1,lscs,ts,anm
+914,A.N.V.Krishna mani,A.N.V.Krishna mani,57,57,TSMTO7,TSMTO7,10,10,Madhapuram,Madhapuram,26,26,9603017919,9603017919,04-03-2025,04-03-2025,4,4,3,3,4,4,4,3,3,3,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+915,Bandi Arunima,Bandi Arunima,45,45,TSMTO7,TSMTO7,10,10,Pinapaka,Pinapaka,18,18,9948292490,9948292490,04-03-2025,04-03-2025,4,4,2,3,4,4,3,3,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+916,K Venkatamma,K Venkatamma,54,54,TSMTO7,TSMTO7,10,10,Thumburu,Thumburu,22,22,9542745092,9542745092,04-03-2025,04-03-2025,4,4,4,3,4,4,3,3,4,3,4,4,4,4,3,3,4,4,2,3,lscs,ts,anm
+917,K Radha,K Radha,37,37,TSMTO7,TSMTO7,10,10,Raghunadhapalem,Raghunadhapalem,16,16,7569407953,7569407953,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+918,M Radha,M Radha,39,39,TSMTO7,TSMTO7,10,10,Mujjugudem,Mujjugudem,17,17,8179828212,8179828212,04-03-2025,04-03-2025,4,4,3,3,4,4,3,3,1,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+920,Padmavathi,Mpadmavathi,50,50,TSMTO7,TSMTO7,10,10,Buggapadu,Buggapadu,19,19,6303955029,6303955029,04-03-2025,04-03-2025,4,1,2,2,4,4,4,4,3,4,4,1,3,2,3,2,4,4,1,3,lscs,ts,anm
+921,Yedam Nagarani,Yedam Nagarani,37,38,TSMTO7,TSMTO7,10,10,Danawaygudem,Danawaygudem,8,9,9491425070,9491425070,04-03-2025,04-03-2025,1,4,3,3,4,4,4,4,2,2,4,4,3,3,1,1,4,1,3,3,lscs,ts,anm
+922,Pilli Rani,Pilli Rani,52,52,TSMTO7,TSMTO7,10,10,Chowtapalli,Chowtapalli,15,15,9177443264,9177443264,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,1,3,3,4,1,3,3,lscs,ts,anm
+923,?????????? komuramma,Podishetty komuramma,52,52,TSMTO7,TSMTO7,10,10,Telagavaram,Telagavara,18,20,9121345171,9121345171,04-03-2025,04-03-2025,4,4,3,4,4,4,4,4,1,1,2,3,4,3,4,1,4,1,3,1,lscs,ts,anm
+924,T.Lalitha kumari,T.Lalita kumari,54,54,TSMTO7,TSMTO7,10,10,Kalakota,Kalakota,29,29,9550871223,9550871223,04-03-2025,04-03-2025,4,4,3,3,1,4,4,4,2,2,4,3,3,3,1,2,4,4,1,1,lscs,ts,anm
+925,Tadikala padma,T.padma,45,45,TSMTO7,TSMTO7,10,10,Peruvancha,Peruvancha,18,18,9573546439,9573546439,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+926,N Tayamma,N Tayamma,58,58,TSMTO7,TSMTO7,10,10,Sathupally,Sathupally,31,30,9493317046,9493317046,04-03-2025,04-03-2025,4,4,3,2,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+927,Angadala padmavathi,A.padmavaghi,40,40,TSMTO7,TSMTO7,10,10,Rudrakshaplli,Rudrakshapalli,17,17,9177354608,9177354608,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,3,3,3,3,2,4,3,3,3,lscs,ts,anm
+928,Daravath Aruna,Daravath Aruna,39,39,TSMTO7,TSMTO7,10,10,Thimmaraopeta,Thimmaraopeta,15,15,9177859934,9177859934,04-03-2025,04-03-2025,4,4,3,2,4,1,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+929,B. Rajyalaxmi,B. Rajyalaxmi,29,29,TSMTO7,TSMTO7,10,10,Theldarupalli,Theldarupalli,4,4,8096766343,8096766343,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+930,B Krishna veni,B Krishna veni,37,37,TSMTO7,TSMTO7,10,10,Ravinuthala,Ravinuthala,16,17,9177419972,9177419972,04-03-2025,04-03-2025,4,4,2,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+931,Lakavath. Chinni,Lakavath. Chinni,49,1974,TSMTO7,TSMTO7,10,10,Thallagudem,Thallagudem,17,17,9676488297,9676488297,04-03-2025,04-03-2025,3,4,4,4,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+932,N Satyavani,N Satyavani,49,49,TSMTO7,TSMTO7,10,10,Pandurangapuram,Pandurangapuram,17,17,9949382946,9949382946,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+933,Koduri Manjula,Koduri Manjula,36,36,TSMTO7,TSMTO7,10,10,Rudrakshapalli,Rudrakshapalli,17,17,9866636022,9866636022,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+934,Ch.Suguna,Ch.Suguna,1967,1967,TSMTO7,TSMTO7,10,10,Jallepalli,Jallepalli,17,17,8008252969,8008252969,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,4,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+935,B aruna,B aruna,36,36,TSMTO7,TSMTO7,10,10,Chowtapalli,Chowtapalli,16,16,9848252714,9848252714,04-03-2025,04-03-2025,4,4,2,2,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+936,N Vasantha,N Vasantha,33,33,TSMTO7,TSMTO7,10,10,Mohamadapuram,Mohamadahapuram,4,4,8096023941,8096023941,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+937,Thathapari Nagamani,T.Nagamani,53,53,TSMTO7,TSMTO7,10,10,Bethupalli,Bethupalli,14,14,9948621539,9948621539,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+938,V Malleswari,V Malleswari,17,46,TSMTO7,TSMTO7,10,10,Gatekarepalli,Gatekarepalli,17,17,9908325772,9908325772,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+939,Podem nagamani,Podem nagamani,43,43,TSMTO7,TSMTO7,10,10,Perepalli,Perepalli,9,9,9866806983,9866806983,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,4,3,4,3,4,4,3,3,lscs,ts,anm
+940,K Renuka,Renuka,40,40,TSMTO7,TSMTO7,10,10,Peddamandava,Peddamandava,16,16,8500276557,8500276557,04-03-2025,04-03-2025,4,4,4,3,4,4,4,4,2,2,4,4,2,2,3,3,4,4,3,3,lscs,ts,anm
+941,K padmavathi,K padmavathi,50,50,TSMTO7,TSMTO7,10,10,Sambaninagar,Sambaninagar,25,25,9505536193,9505536193,04-03-2025,04-03-2025,4,4,3,3,4,4,3,3,1,1,4,3,3,3,1,2,4,4,2,2,lscs,ts,anm
+942,M Devika,M Devika,46,46,TSMTO7,TSMTO7,10,10,Papatapalli,Papatapalli,17,17,9505887393,9505887393,04-03-2025,04-03-2025,4,4,3,3,4,1,4,3,3,3,1,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+943,Kothapally Shantha kumari,Kothapally shantha kumari,50,50,TSMTO7,TSMTO7,10,10,Mvpalem,Mvpalem,20,20,9949914862,9949914862,04-03-2025,05-03-2025,4,4,3,1,4,4,4,4,1,2,4,1,3,3,3,3,4,4,3,3,lscs,ts,anm
+944,G Saraswati,G. Saraswathi,51,51,TSMTO7,TSMTO7,10,10,Bonakal,Bonakal,24,24,9949085505,9949085505,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+945,K annapurna,K Annapurna,48,48,TSMTO7,TSMTO7,10,10,Pinapaka,Pinapaka,17,17,9553506223,9553506223,04-03-2025,04-03-2025,4,4,3,1,4,1,4,4,3,4,4,4,2,4,3,4,4,4,3,1,lscs,ts,anm
+946,Nathi Uppalamma,Nathi Uppalamma,40,40,TSMTO7,TSMTO7,10,10,Beerolu,beerolu,17,17,9676141689,9676141689,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+947,B Sailaja,B Sailaja,45,45,TSMTO7,TSMTO7,10,10,Sri Ram Nagar,Sri Ram Nagar,8,8,8790158591,8790158591,04-03-2025,04-03-2025,4,4,3,3,4,4,4,3,2,1,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+948,Tera.Jyothi,Tera Jyothi,46,46,TSMTO7,TSMTO7,10,10,Kandukuru,Kandukuru,17,17,9505472527,9505472527,04-03-2025,04-03-2025,4,4,3,3,4,4,3,3,3,2,4,4,3,3,2,3,4,4,3,3,lscs,ts,anm
+949,B Ramadevi,B Ramadevi,42,42,TSMTO7,TSMTO7,10,10,Chowdavaram,Chowdaram,17,17,9502771326,9502771326,04-03-2025,04-03-2025,4,4,3,3,2,4,3,4,3,3,4,1,4,3,4,1,4,4,2,3,lscs,ts,anm
+950,R Ramadevi,R Ramadevi,41,41,TSMTO7,TSMTO7,10,10,Koyachalaka,Koyachalaka,17,17,8008635828,8008635828,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,1,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+951,B. chilakamma,B. chilakamma,45,45,TSMTO7,TSMTO7,10,10,Kamalapuram,Kamalapuram,15,15,9550466685,9550466685,04-03-2025,04-03-2025,4,4,4,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+952,Tammisetti Nagamani,Tammisetti Nagamani,33,33,TSMTO7,TSMTO7,10,10,Shanthi nagar,Shanti nagar,8,8,8008813759,8008813759,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,1,1,4,4,3,3,3,3,2,1,3,3,lscs,ts,anm
+953,R laxmi,R laxmi,47,48,TSMTO7,TSMTO7,10,10,Patharlapadu,Patharlapadu,18,18,9492312204,9492312204,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+954,B Kalavathi,B Kalavathi,47,47,TSMTO7,TSMTO7,10,10,Madharam,Madharam,17,17,9542857496,9542857496,04-03-2025,04-03-2025,2,4,3,3,2,1,2,4,2,1,3,4,2,1,1,3,1,4,2,3,lscs,ts,anm
+955,Palika Nagamani,Palika Nagamani,50,50,TSMTO7,TSMTO7,10,10,Surya thanda,Surya thanda,25,25,9603631624,9603631624,04-03-2025,04-03-2025,4,4,3,3,2,4,4,4,3,3,3,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+956,Kolikapongu Uma,Kolikapongu Uma,35,35,TSMTO7,TSMTO7,10,10,Guvvalagudem,Guvvalagudem,17,18,9573944740,9573944740,04-03-2025,04-03-2025,4,4,3,3,4,4,3,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+957,Messu Kalavathi,M.kalavathi,46,46,TSMTO7,TSMTO7,10,10,Motlagudem,Motlagudem,17,16,7993381974,7993381974,04-03-2025,04-03-2025,3,4,3,3,2,1,3,3,2,2,3,3,3,4,3,3,4,4,3,3,lscs,ts,anm
+958,Vemu Kusuma Kumari,Vemu kusuma Kumari,48,48,TSMTO7,TSMTO7,10,10,Chandrupatla,Chandrupatla,18,18,9704405399,9704405399,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+959,M Chittemma,M Chittemma,39,39,TSMTO7,TSMTO7,10,10,Muchavaram,Muchavaram,17,17,9705000871,9705000871,04-03-2025,04-03-2025,2,2,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+960,I Umarani,I Umarani,32,32,TSMTO7,TSMTO7,10,10,Yerraboinapalli,Ybpalli,3,3,9640312975,9640312975,04-03-2025,04-03-2025,2,4,3,3,4,4,4,3,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+963,A .s Anjali,S Anjali,48,48,TSMTO7,TSMTO7,10,10,Viswanadhapalli,Viswanadhapalli,28,28,9000545994,9000545994,04-03-2025,04-03-2025,4,4,3,4,1,4,3,3,3,1,3,4,1,4,2,4,1,4,1,3,lscs,ts,anm
+964,B yrumalla lakahmi,B Lakshmi,1974,1974,TSMTO7,TSMTO7,9,10,Dhamsalapuram,Dhamsalapuram,17,17,9959488390,9959488390,04-03-2025,04-03-2025,4,4,3,3,4,4,3,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+965,Payam Anasurya,Payam Anasurya,47,47,TSMTO7,TSMTO7,10,10,Seetharampuram,Seetharampuram,17,17,9849728032,9849728032,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,3,4,3,3,3,3,3,4,4,3,3,lscs,ts,anm
+966,A jayamma,A jayamma,46,46,TSMTO7,TSMTO7,10,10,Usirikayalalli,Usirikayalapalli,17,1,9703319918,9703319918,04-03-2025,04-03-2025,1,4,3,4,1,4,3,4,3,1,3,4,1,4,2,1,1,4,1,3,lscs,ts,anm
+967,Gollamandala Suneetha,Gollamandala Suneetha,1982,17,TSMTO7,TSMTO7,10,10,Thumburu,Thumburu,17,17,9963332791,9963332791,04-03-2025,04-03-2025,4,4,3,3,4,4,3,3,4,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+968,Badavath Navatha,Badavath Navatha,35,35,TSMTO7,TSMTO7,10,10,Komminepally,Komminepally,17,17,8978732640,8978732640,04-03-2025,04-03-2025,4,4,3,3,4,4,3,4,4,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+969,A Sunitha,A Sunitha,35,35,TSMTO7,TSMTO7,10,10,Chennur,Chennur,17,17,7036374119,7036374119,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+970,Daravath. Anjamma,D. Anjamma,4,40,TSMTO7,TSMTO7,10,10,Pandithapuram,Pandithapuram,4,4,9701946313,9701946313,04-03-2025,05-03-2025,4,4,3,3,4,1,3,3,3,3,4,4,3,3,1,3,4,4,3,3,lscs,ts,anm
+971,B. Nagamani,B. Nagamani,29,29,TSMTO7,TSMTO7,10,10,Thallampadu,Thallampadu,4,4,9705915050,9705915050,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+972,V krishnaveni,V krisshnaveni,35,35,TSMTO7,TSMTO7,10,10,Peddakorukondi,Peddakorukondi,17,17,9553657450,9553657450,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+973,POLAMPALLI BHAVANI,P bhavani,28,28,TSMTO7,TSMTO7,10,10,Chervumadaram,Chervumadaram,6,6,9603182061,9603182061,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,1,3,3,4,4,1,3,lscs,ts,anm
+974,L. Jaya kumari,L Jaya kumari,48,48,TSMTO7,TSMTO7,10,10,Enkoor,Enkoor,18,18,9014530420,9014530420,04-03-2025,04-03-2025,4,4,4,3,2,4,4,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+975,Bandla Syamala,Bandla Syamala,35,35,TSMTO7,TSMTO7,10,10,BurdhaRagavapuram,BurdhaRagavapuram,17,17,6302380556,6302380556,04-03-2025,03-03-2025,4,4,3,3,4,4,3,3,3,3,4,4,3,3,3,3,4,4,3,2,lscs,ts,anm
+976,V Hemalatha,V Hemalatha,59,59,TSMTO7,TSMTO7,10,10,Chinthakani,Chinthakani,33,32.2,9701143871,9701143871,04-03-2025,04-03-2025,4,4,1,3,4,4,1,3,3,4,4,4,4,3,3,1,2,4,2,1,lscs,ts,anm
+977,Angadi Subhadra,A.Subhadra,48,48,TSMTO7,TSMTO7,10,10,Sublaid,Sublaid,25,25,9912649837,9912649837,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+980,B Rajyamma,B Rajyamma,14,50,TSMTO7,TSMTO7,10,10,Timminenipalem,Timminenipalem,14,14,7702051467,7702051467,04-03-2025,04-03-2025,4,1,4,4,4,1,4,3,3,4,4,3,3,3,3,3,4,4,3,3,lscs,ts,anm
+981,A chandana,A chandana,35,35,TSMTO7,TSMTO7,10,10,Singareni 1,Singareni 1,4,4,8790137408,8790137408,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,4,2,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+982,Bhukya jayamma,B jayamma,52,52,TSMTO7,TSMTO7,10,10,Ramkrishnapuram,Ramkrishna puran,28,28,9848481283,9848481283,04-03-2025,04-03-2025,4,4,4,4,4,4,4,3,2,1,4,3,3,3,3,3,4,4,1,3,lscs,ts,anm
+983,Dharavthu,Dharathu chandrika,1971,54,TSMTO7,TSMTO7,10,10,Seetharampuram,Seetharampuram,28,28,9959080547,9959080547,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,1,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+985,Nandru Suneetha,Nandru Suneetha,43,43,TSMTO7,TSMTO7,10,10,Gangaram,Gangaram,4,4,7794979252,7794979252,04-03-2025,04-03-2025,4,4,3,3,3,1,4,4,3,3,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+987,G suseela,G suseela,52,52,TSMTO7,TSMTO7,10,10,Chintagurti,Chintagurti,28,28,8106371166,8106371166,04-03-2025,04-03-2025,2,2,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+988,Punem vijayakumari,Punem vijayakumari,45,45,TSMTO7,TSMTO7,10,10,Gandhinagar,Gandhinagar,17,17,9701095583,9701095583,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,1,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+989,Kanithi. Ramanamma,Kanithi. Ramanamma,47,47,TSMTO7,TSMTO7,10,10,Maddulapally,Maddulapally,17,17,9441996226,9441996226,04-03-2025,04-03-2025,4,4,3,3,1,1,4,4,2,2,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+990,M Nagamani,M Nagamani,31,31,TSMTO7,TSMTO7,10,10,Maddulapally,Maddulapally,8,8,9704202274,9704202274,04-03-2025,04-03-2025,4,4,3,3,4,4,3,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+991,K Geetha,K geetha,1986,1986,TSMTO7,TSMTO7,10,10,Thummalapalli,Thummalapali,3,3,7396469315,7396469315,04-03-2025,04-03-2025,4,4,3,2,4,4,4,3,3,1,4,4,1,4,3,3,4,4,2,1,lscs,ts,anm
+992,A.rajitha,A.rajitha,44,44,TSMTO7,TSMTO7,27,27,Sanjeevnager,Sanjeevnager,18,18,9573904692,9573904692,11-03-2025,11-03-2025,4,2,2,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+993,V jalaja,V Jalaja,43,43,TSMTO7,TSMTO7,27,27,Nasarpura,Nasarpura,16,16,8639115218,8639115218,11-03-2025,11-03-2025,4,4,3,3,1,1,4,4,2,3,4,4,4,4,3,3,4,4,1,3,lscs,ts,anm
+994,K Krishnaveni,K Krishnaveni,40,40,TSMTO7,TSMTO7,27,27,Yellareddypet,Yellareddypet,16,16,9618513102,9618513102,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,4,3,4,4,3,3,3,3,4,4,3,2,lscs,ts,anm
+995,T Laxmi,T Laxmi,2008,46,TSMTO7,TSMTO7,27,27,Cheekode,Cheekode,18,18,9912251125,9912251125,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,4,3,1,4,4,3,3,3,4,4,1,3,lscs,ts,anm
+996,Pitla Yadamma,P Yadamma,41,41,TSMTO7,TSMTO7,27,27,Jakkapur,Jakkapur,17,17,9542296885,9542296885,11-03-2025,11-03-2025,4,4,3,2,2,2,4,4,3,4,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+997,Msayavva,MSayavva,50,50,TSMTO7,TSMTO7,27,27,Gurralagondi,Gurralagondi,25,25,9701410971,9701410971,11-03-2025,11-03-2025,4,4,3,2,2,2,4,4,3,4,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+998,Dumpati srivani,Dumpati srivani,33,33,TSMTO7,TSMTO7,27,27,Ufwc Siddipet,Ufwc,7,7,9866007495,9866007495,11-03-2025,11-03-2025,4,4,3,2,4,4,4,3,1,2,4,4,1,1,1,3,4,4,3,3,lscs,ts,anm
+999,B Padmalatha,B Padmalatha,53,53,TSMTO7,TSMTO7,27,27,Khajipur,Khajipur,28,28,7702141094,7702141094,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,2,3,3,3,4,4,3,3,lscs,ts,anm
+1000,P Shyamala devi,P Shyamala devi,59,59,TSMTO7,TSMTO7,27,27,Lingareddypally,Lingareddypally,30,30,9966435434,9966435434,11-03-2025,11-03-2025,2,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1001,P.Padmavathi,P.padmavathi,53,53,TSMTO7,TSMTO7,27,27,Raghavapur,Raghavapur,53,27,9963320624,9963320624,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1002,G sudha,G sudha,39,39,TSMTO7,TSMTO7,20,27,Raghavapur,Alwal,18,18,9490272187,9490272187,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1003,A Yellavva,A Yellavva,44,44,TSMTO7,TSMTO7,27,27,Laxmidevipally,Laxmidevipally,23,23,8247493821,8247493821,11-03-2025,11-03-2025,4,4,2,3,4,4,4,4,3,3,4,4,3,3,3,3,1,4,1,3,lscs,ts,anm
+1004,Ch Ruth shoba,Ch Ruth shoba,58,58,TSMTO7,TSMTO7,27,27,Narayanaraopet,Narayanaraopet,27,27,9491613487,9491613487,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1005,D Latha,D Latha,37,37,TSMTO7,TSMTO7,27,27,Khanapur,Khanapur,16,16,9701572524,9701572524,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1006,S Rajitha,S Rajitha,16,32,TSMTO7,TSMTO7,27,27,Nangunoor,Nangunoor,16,16,9542916313,9542916313,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1007,V.Devamani,V.Devamani,47,48,TSMTO7,TSMTO7,27,27,Baddipadaga,Baddipadaga,26,26,9441356947,9441356947,11-03-2025,11-03-2025,4,4,4,3,4,4,3,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1008,Gunti Lalitha,G Lalitha,36,36,TSMTO7,TSMTO7,27,27,Akberpet,Akberpet,17,17,9701010371,9701010371,11-03-2025,11-03-2025,4,4,4,4,4,4,4,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+1009,Cheekoti prameela,Cheekoti prameela,45,45,TSMTO7,TSMTO7,27,27,Chittapur,Chittapur,19,19,9441369247,9441369247,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+1011,Pullur,K Leela,30,55,TSMTO7,TSMTO7,27,27,Pullur,Pullur,30,30,9492559916,9492559916,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1012,B yellavva,B yellavva,46,46,TSMTO7,TSMTO7,27,27,Thoguta,Thoguta,18,18,9704613949,9704613949,11-03-2025,11-03-2025,1,4,3,1,1,3,4,4,3,3,4,4,3,3,3,1,4,4,3,1,lscs,ts,anm
+1013,R.chandrakala,R.chandrakala,1990,30,TSMTO7,TSMTO7,27,27,Narayana Rao pet,Narayana Rao pet,3,3,8374618886,8374618886,11-03-2025,11-03-2025,4,4,3,3,4,2,4,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1014,T  Anitha,T Anitha,35,35,TSMTO7,TSMTO7,27,27,Indupriyal,Indupriyal,15,16,7673993686,7673993686,11-03-2025,11-03-2025,4,4,3,3,1,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1015,Sukuri Jayanthi,S Jayanthi,37,37,TSMTO7,TSMTO7,27,27,Gambheerpur,Gambheerpur,19,19,7032299193,7032299193,11-03-2025,11-03-2025,4,4,3,3,2,4,4,4,2,3,4,1,2,3,2,3,4,4,2,3,lscs,ts,anm
+1016,Babburu LaxmiNarasamna,Babburu Laxminarasamma,50,50,TSMTO7,TSMTO7,27,27,Allipur,Allipur,18,18,9652738221,9652738221,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,3,2,3,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1018,M Ruparani,M Ruparani,39,39,TSMTO7,TSMTO7,27,27,Chinnagundavelly,Chinnagundavelly,17,17,9989051419,9989051419,11-03-2025,11-03-2025,2,4,2,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1019,Somannagari Manjula,Somannagari Manjula,45,45,TSMTO7,TSMTO7,27,27,Bhoompally,Bhoompally,23,23,7569605871,7569605871,11-03-2025,11-03-2025,4,4,4,3,2,2,1,3,4,2,1,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+1020,R Renuka,R Renuka,29,29,TSMTO7,TSMTO7,27,27,Khatha,Khatha,7,7,9908423875,9908423875,11-03-2025,11-03-2025,4,4,3,3,4,3,4,4,1,2,4,4,4,1,3,3,4,1,3,3,lscs,ts,anm
+1021,G.samrajyam,G.samrajyam,58,58,TSMTO7,TSMTO7,27,27,Nangunoor,Nangunoor,23,23,9963005124,9963005124,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,1,3,4,4,3,2,1,3,4,1,3,3,lscs,ts,anm
+1024,BRajyalaxmi,BRajyalaxmi,23,45,TSMTO7,TSMTO7,27,27,Habshipur,Habshipur,23,23,9959748922,9959748922,11-03-2025,11-03-2025,4,4,4,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1025,N Vandana,N Vandana,46,46,TSMTO7,TSMTO7,27,27,Balwanthapur,Balwanthapur,23,23,9912578253,9912578253,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1026,B Bharathamma,B Bharathamma,47,47,TSMTO7,TSMTO7,27,27,Appanapally,Appanapally,23,23,9573693739,9573693739,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1027,R Kavitharani,R Kavitharani,37,37,TSMTO7,TSMTO7,27,27,Thadkapally,Thadkapally,17,17,9177257621,9177257621,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+1028,Jakkula vinoda,Jakkula vinoda,1983,1983,TSMTO7,TSMTO7,27,27,Ponnal,Ponnal,17,17,9505333381,9505333381,11-03-2025,11-03-2025,3,4,3,3,4,4,4,4,3,3,4,4,4,4,3,3,4,4,3,3,lscs,ts,anm
+1029,G Santhoshi,G Santhoshi,37,37,TSMTO7,TSMTO7,27,27,Medipally,Medipally,18,18,9505485988,9505485988,11-03-2025,11-03-2025,4,4,3,3,1,4,3,3,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1030,M Kavitha,M Kavitha,30,30,TSMTO7,TSMTO7,27,27,Bhoompally,Bhoompally,4,4,9848058634,9848058634,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,4,3,3,3,3,3,4,4,1,3,lscs,ts,anm
+1031,B Anitha,B Anitha,30,30,TSMTO7,TSMTO7,27,27,Yellareddypet,Yellareddypet,4,4,9704613920,9704613920,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1032,Miruoddi Swaroopa Rani,Mirudoddi Swaroopa Rani,39,39,TSMTO7,TSMTO7,27,27,Indupriyal,Indupriyal,15,15,7893856377,7893856377,11-03-2025,11-03-2025,4,1,3,3,4,2,3,4,4,3,4,4,3,3,3,3,2,4,3,1,lscs,ts,anm
+1033,E Giraija,Girija,45,45,TSMTO7,TSMTO7,27,27,Rudraram,Rudraram,18,17,8106400065,8106400065,11-03-2025,11-03-2025,4,4,3,2,4,4,3,3,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1034,Ramcherla Soundarya,Ramcherla Soundarya,36,36,TSMTO7,TSMTO7,27,27,Peddagundavelly,Peddagundavelly,17,17,7732023700,7732023700,11-03-2025,11-03-2025,4,4,3,2,1,4,4,4,3,1,1,1,3,1,1,1,1,1,1,2,lscs,ts,anm
+1035,Gyara premalatha,Gyara premalatha,34,34,TSMTO7,TSMTO7,27,27,Dubbak A,Dubbak A,4,4,9177060452,9177060452,11-03-2025,11-03-2025,1,4,3,3,1,4,2,4,2,4,2,4,1,3,1,3,1,4,2,3,lscs,ts,anm
+1036,MSaraswathi,M Saraswathi,39,10,TSMTO7,TSMTO7,27,27,Baddipadaga,BADDIPADAGA,18,18,9573281170,9573281170,11-03-2025,11-03-2025,1,4,3,2,4,4,3,3,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1037,Kalva sujatha,K Sujatha,44,44,TSMTO7,TSMTO7,27,27,Chinnagundavelly,Chinnagundavelly,24,24,9949537704,9949537704,11-03-2025,11-03-2025,2,4,3,3,2,4,4,4,4,3,4,4,2,4,1,1,4,4,2,3,lscs,ts,anm
+1038,B JyoshnaRani,B. Jyothsna Rani,48,48,TSMTO7,TSMTO7,27,27,Ibrahimnagar,Ibrahimnagar,26,26,9704561115,9704561115,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1039,T MANJULA,T Manjula,39,39,TSMTO7,TSMTO7,27,27,Ibrahim nagar,Ibrahim nagar,18,18,9959528816,9959528816,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1041,B Niroopa,B Niroopa,45,45,TSMTO7,TSMTO7,27,27,Mutrajpally,Mutrajpally,26,26,6304301955,6304301955,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+1042,P Manjula,P Manjula,38,38,TSMTO7,TSMTO7,27,27,Mallupally,Mallupally,15,15,8985891470,8985891470,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1043,Perka Bujjamma,P bujjamma,37,32,TSMTO7,TSMTO7,27,27,Khajipur,Khajipur,17,16,9000687360,9000687360,11-03-2025,11-03-2025,1,4,2,3,1,1,1,4,2,4,3,3,3,1,2,3,4,3,1,1,lscs,ts,anm
+1044,K Sharadha,K Sharadha,45,45,TSMTO7,TSMTO7,27,27,Velkatoor,Velkatoor,26,26,8019575146,8019575146,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,3,4,3,3,2,3,2,4,1,3,lscs,ts,anm
+1045,Ch Swapna,Ch Swapna,36,36,TSMTO7,TSMTO7,27,27,Gudikandula,Gudikandula,16,17,9912381873,9912381873,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1047,T.Vijjamma,T.Vijjamma,53,15,TSMTO7,TSMTO7,27,27,Govindapur,Govindapur,15,15,9347110114,9347110114,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1048,D Swarnamma,D Swarnamma,55,55,TSMTO7,TSMTO7,27,27,Dharmaram,Dharmaram,27,26,9440230821,9440230821,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1049,G Chandrakala,G chandrakala,42,42,TSMTO7,TSMTO7,27,27,waddepally,waddepally,5,5,9949210419,9949210419,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1050,Sarvale Deepika,Sarvale Deepika,31,31,TSMTO7,TSMTO7,27,27,Govindapur,Govindapur,10,10,9652217362,9652217362,11-03-2025,11-03-2025,1,4,2,2,4,1,4,4,2,4,4,4,3,4,2,3,4,4,3,3,lscs,ts,anm
+1052,V Anitha,V Anitha,36,36,TSMTO7,TSMTO7,27,27,Jaligama,Jaligama,15,16,6304490585,6304490585,11-03-2025,11-03-2025,4,4,3,3,4,4,3,3,4,3,4,4,4,2,3,3,1,4,3,3,lscs,ts,anm
+1053,K. Nagarani,Nagarani,40,40,TSMTO7,TSMTO7,27,27,Doulthabad,Doulthabad,4,4,8096736104,8096736104,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,1,2,4,4,3,3,3,1,4,4,1,3,lscs,ts,anm
+1055,T saritha,T saritha,37,37,TSMTO7,TSMTO7,27,27,Sanjeevnagar,Sanjeev nagar,9,9,9704296242,9704296242,11-03-2025,11-03-2025,4,4,2,3,4,4,4,3,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1056,That Venkatamma,Thati Venkatamma,40,40,TSMTO7,TSMTO7,27,27,Ambedkar nagar,Ambedkar nagar,9,9,8096348703,8096348703,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1057,M.Ramadevi,M.Ramadevi,36,17,TSMTO7,TSMTO7,27,27,Peddagundavelly,Peddagundavelly,17,17,6304974658,6304974658,11-03-2025,11-03-2025,1,2,2,2,2,4,2,4,3,1,2,1,2,3,2,2,2,2,2,2,lscs,ts,anm
+1058,I Balnarsavva,I Balnarsavva,39,39,TSMTO7,TSMTO7,27,27,Dubbak A,Dubbak A,16,16,9951010206,9951010206,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,2,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1059,Ashili Rajitha,ASHILIRAJITHA,33,33,TSMTO7,TSMTO7,27,27,Nagapuri,Nagapuri,16,16,7993241683,7993241683,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,1,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1061,P.Anuradha,P.Anuradha,42,42,TSMTO7,TSMTO7,27,27,Thoguta,Thoguta,17,17,9959003110,9959003110,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1062,E.laxmi,E.laxmi,36,36,TSMTO7,TSMTO7,27,27,Uphc nasarpura,Nasarpura,7,7,7093551523,7093551523,11-03-2025,11-03-2025,2,4,3,3,4,4,3,4,1,2,1,4,2,2,3,3,2,4,3,3,lscs,ts,anm
+1063,Aswetha,Aswetha,38,38,TSMTO7,TSMTO7,27,27,Akaram,Akaram,18,18,9603602583,9603602583,11-03-2025,11-03-2025,4,4,3,3,2,4,4,4,3,3,4,1,3,3,3,3,4,4,3,1,lscs,ts,anm
+1064,Reddymalla Renuka,R. Renuka,35,35,TSMTO7,TSMTO7,27,27,Dubbak,Dubbak B,18,18,9177657617,9177657617,11-03-2025,11-03-2025,4,4,2,3,4,4,4,4,2,3,1,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1065,Kavitha,Kavitha,36,37,TSMTO7,TSMTO7,27,27,Vechareni,Vechareni,18,18,9676799753,9676799753,11-03-2025,11-03-2025,4,4,2,3,1,4,4,3,3,2,1,4,2,3,2,3,1,4,1,3,lscs,ts,anm
+1066,EGeetha,EGeetha,35,35,TSMTO7,TSMTO7,27,27,Sc chuchunakota,Sc chuchunakota,16,18,7702309493,7702309493,11-03-2025,11-03-2025,4,4,4,2,3,4,4,3,4,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1068,Shaheensulthana,Shaheen sulthana,35,35,TSMTO7,TSMTO7,27,27,Sanjeevnager,Sanjeevnager,17,17,9959630696,9959630696,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,2,2,4,4,3,3,3,1,4,4,3,3,lscs,ts,anm
+1069,K Balamani,K Balamani,44,44,TSMTO7,TSMTO7,27,27,Nasarpura,Nasarpura,18,18,9989067161,9989067161,11-03-2025,11-03-2025,2,4,3,3,4,4,4,4,2,2,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
+1070,G Lavanya,G Lavanya,41,40,TSMTO7,TSMTO7,27,27,Gatlamalyala,Gatlamalyala,17,17,9652292837,9652292837,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,4,3,4,1,3,3,3,3,4,4,3,3,lscs,ts,anm
+1071,Fpushpalatha,Dpushpalatha,42,42,TSMTO7,TSMTO7,27,27,Thimmapur,Thimmapur,16,16,9704316105,9704316105,11-03-2025,11-03-2025,4,4,4,2,4,2,4,4,1,1,4,1,3,3,3,1,4,4,1,1,lscs,ts,anm
+1072,S Jyothi,S Jyothi,42,42,TSMTO7,TSMTO7,27,27,Palamakaula,Palamakaula,16,16,9618491680,9618491680,11-03-2025,11-03-2025,4,4,2,3,4,4,4,4,3,3,4,4,4,3,3,3,4,4,1,1,lscs,ts,anm
+1073,G Dhana,G dhana,54,29,TSMTO7,TSMTO7,27,27,Ramakkapet,Ramakkapet,29,29,9959278088,9959278088,11-03-2025,11-03-2025,1,4,3,3,4,1,4,4,1,2,4,3,1,2,1,1,1,4,1,1,lscs,ts,anm
+1074,Nayini Swapna,N Swapna,36,36,TSMTO7,TSMTO7,27,27,Vemulghat,Vemulghat,17,17,9704630805,9704630805,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1075,P Swapna,P Swapna,42,42,TSMTO7,TSMTO7,27,27,Mirdoddi,Mirdoddi,18,18,7036313280,7036313280,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,1,3,4,4,3,2,3,3,4,4,3,3,lscs,ts,anm
+1076,MOGULLA LALITHA,MOGULLA LALITHA,47,47,TSMTO7,TSMTO7,27,27,Ponnal,Ponnal,21,21,9704352651,9704352651,11-03-2025,11-03-2025,4,4,3,3,4,4,3,3,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1077,Sonaveni Sujatha,S Sujatha,49,49,TSMTO7,TSMTO7,27,27,Chintamadaka,Chintamadaka,17,17,9949569255,9949569255,11-03-2025,11-03-2025,4,4,2,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1078,D Santhosha,D santhosha,45,45,TSMTO7,TSMTO7,27,27,Irkode,Irkode,17,17,9949609584,9949609584,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1079,N Anasuya,N Anasuya,45,45,TSMTO7,TSMTO7,27,27,Ambedkarnagar,Ambedkarnagar,8,8,9490524990,9490524990,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1080,Ch Anitha,Ch Anitha,34,36,TSMTO7,TSMTO7,27,27,Marrimustyala,Marrimustyala,16,16,9704567922,9704567922,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+1081,Damerakunta Karuna,Damerakunta karuna,45,45,TSMTO7,TSMTO7,27,27,Mustyala,Mustyala,16,16,9502495340,9502495340,11-03-2025,11-03-2025,4,4,3,3,1,1,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1082,P.Annapurna,P.Annapurna,38,38,TSMTO7,TSMTO7,27,27,Chityala,Chityala,16,16,9676864518,9676864518,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,3,3,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+1083,N Rajeshwari,N Rajeshwari,27,27,TSMTO7,TSMTO7,27,27,Kadaverugu,Kadaverugu,4,4,7659951051,7659951051,11-03-2025,11-03-2025,4,4,4,3,4,4,4,3,4,3,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+1084,T Sujatha,T Sujatha,49,49,TSMTO7,TSMTO7,27,27,EG kistapur,E G kistapur,22,22,7893040625,7893040625,11-03-2025,11-03-2025,3,4,4,3,4,4,4,4,2,4,4,4,3,4,3,3,4,3,3,3,lscs,ts,anm
+1086,K Amrutha,K Amrutha,36,36,TSMTO7,TSMTO7,27,27,PP unit cherial,Pp unit cherial,3,3,8332098679,8332098679,11-03-2025,11-03-2025,2,4,3,3,4,4,4,4,2,3,4,4,4,3,1,3,1,4,3,3,lscs,ts,anm
+1087,R Vijayalaxmi,R Vijayalaxmi,59,59,TSMTO7,TSMTO7,27,27,Pppunit cherial,Pppunit cherial,23,23,8106899039,8106899039,11-03-2025,11-03-2025,2,4,3,3,1,4,4,4,2,3,4,4,4,3,3,3,4,4,1,3,lscs,ts,anm
+1088,Jangiti Mamatha,J mamatha,25,25,TSMTO7,TSMTO7,27,27,Akaram,Akaram,4,4,7997506561,7997506561,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,4,3,3,3,3,3,4,4,1,1,lscs,ts,anm
+1089,Parsa Sandhyarani,P sandhyarani,23,23,TSMTO7,TSMTO7,27,27,Ghambeerpur,Ghambeerpur,4,4,9866345308,9866345308,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,3,4,3,3,3,3,3,4,4,1,1,lscs,ts,anm
+1090,PJyothi,P Jyothi,38,38,TSMTO7,TSMTO7,27,27,Raorukula,Narayanraopet,17,17,9505804092,9505804092,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+1091,P Vijaya,P Vijaya,51,51,TSMTO7,TSMTO7,27,27,Mittapally,Mittapally,28,28,9963688124,9963688124,11-03-2025,11-03-2025,4,4,3,3,4,4,3,4,4,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1092,B. Sunitha,B. Sunitha,47,47,TSMTO7,TSMTO7,27,27,Pothareddypet,Pothareddypet,17,17,9391128707,9391128707,11-03-2025,04-03-2025,4,4,3,2,4,4,4,4,1,3,1,3,4,3,3,3,1,1,3,3,lscs,ts,anm
+1093,Rajaribka,G. RajaRibka,53,53,TSMTO7,TSMTO7,27,27,Pothireddy pally,Pothireddy pally,23,23,9394776148,9394776148,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1094,A. Bhagyalaxmi,A.bhagyalaxmi,42,42,TSMTO7,TSMTO7,27,27,Guruvannapet,Guruvannapet,16,16,9618075938,9618075938,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1095,K Swapna,K Swapna,35,35,TSMTO7,TSMTO7,27,27,Ainapur,Ainapur,4,4,8790113224,8790113224,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,1,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1097,Bhoompally Kavitha,Bhoompally Kavitha,39,39,TSMTO7,TSMTO7,27,27,Ananthasagar,AnanthaSagar,18,18,9951617045,9951617045,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1099,B Neela,B Neela,36,36,TSMTO7,TSMTO7,27,27,YG kistapur,YG kistapur,17,17,9553696489,9553696489,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1101,Ghanapuram Sujatha,Ghanapuram Sujatha,32,32,TSMTO7,TSMTO7,27,27,Appanapally,Appanapally,4,4,7674881227,7674881227,11-03-2025,11-03-2025,4,4,3,2,4,4,3,3,3,3,1,4,1,3,1,3,2,4,2,3,lscs,ts,anm
+1102,G. Santhosham,G. Santhosham,22,45,TSMTO7,TSMTO7,27,27,Rajgopalpet,Rajgopalpet,22,22,9866574227,9866574227,11-03-2025,11-03-2025,4,4,4,3,1,3,3,3,3,3,3,3,1,3,4,3,4,2,2,3,lscs,ts,anm
+1104,Chepyala rajeshwari,Chepyala rajeshwari,29,29,TSMTO7,TSMTO7,27,27,Chuchunakota,Chunchunkota,4,4,8125767435,8125767435,11-03-2025,11-03-2025,2,4,2,3,3,4,3,4,1,3,4,4,4,3,3,3,4,4,1,3,lscs,ts,anm
+1105,M sunitha,M sunitha,38,38,TSMTO7,TSMTO7,27,27,Kurella,Kurella,17,17,9908883090,9908883090,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1106,Muppidi Bhagyalaxmi,M Bhavyalaxmi,49,49,TSMTO7,TSMTO7,27,27,Komuravelli,Komuravelli,16,16,8985791004,8985791004,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,1,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+1122,Chitta kala,Chitra kala,52,52,TSMTO7,TSMTO7,27,27,Dacharam,Dacharam,20,20,9701523472,9701523472,10-03-2025,10-03-2025,4,4,4,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1123,G.Manjula,Gmanjula,48,48,TSMTO7,TSMTO7,27,27,Koheda,Koheda,17,17,9640262593,9640262593,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,1,3,3,3,4,4,3,3,lscs,ts,anm
+1124,Meesala chandrakala,M. Chandrakala,37,37,TSMTO7,TSMTO7,27,27,Damarakunta,Damarakunta,17,18,9701143796,9701143796,10-03-2025,10-03-2025,4,2,2,3,2,2,3,3,1,1,3,1,1,2,1,2,1,1,1,2,lscs,ts,anm
+1125,MD ShahanaBegum,MD Shahana Begum,29,29,TSMTO7,TSMTO7,27,27,Mirzapur,Mirzapur,16,16,9618980633,9618980633,10-03-2025,10-03-2025,4,4,3,4,2,4,4,4,3,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1126,Ch Srilatha,Ch Srilatha,43,43,TSMTO7,TSMTO7,27,27,Meenajipet,Meenajipet,16,16,9177879621,9177879621,10-03-2025,10-03-2025,4,4,3,3,2,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1127,A. Mariyamma,A mariyamma,53,53,TSMTO7,TSMTO7,27,27,Nemtoor,Nemtoor,23,23,8125584074,8125584074,10-03-2025,10-03-2025,4,4,4,1,4,4,4,2,4,2,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+1128,Suvarna,Suvarna,45,45,TSMTO7,TSMTO7,27,27,Erravally,Erravally,18,18,9542376806,9542376806,10-03-2025,10-03-2025,2,2,3,3,4,1,4,3,3,4,4,3,4,3,3,3,1,1,2,1,lscs,ts,anm
+1129,B.Aruna,B. Aruna,54,54,TSMTO7,TSMTO7,27,27,Kotyal,Kotyal,25,25,9704273501,9704273501,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,2,lscs,ts,anm
+1130,B Thirupatamma,B Thirupatamma,53,53,TSMTO7,TSMTO7,27,27,Wargal s/c,S/c wargal,17,19,9346493283,9346493283,10-03-2025,10-03-2025,4,4,3,2,1,4,4,4,2,2,4,4,1,3,3,3,4,4,2,3,lscs,ts,anm
+1140,Ramancha Deevena,R Deevena,41,41,TSMTO7,TSMTO7,27,27,Chowdaram,Chowdaram,18,17,8008847211,8008847211,11-03-2025,10-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,2,4,3,3,4,4,3,3,lscs,ts,anm
+1142,K Shylaja,K Shylaja,32,32,TSMTO7,TSMTO7,27,27,Rajakkapet,Rajakkapet,18,18,7702409249,7702409249,11-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+472,a susheela,a susheela,36,36,TSMTO3,TSMTO3,8,8,Namli,Namli,15,15,7661980882,766180882,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,1,4,2,3,3,4,1,2,lscs,ts,anm
+962,ambati sailaja,ambati sailaja,36,36,TSMTO7,TSMTO7,10,10,Pumping well road,Pumping well road,9,9,9647823574,9347822574,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,4,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+535,b shobha,b shobha,46,46,TSMTO7,TSMTO7,10,10,Banapuram,Banapuram,25,25,9182299714,9182299717,04-03-2025,04-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1132,bathini nirmala,bathini nirmala,1974,1974,TSMTO7,TSMTO7,27,27,Chatlapally,Chatlapally,23,23,99748856,9949748856,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,4,4,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+453,e sunitha,e sunitha,37,37,TSMTO3,TSMTO3,8,8,Birkur,Birkur,18,18,9640599347,640599347,11-03-2025,11-03-2025,4,4,3,3,2,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+664,g manga,g manga,42,18,TSMTO7,TSMTO7,27,27,Jagadevpur,Jagadevpur,18,18,994942448,994902448,10-03-2025,10-03-2025,4,4,3,3,4,4,4,3,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+978,i krishna kumari,i krishna kumari,60,60,TSMTO7,TSMTO7,10,10,Garikapadu,Garikapadu,29,29,9502134342,9.18639E+11,11-03-2025,04-03-2025,4,4,3,3,4,4,4,3,3,2,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+1143,k amrutha,k amrutha,53,53,TSMTO7,TSMTO7,27,27,Mallupally,Mallupally,21,21,9492827659,8317592617,11-03-2025,11-03-2025,4,4,4,3,3,3,4,4,4,2,4,1,4,3,3,3,4,1,3,3,lscs,ts,anm
+490,m  rajeshwari,m  rajeshwari,44,44,TSMTO3,TSMTO3,8,8,Bibipet  B,Bibipet  B,16,16,8247306771,9912582005,11-03-2025,11-03-2025,4,4,4,3,4,4,4,4,3,3,4,3,3,3,3,3,4,4,3,3,lscs,ts,anm
+1067,m.santhoshi,m.santhoshi,37,37,TSMTO7,TSMTO7,27,27,Sanjeev nagar,Sanjeev nagar,17,17,970442616,9704742616,11-03-2025,11-03-2025,2,4,4,3,2,4,1,4,2,2,2,4,3,3,2,1,4,4,3,3,lscs,ts,anm
+448,mudam sumalatha,mudam sumalatha,40,40,TSMTO3,TSMTO3,8,8,Bhavanipet,Bhavanipet,16,16,9490547220,9490847220,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+868,n rani,n rani,42,42,TSMTO7,TSMTO7,15,10,Vmbanjar,Vmbanjar,45,16,9573293855,957293855,11-03-2025,04-03-2025,4,4,3,1,4,1,4,1,2,1,4,1,4,1,3,2,4,2,3,2,lscs,ts,anm
+680,p mamatha,p mamatha,39,39,TSMTO7,TSMTO7,27,27,Achaipally,Achaipally,17,17,8688427145,868842145,10-03-2025,10-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,2,3,3,4,4,3,2,lscs,ts,anm
+548,pandhi ramadevi,pandhi ramadevi,37,37,TSMTO7,TSMTO7,10,10,Muthagudem,Muthagudem,17,17,9.54245E+11,9542460751,04-03-2025,04-03-2025,4,4,3,2,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,3,lscs,ts,anm
+463,polkam srija,polkam srija,25,25,TSMTO3,TSMTO3,8,8,Birkur,Birkur,2,2,8039556494,8309556494,11-03-2025,11-03-2025,4,4,3,4,1,4,4,4,4,4,4,4,3,3,3,1,4,4,1,3,lscs,ts,anm
+299,premamma,premamma,53,53,TSMTO2,TSMTO2,20,20,Renivetla,Renivetla,18,18,9701486705,9701486,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+457,ragam susheela,ragam susheela,36,36,TSMTO3,TSMTO3,8,8,Gandhari B,Gandhari B,3,3,8179010477,81790104770,11-03-2025,11-03-2025,4,4,3,3,4,4,4,4,2,2,4,4,3,1,3,3,4,4,3,3,lscs,ts,anm
+1144,s suhasini,s suhasini,36,36,TSMTO7,TSMTO7,27,27,Akunoor,Akunoor,16,16,9948272420,9948272428,11-03-2025,11-03-2025,4,4,3,3,4,4,4,3,1,3,4,4,3,3,3,3,4,4,1,3,lscs,ts,anm
+473,sathelli vittavva,sathelli vittavva,51,51,TSMTO3,TSMTO3,8,8,Someshwar,Someshwaar,22,22,9603728176,9959344310,11-03-2025,11-03-2025,4,4,3,3,4,4,3,3,4,3,4,4,4,3,3,3,4,4,3,3,lscs,ts,anm
+468,t pushpa,t pushpa,40,40,TSMTO3,TSMTO3,8,8,Abiripet -A,Abaripet-A,18,18,9573372040,9575572040,11-03-2025,11-03-2025,3,4,2,3,1,1,3,3,4,4,4,3,3,3,3,1,4,1,3,3,lscs,ts,anm
+301,t. ambubai,t. ambubai,49,49,TSMTO2,TSMTO2,20,20,Bijwar,Bijwar,17,17,949148656,9491486596,03-03-2025,03-03-2025,4,4,3,3,4,4,4,4,3,3,4,4,3,3,3,3,4,4,3,1,lscs,ts,anm
