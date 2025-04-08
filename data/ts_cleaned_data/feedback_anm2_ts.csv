@@ -5210,7 +5210,7 @@
 5209,A Lalithakumari,10,TSMTO7,Chinnamandava,chintakani,18,9177436879,04-03-2025,1,1,1,1,1,1,1,1,1,4,2,1
 5210,SB Vijaya Nirmala,10,TSMTO7,Rajeswarapuram,Bodulabanda,32,9704542082,04-03-2025,1,1,1,1,1,1,1,1,1,3468,234,1
 5211,Geetha,10,TSMTO7,Thummalapalli,Konijarla,3,7396469315,04-03-2025,1,1,1,1,1,1,1,1,1,14,12345,1
-5212,I Krishna Kumari,10,TSMTO7,Garikapadu,Wyra,29,9.18639E+11,04-03-2025,1,1,1,1,1,1,1,1,1,3,2,1
+5212,I Krishna Kumari,10,TSMTO7,Garikapadu,Wyra,29,9.19E+11,04-03-2025,1,1,1,1,1,1,1,1,1,3,2,1
 5213,T Mariyamma,10,TSMTO7,Narayanapuram,Thallada,15,9652241457,04-03-2025,1,1,1,1,1,1,1,1,1,189,12,1
 5214,V Ratnam,10,TSMTO7,Kalakota,Bonakal,16.6,9014133260,04-03-2025,1,1,1,1,2,1,1,1,1,148,1234,2
 5215,Renuka,10,TSMTO7,Peddamandava,Vallabhi,16,8500276557,04-03-2025,1,2,1,4,1,1,1,1,1,5,2,1
@@ -5526,3 +5526,489 @@
 5525,Sk Irfana,1,TSMTO10,Khandala,Ankoli,2.5,9391512033,11-03-2025,1,1,1,2,1,1,1,1,1,569,23,1
 5526,Sajida,1,TSMTO10,Mavala,Ankoli,16,9492277205,11-03-2025,1,1,1,2,1,1,1,1,1,569,23,1
 5527,Lalitha Nellolla,1,TSMTO10,Shanthinagar,Shanthinagar,24,9989201459,11-03-2025,1,1,1,2,1,1,1,1,1,6,1,1
+5528,A. hymavathi,8,TSMTO3,Yellampet,Phc annaram,22,9848110711,11-03-2025,1,1,1,3,2,1,1,1,2,1,2,1
+5529,V.mounika,8,TSMTO3,Pitlam A,PHc Nizamsagar,2.5,8374106608,18-03-2025,1,1,1,2,1,1,1,1,1,"1,4","2,3,4",1
+5530,Mara Venkatalaxmi,8,TSMTO3,Chinna Kodapgal,Nizamsager,23,9182354138,18-03-2025,1,1,1,4,1,1,1,1,1,"6,8,9",2,1
+5531,Bandari Sunitha,8,TSMTO3,Achampet,Nizamsagar,14,9381712912,18-03-2025,1,1,1,2,1,1,1,1,1,1,2,1
+5532,L Indira,8,TSMTO3,Vellutla,Mathsmal,18,9177882360,18-03-2025,1,1,1,1,1,1,1,1,1,8,2,1
+5533,Upasi swathi,8,TSMTO3,Maddelcheru,Nizamsagar,18,9959627015,18-03-2025,1,1,1,4,1,1,1,1,1,4,1,1
+5534,Koudi Rajamani,8,TSMTO3,Chityal,Errapahd,18,9542831957,18-03-2025,1,1,1,1,1,1,1,1,1,8,1,1
+5535,Rajeshwari,8,TSMTO3,pitlamA,Pitlam,16,9652533278,18-03-2025,1,1,1,4,1,1,2,1,1,3,3,1
+5536,Rathod sujatha,8,TSMTO3,Singeetham,Nizamsagar,18,9603779450,18-03-2025,1,1,1,1,1,1,1,1,1,6,2,1
+5537,Ch Sreelatha,8,TSMTO3,Jangampally,Rajampet,3,9491938807,18-03-2025,1,1,1,4,1,1,1,1,1,1,2,1
+5538,Jayasri,8,TSMTO3,Tadgoorbig,Dongli,2007,8500827906,18-03-2025,1,1,1,4,1,1,1,1,1,1,1,1
+5539,Kadavath Saritha,8,TSMTO3,Gouraram,Uthnoor,3,7093305160,18-03-2025,1,1,1,2,1,1,1,1,1,"1,3,6,8,9","1,2,3,4",1
+5540,L sujatha,8,TSMTO3,Wajeednagar,Pulkal,16,9505467658,01-10-2010,1,1,1,2,1,1,1,1,1,"1,2,5,8,9","1,2,3",1
+5541,D.Gangamani,8,TSMTO3,Wajeednagar,Phc pulkal,2,9346808550,22-07-2022,1,1,1,2,1,1,1,1,1,"1,5,6,8","1,2",1
+5542,Nagulapally santhoshimatha,8,TSMTO3,Brahmanpally,Errapahad,3,7661888799,18-03-2025,1,1,1,3,2,1,1,1,1,"4,9",2,1
+5543,E Roseline,8,TSMTO3,Bhiknoor,Mathamal,18,9640760537,18-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9",2,1
+5544,M swarooparani,8,TSMTO3,Kowlas,Jukkal,15,8367228250,18-03-2025,1,1,1,1,1,1,1,1,1,"1,3",1,1
+5545,Mokhed Sangeetha,8,TSMTO3,Wajrakhandi,Jukkal,2007,9381318304,18-03-2025,1,1,1,4,1,1,1,1,1,"6,8","2,3",1
+5546,B rupa,8,TSMTO3,Menoor,Dongli,2022,7288070843,18-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9",1,1
+5547,Chukkewar Sujatha,8,TSMTO3,Madnoor A,Dongli,2,9381449171,18-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5548,G Rukmini,8,TSMTO3,Lachan,Dongli,17,9010675679,18-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,3,4",1
+5549,P pushpa,8,TSMTO3,Narsingraopally,Nizamsagar,18,9441962472,18-03-2025,1,1,1,2,1,1,1,1,1,1,1,1
+5550,Saroja,8,TSMTO3,Menoor,Dongli,15,9705818089,18-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4",1
+5551,Sathyamma,8,TSMTO3,Mohammad nagar,Nizamsagar,15,8499867943,18-03-2025,1,1,1,2,1,1,1,1,1,"1,2",1,1
+5552,P SANGEETHA,8,TSMTO3,Dingli,Shakkarga Big,16,8688659633,18-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5553,P alekya,8,TSMTO3,Kondapoor,Erraphad,18,9705083739,18-03-2025,1,1,1,2,1,1,1,1,1,1,4,1
+5554,B Swarupa,8,TSMTO3,Kalvaral,Sadasivanagar,27,9441154433,18-03-2025,1,1,1,1,1,1,1,1,1,"1,7",1,1
+5555,Rajanitha,8,TSMTO3,Bhavani road,UPHC Islampur,9,9494959640,18-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5556,Ch sandhya rani,8,TSMTO3,Jjpally,Nagareddypet,23,9491315654,18-03-2025,1,1,1,1,1,1,1,1,1,8,2,1
+5557,Maroju Rajitha,8,TSMTO3,Chityal,Errapahad,18,9441953797,18-03-2025,1,1,1,2,1,1,1,1,1,"5,8","2,4",1
+5558,B suvarna,8,TSMTO3,Jalalpoor,Nagireddypet,17,9676805808,18-03-2025,1,1,1,1,1,1,1,1,1,9,4,1
+5559,Rukkamma N,8,TSMTO3,Adloor yellareddy,Ramareddy,27,7893364888,18-03-2025,1,1,1,2,1,1,1,1,1,"1,9","2,3",1
+5560,G.Amrutharani,8,TSMTO3,Singitham,Nizamsagar,23,9494960954,18-03-2025,1,1,1,1,1,1,1,1,1,9,1,1
+5561,D laxmi,8,TSMTO3,Errapahad,Errapahad,16,9963294292,18-03-2025,1,1,1,2,1,1,1,1,1,"1,2,8",1,1
+5562,L Laxmi,8,TSMTO3,Mallur,Nizamsagar,17,9963944309,18-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3",1,1
+5563,M Rani,8,TSMTO3,Reddypet,Annaram,17,9912628565,18-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5564,M srilatha,8,TSMTO3,Machapoor,Mathmal,16,9493932397,18-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5565,Moloth yamuna,8,TSMTO3,Bollaram,Nagireddypet,3,9912965690,18-03-2025,1,1,1,2,1,1,1,1,1,1,2,1
+5566,Kacchu Sumalatha,8,TSMTO3,Krishnajiwadi,Errapahad,16,8500603641,18-03-2025,1,1,1,2,2,2,1,1,1,"3,4,5,6,8,9","2,3,4",1
+5567,A.Sandhya rani,8,TSMTO3,Bollaram,Nagireddypet,15,9550199539,18-03-2025,1,1,1,3,1,1,1,1,1,1,2,1
+5568,Karnam Latha,8,TSMTO3,Golilingal,Nagireddypet,24,9441706790,18-03-2025,1,1,1,2,2,1,1,1,1,"1,6,7,9","1,2",1
+5569,M swapna,8,TSMTO3,Madnoor,Dongli,16,7780578425,18-03-2025,1,1,1,1,1,1,1,1,1,9,"1,4",1
+5570,N.Shanthamma,8,TSMTO3,S/c.palvancha,Machareddy,17,9848264840,18-03-2025,1,1,1,2,1,1,1,1,1,4,1,1
+5571,R Bhoolaxmi,8,TSMTO3,Muthyampet,Bibipet,25,9848838540,18-03-2025,1,1,1,2,1,1,1,1,1,3,3,1
+5572,B swaroopa,8,TSMTO3,Eklara big,Dongli,15,635210742,18-03-2025,1,1,1,4,1,1,1,1,1,9,1,1
+5573,A Yadamma,8,TSMTO3,Thalamadla,Rajampet,30,9951864424,18-03-2025,1,1,1,1,1,1,1,2,1,9,1,1
+5574,P manemma,8,TSMTO3,Gopalpet,Nagireddypet,15,8978708162,18-03-2025,1,1,1,1,1,1,1,1,1,9,4,1
+5575,P prabhatha,8,TSMTO3,Komalancha,Nizamsagar,25,9908595983,18-03-2025,1,1,1,4,1,1,1,1,1,1,1,1
+5576,Yerra sayamma,8,TSMTO3,wadalparthy,Nagireddypet,24,9963493941,18-03-2025,1,1,1,1,1,1,1,1,1,9,1,1
+5577,D Mangamma,8,TSMTO3,TANDUR,Nagireddy pet,18,9989442280,18-03-2025,1,1,1,1,1,1,1,1,1,9,4,1
+5578,D sunitha,8,TSMTO3,Domakonda,Bibipet,15,9000329353,18-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5579,Vinoda,8,TSMTO3,Jangampally,Rajampet,30,9440058079,18-03-2025,1,1,1,2,1,1,1,1,1,9,5,1
+5580,G jayasri,8,TSMTO3,Bichkunda A,Pulkal,17,8639759142,18-03-2025,1,1,1,2,1,1,1,1,1,"3,6,8","1,2",1
+5581,P Saritha,8,TSMTO3,Yellareddy A,Mathmal,3,7095840451,18-03-2025,1,1,1,2,1,1,1,1,1,1,1,1
+5582,E shobharani,8,TSMTO3,Argonda,Errapahad,28,8500309641,18-03-2025,1,1,1,4,1,1,1,1,1,1,1,1
+5583,M . Swaroopa,8,TSMTO3,Bhiknoor,Mathmal,15,9390960891,18-03-2025,1,1,1,2,1,1,1,1,1,9,1,1
+5584,P jayalaxmi,8,TSMTO3,Machareddy,Macharedd18,18,97042389881,18-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5585,G.savithri,8,TSMTO3,Laxmapoor,Mathmal,3,9014111599,18-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,8","1,2,3",1
+5586,MD Reshma,8,TSMTO3,Khandeballur,JUKKAL,17,9908375039,18-03-2025,1,1,1,4,1,1,1,1,1,"1,6","1,3",1
+5587,K Vakula,8,TSMTO3,Sadashivanar,Sadashivanar,17,9492800854,18-03-2025,1,1,1,4,1,1,1,1,1,5,2,4
+5588,G Ushakumari,8,TSMTO3,Sadasivanagar,Sadasivanagar,18,9490901026,18-03-2025,1,1,1,4,1,1,1,1,1,"1,4","2,3",1
+5589,M Savitha,8,TSMTO3,Vidhya nagar kamareddy,Uphc islampura,2,7337300686,18-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5590,Gaddi Florence,8,TSMTO3,Mission kallali,Pulkal,22,9908929650,18-03-2025,1,1,1,3,1,1,1,1,1,1,"1,2,4",1
+5591,B indira,8,TSMTO3,Yellareddy B,Mathmal,16,9493452818,18-03-2025,1,1,1,2,1,1,1,1,1,9,"1,2,3",1
+5592,K Vajram,8,TSMTO3,Dharmaraopet,Sadasivanagar,22,9000743324,18-03-2025,1,1,1,4,1,1,1,1,1,1,1,1
+5593,Dasari Laxmi,8,TSMTO3,Vidhya Nager,Uphc islampura,9,9573649849,18-03-2025,1,1,1,4,1,1,1,1,1,1,1,1
+5594,P.vasantha,8,TSMTO3,Gullabig,Jukkal,20,9494604226,18-03-2025,1,1,1,1,1,1,1,1,1,1,3,1
+5595,G Lalitha,8,TSMTO3,Bhoompally,Sada Siva nagar,18,9441526517,18-03-2025,1,1,1,4,1,1,1,1,1,"1,4,6,7,8,9",1,1
+5596,Savithri,8,TSMTO3,Pocharam,JUKKAL,2007,8096791667,18-03-2025,1,1,1,1,1,1,1,1,1,4,2,1
+5597,Neeturi Rekha,8,TSMTO3,Hangarga,jukkal,15,9505444838,18-03-2025,1,1,1,1,1,1,1,1,1,"2,3,9","1,2,3,4",1
+5598,Sangeetha,8,TSMTO3,Bhoompally,Ssnagar,17,9959931142,18-03-2025,1,1,1,4,1,1,1,1,1,"1,3,5,9","1,2,4",1
+5599,R Jyothi,8,TSMTO3,Jangampally,Rajampet,18,9440615982,18-03-2025,1,1,1,1,1,1,1,1,1,"1,3,4,8,9","1,2,3,4",1
+5600,P Chandrakala,8,TSMTO3,Thalamadla,Rajampet,18,9640220191,18-03-2025,1,1,1,1,1,1,1,1,1,"5,6,8",3,1
+5601,K Nagalaxmi,8,TSMTO3,Rajampet,Rajampet,18,9948702718,18-03-2025,1,1,1,1,1,1,1,1,1,1,2,1
+5602,Farhana begum,8,TSMTO3,Banjapally,Nizamsagar,25,9440108005,18-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,5,6","1,2,3,4",1
+5603,M Gangavva,8,TSMTO3,Harijanawada,UPHC Islampura,18,9959281089,18-03-2025,1,1,1,4,1,1,1,1,1,1,4,1
+5604,Katepally savithri,8,TSMTO3,Edgibig,Jukkal,16,8464953838,18-03-2025,1,1,1,1,1,1,1,1,1,"3,4,6,7,9","1,2,3,4",1
+5605,Manchippa savitha,8,TSMTO3,Gullabig,Jukkal,16,9666787794,18-03-2025,1,1,1,4,1,1,1,1,1,"3,4,5,6,7,9","1,2,3,4",1
+5606,Swapna,8,TSMTO3,Annaram,Nizamsagar,16,9652376560,18-03-2025,1,1,1,1,1,1,1,1,1,"2,3,4","1,2,3,4",1
+5607,Spushpalatha,8,TSMTO3,MadnoorA,Dongli,15,7702627029,18-03-2025,1,1,1,1,1,2,1,1,1,1,3,1
+5608,Battu sunitha,8,TSMTO3,Banjapally,Nizamsagar,17,9493301675,18-03-2025,1,1,1,3,1,1,1,1,1,"4,5,6,9","2,3",1
+5609,N Lalitha,8,TSMTO3,Lingareddypet,Mathmal,18,9182231205,18-03-2025,1,1,1,1,1,1,1,1,1,9,2,1
+5610,Begari Sulochana,8,TSMTO3,Narva,Nizamsagar,17,9440461243,18-03-2025,1,1,1,4,1,1,1,1,1,"3,4,6","2,3",1
+5611,Seema shobha,8,TSMTO3,Peddakodapgal,Peddakodapgal,17,8985864754,18-03-2025,1,1,1,1,1,1,1,1,1,8,2,1
+5612,K savitha,8,TSMTO3,Narsingraopally,Nizamsagaer,15,7997106751,18-03-2025,1,1,1,4,1,1,1,1,1,1,2,1
+5613,Avusula Savitha,8,TSMTO3,Chillargi,Nizamsagar,2,6303717731,18-03-2025,1,1,1,2,1,1,1,1,1,8,2,1
+5614,M premalatha,8,TSMTO3,Wadlam,Peddakodapgal,3,7075108077,18-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,6,8,9","1,2,3,4",1
+5615,Kamble shaloo,8,TSMTO3,Gundur,Jukkal,18,8500058276,18-03-2025,1,1,1,2,1,1,1,1,1,"1,4,8,9","1,2,3,4",1
+5616,D Ambika,8,TSMTO3,Rampoor,CHCPITLAM,37,9381807394,18-03-2025,1,2,1,1,1,1,1,1,1,"1,3,5,8,9","1,2,3",1
+5617,B kanakathara,31,TSMTO3,Konkapaka,Parvathagiri,22,8978905613,21-03-2025,1,1,1,1,1,1,1,1,1,"6,7","1,2",1
+5618,J.komala,5,TSMTO2,Peddamcharlla,Obulkeshvapur,3,8790540446,20-03-2025,1,1,1,1,1,1,1,1,1,1,3,1
+5619,B. Anitha,5,TSMTO2,Siripuram,Lingalaghanpur,16,9550344888,20-03-2025,1,1,1,1,1,1,1,1,1,"1,5,6,7","1,2,3,4",1
+5620,G Saritha,5,TSMTO2,Seetharampuram,Devaruppula,16,9640494124,20-03-2025,1,1,1,4,1,1,1,1,1,"1,4,8,9","1,2,3",1
+5621,Allepu komala,5,TSMTO2,Kolukonda,Devaruppula,18,9963899634,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5622,V.Shobhana,5,TSMTO2,Kadavendi,Devarupulla,2021,8639305093,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5623,R.Pavani,5,TSMTO2,Madhapuram,Devaruppula,17,7095959884,20-03-2025,1,1,1,3,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5624,Bathini kavitha,5,TSMTO2,Singrajpally,Devaruppula,4,9390419141,20-03-2025,1,1,1,4,1,1,1,1,1,9,3,1
+5625,Neelam Sridevi,5,TSMTO2,Dharmapuram,Devaruppula,17,9542302693,20-03-2025,1,1,1,3,1,1,1,1,1,"1,5,6,8,9","1,2,3",1
+5626,Ch Jyothi,5,TSMTO2,Peddamadur,Devaruppula,17,9177638609,20-03-2025,1,1,1,1,1,1,1,1,1,1,3,1
+5627,Y. Yashoda,5,TSMTO2,Kallem,Lingalghanpur,25,9441770705,20-03-2025,1,1,1,4,1,1,1,1,1,6,1,1
+5628,A kalpana devi,5,TSMTO2,Veldhi,Raghunathapalli,16,8106332228,20-03-2025,1,1,1,2,1,1,1,1,1,1,1,1
+5629,Ch santhosha,5,TSMTO2,Bachannapet,Bachannapet,16,9640748447,20-03-2025,1,1,1,1,1,1,1,1,1,1,"1,2,3",1
+5630,Sumanjali,5,TSMTO2,Obulkeshavapur,Obulkeshavapur,4,9392309735,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3","1,2,3",1
+5631,Kalyani,5,TSMTO2,Mondrai,Kodakandla,16,7893333325,20-03-2025,1,1,1,4,1,1,1,1,1,4,1,1
+5632,J. Sujana,5,TSMTO2,Singarajupally,Devaruppula,28,9533439452,20-03-2025,1,1,1,1,1,1,1,1,1,"3,4,5,8,9","1,2,3,4",1
+5633,S shireesha,5,TSMTO2,Bachannapet,Bachannapet,16,6301198668,20-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5634,Girimalle Ali velimngs,5,TSMTO2,Uphc jangaon,Uphc jangaon,9,9963279166,20-03-2025,1,1,1,1,1,1,1,1,1,8,1,1
+5635,M.Devendra,5,TSMTO2,Ankushapur,Narmetta,18,7893100919,27-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5636,Hafeeja Begum,5,TSMTO2,Siddenki,Obulkeshavapur,17,9618810975,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3","1,2,3",1
+5637,Sabitha,5,TSMTO2,Malkapur,Malkapur,16,9676383501,20-03-2025,1,1,1,4,1,1,2,1,1,1,3,1
+5638,G Vijaya,5,TSMTO2,Dardepally,Palakurthy,18,9000024626,20-03-2025,1,1,2,1,1,1,1,1,1,1,1,1
+5639,G karuna,5,TSMTO2,Narmetta,Narmetta,18,9951248020,20-03-2025,1,1,1,3,1,1,1,1,1,1,1,1
+5640,G Rajyalaxmi,5,TSMTO2,Kundaram,Lingala Ghanapuram,17,9866877289,20-03-2025,1,1,1,2,1,1,1,1,1,3,3,1
+5641,T Manjula,5,TSMTO2,Mekalagattu,Raghunathpally,4,9014629514,20-03-2025,1,1,1,3,1,1,1,1,1,9,2,1
+5642,Lingala Vijayashanthi,5,TSMTO2,Agapeta,Narmetta,18,9701982934,20-03-2025,1,1,1,3,1,1,1,1,1,1,1,1
+5643,Jmounika,5,TSMTO2,Gangupahad,Komalla,16,9866377998,20-03-2025,1,1,1,4,1,1,1,1,1,1,1,1
+5644,L Vanaja,5,TSMTO2,Ippagudem,Ippagudem,17,83741724008,20-03-2025,1,1,1,2,1,1,1,1,1,9,1,1
+5645,Y. Vasantha Rani,5,TSMTO2,Tharigoppula,Narmetta,23,8328224887,20-03-2025,1,1,1,1,1,1,1,1,1,"1,8","2,3",1
+5646,Nalla Indiramma,5,TSMTO2,Nawabpet,Lingalaghanpur,17,9704359156,20-03-2025,1,1,1,2,1,1,1,1,1,"4,6,8","3,4",1
+5647,S Radhika,5,TSMTO2,Gandiramaram,Narmetta,15,9052999291,20-03-2025,1,1,1,2,1,1,1,1,1,3,1,1
+5648,BSampurna,5,TSMTO2,Nellutla,Lingalaghpur,28,9963308359,20-03-2025,1,1,1,3,1,1,1,2,1,8,"1,3,4",1
+5649,Guguloth Kavitha,5,TSMTO2,Mutharam,Palakurthy,18,9704602832,20-03-2025,1,1,1,2,1,1,1,1,1,1,1,1
+5650,P. Saritha,5,TSMTO2,Agapeta,Narmetta,16,8106385960,20-03-2025,1,1,1,2,1,1,1,1,1,"1,2,4,5,6,8","1,2,3",1
+5651,T.Prasanna,5,TSMTO2,Bachannapet,Pochannapet,16,9948472485,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3","1,2,3,4,5",1
+5652,Kumbam rajyalaxmi,5,TSMTO2,Komatigudem,Ippagudem,17,9502266825,20-03-2025,1,1,1,2,1,1,1,1,1,9,3,1
+5653,N Swathi,5,TSMTO2,Padmatikeshwapur,Bachhannapet,17,8106750888,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4",1
+5654,B Vijaya,5,TSMTO2,Mekalagattu,Raghunathpally,22,8978594500,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5655,M shobhabai,5,TSMTO2,Edunuthula,Kodakandla,16,9032760794,20-03-2025,1,1,1,4,1,1,1,1,1,1,1,1
+5656,Golluri sunanda,5,TSMTO2,Kodavatur,Bachannapet,16,9951485345,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5657,Gugulothu jyothi,5,TSMTO2,Ramavaram,Kodakandla,4,9581990196,20-03-2025,1,1,1,4,1,1,1,1,1,"6,8","2,3",1
+5658,A sharada,5,TSMTO2,Janagaon,Komalla,26,9985838621,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,4,9","1,2,3,4",1
+5659,Challa Pranitha,5,TSMTO2,Katkoor,Bachannapet,17,9652972178,20-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4",1
+5660,E Vasantha,5,TSMTO2,Marigadi,Komalla,4,9701490646,20-03-2025,1,1,1,1,1,1,1,1,1,1,4,1
+5661,Ramagiri Jyothi,5,TSMTO2,Padamatikeshwapur,Bachannapet,16,9963013877,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5662,K. sampurna,5,TSMTO2,Alimpur,Bachcannpet,4,9666309688,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5663,Gaddam Annapurna,5,TSMTO2,Fatheshapur,Ragunathpally,16,7680902252,20-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3","2,3,4",1
+5664,Manthapuri Anitha,5,TSMTO2,Venkannakunta,UPHC jangaon,9,9573974406,20-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4",1
+5665,D.sunitha,5,TSMTO2,Namiligonda,Ippagudem,17,8801054925,20-03-2025,1,1,1,2,1,1,1,1,1,1,"1,2,3,4",1
+5666,P.Bhavani,5,TSMTO2,Abadighanpur,Ghanpur,16,9010835090,20-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3,4,5,7,8,9","1,2,3",1
+5667,M. Komaramma,5,TSMTO2,Kurchapally,Raghunathpally,16,9618359033,20-03-2025,1,1,1,4,1,1,1,1,1,"1,3,6,8,9","1,2,3,4",1
+5668,G Sandhya Rani,5,TSMTO2,Raghunathpally,Raghunathpally,16,9701486911,20-03-2025,1,1,1,3,1,2,1,1,1,1,1,1
+5669,T Renuka,5,TSMTO2,Waddicherla,Linghalghnpur,26,9000968190,20-03-2025,1,1,1,2,1,1,1,2,1,"1,8","1,3,4",1
+5670,Daida swapna,5,TSMTO2,Ambedkar Nagar,UPHC,9,9700848501,20-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4",1
+5671,M.Sumathi,5,TSMTO2,Cheetur,Lingalghanpur,18,9347879211,20-03-2025,1,1,1,1,1,1,1,1,1,1,2,1
+5672,V.Latha,5,TSMTO2,Kondapur,Palakurthy,23,9849792785,20-03-2025,1,1,1,4,1,1,1,1,1,"1,6,7,8","1,2",1
+5673,Damera Shobharani,5,TSMTO2,Jeedikal,Lingalaghanpur,18,9704475260,20-03-2025,1,1,1,1,1,1,1,1,1,6,1,1
+5674,Pogula ujwala,5,TSMTO2,Peddapahad,Obulkeshwapur,15,7013372864,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5675,B Padma,5,TSMTO2,Yerragollapahad,Komalla,16,9603875226,13-03-2025,1,1,1,1,1,1,1,1,1,"1,4,5,6,8,9","1,2,3,4",1
+5676,G SriLatha,5,TSMTO2,Nashkal,Malkapur,4,7207562230,20-03-2025,1,1,1,1,1,1,1,1,1,"1,5","2,3",1
+5677,K.Anitha,5,TSMTO2,Bonthagattu nagaram,Narmetta,15,9866502927,20-03-2025,1,1,1,2,1,1,1,1,1,1,1,1
+5678,K chandrakala,5,TSMTO2,Gudur,Palakurthy,16,9912709880,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5679,M. Sumalatha,5,TSMTO2,Pallagutta,Malkapur,16,9866531843,20-03-2025,1,1,1,4,1,1,1,1,1,"1,6,8","2,3",1
+5680,U Nirmala,5,TSMTO2,Nidigonda,Raghunathpally,16,8179789387,20-03-2025,1,1,1,4,1,1,1,1,1,"1,8","1,3",1
+5681,N Kavitha,5,TSMTO2,Pembarthi,PHC Obulkeshavapur,17,9652501495,20-03-2025,1,1,1,1,1,1,1,1,1,4,"2,3,4",1
+5682,B.vanaja,5,TSMTO2,Visnoor,Palakurthy,16,8106952269,20-03-2025,1,1,1,4,1,1,1,1,1,"1,7","1,3",2
+5683,M Bhagya,5,TSMTO2,Manchuppula,Palakurthi,166,9550064607,20-03-2025,1,1,1,4,1,1,1,1,1,"1,4,7,8","1,2,3",2
+5684,G Sravanthi,5,TSMTO2,Palakurthy,Palakurthy,16,8374115855,20-03-2025,1,1,1,4,1,1,1,1,1,7,"1,3",1
+5685,BETHEL ELIZABETH,5,TSMTO2,Gabbeta,RAGHUNATHPALLY,16,8106395174,20-03-2025,1,1,1,4,1,1,1,1,1,1,1,1
+5686,S Swarnalatha,5,TSMTO2,Kurchapally,Raghunathpally,3,7794068066,20-03-2025,1,1,1,4,1,1,1,1,1,"1,8","1,3",1
+5687,K Manjula,5,TSMTO2,Yerragollapahad,Komalla,4,8099831393,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,5,6,8,9","1,2,3",1
+5688,Gandi Sumalatha,5,TSMTO2,Shivunipally,Ghanpur stan,3,7780633496,20-03-2025,1,1,1,4,1,1,1,1,1,"3,6,8","1,2,3",1
+5689,P.prema,5,TSMTO2,Abdulnagaram,Narmetta,25,9948725326,20-03-2025,1,1,1,1,1,1,1,1,1,8,2,1
+5690,G.Rekha,5,TSMTO2,Komatigudem,Ippagudem,17,9573883234,20-03-2025,1,1,1,2,1,1,1,1,1,9,1,1
+5691,M Saneetha,5,TSMTO2,Banajipet,Raghunathpally,16,6305631494,20-03-2025,1,1,1,4,1,1,1,1,1,1,1,1
+5692,A Rajitha,5,TSMTO2,Komalla,Komalla,17,8897923434,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,4,7,9","2,3,4",1
+5693,Pattabhi sucharitha,5,TSMTO2,Solipur,Narmetta,18,9676826391,20-03-2025,1,1,1,1,1,1,1,1,1,1,2,1
+5694,N.Padmavathi,5,TSMTO2,Konney,Bachannapet,23,9553063515,20-03-2025,1,1,1,3,1,1,1,1,2,"1,2,3,4","2,3,4",1
+5695,Reddeboina Anasurya,5,TSMTO2,Solipuram,Narmetta,4,9573013463,20-03-2025,1,1,1,1,1,1,1,1,1,1,2,1
+5696,Deekonda Sridevi,5,TSMTO2,Chennur,Palakurthy,4,9494282817,20-03-2025,1,1,1,4,1,1,1,1,1,1,1,1
+5697,T Yamuna,5,TSMTO2,Quilashapur,Raghunathpally,4,9381210903,20-03-2025,1,1,1,2,1,1,1,1,2,9,"1,2,3,4,5",1
+5698,A.Thirupathamma,5,TSMTO2,Thammadapally,Bachannapet,23,9052640681,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,4,8","1,2,3,4",1
+5699,Anaparthy mangamma,5,TSMTO2,Vavilala,Palakurthy,2009,9346100826,20-03-2025,1,1,1,4,1,1,1,1,1,"1,6,7","1,2",1
+5700,G Anjamma,5,TSMTO2,Nidigonda,Raghunathpally,29,9533658153,21-03-2025,1,2,1,2,1,1,1,1,2,9,"1,2,3,4,5",2
+5701,Bollam shyamala,5,TSMTO2,Peddamcherla,Obulkeshavapur,35,9949129246,20-03-2025,1,1,1,3,1,1,1,1,1,6,2,1
+5702,Varkuti Rajitha,5,TSMTO2,Kodakandla,Kodakandla,16,9949985798,20-03-2025,1,1,1,4,1,1,1,1,1,"1,5,8,9","1,2,3",1
+5703,P.Lavanya,5,TSMTO2,Hanmanthapur,Narmetta,16,9177836218,20-03-2025,1,1,1,2,1,1,1,1,1,9,1,1
+5704,B. Chaitanya,5,TSMTO2,Mondrai,Kodakandla,3,9676195478,20-03-2025,1,1,1,4,1,1,1,1,1,"5,6,8","1,2,3,4,5",1
+5705,Jogu Navaneetha,5,TSMTO2,Marrigadi,Komalla,3,9392697591,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3","1,3",4
+5706,Kalakoti Santhosha,5,TSMTO2,Rajavaram,Malkapur,22,9652325114,20-03-2025,1,1,1,1,1,1,1,1,1,4,2,1
+5707,U Shobarani,5,TSMTO2,Gudur,Palakurthy,4,9381490594,20-03-2025,1,1,1,4,2,1,1,1,1,9,"2,3,4",1
+5708,P Anitha,5,TSMTO2,S/c Hanmanthapur,Narmeta,4,9948868138,20-03-2025,1,1,1,2,1,1,1,1,1,6,1,1
+5709,S vijaya,5,TSMTO2,chinnamadur,Devaruppula,16,994889797,20-03-2025,2,1,1,4,1,1,1,2,2,8,1,2
+5710,Md Asia begum,5,TSMTO2,Abdulnagaram,Narmetta,17,9492110880,20-03-2025,1,1,1,4,1,1,1,1,1,1,2,1
+5711,K Kavitha,5,TSMTO2,Wadlakonda,Komalla,4,9121856043,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,6,9","1,3,4",1
+5712,Gunde Upendra,5,TSMTO2,Uphc,Venkannakunta,14,7799247721,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5713,G. Saritha,5,TSMTO2,S/C veldanda,Narmetta,4,9553508442,20-03-2025,1,1,1,4,1,1,1,1,1,8,1,1
+5714,N. ShobhaRani,5,TSMTO2,Laxmakkapally,Kodakandla,4,6304226607,20-03-2025,1,1,1,4,1,1,1,1,1,"6,8",1,1
+5715,Kalakola Premalatha,5,TSMTO2,Scbasthi,Ghanpur stn,16,9502372154,20-03-2025,1,1,1,4,1,1,1,1,1,4,3,1
+5716,B *Yashoda*,5,TSMTO2,Veldhi,Raghunathpally,18,9849610900,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,5,7,8,9","2,3",1
+5717,J sydamma ⁷,5,TSMTO2,Kodakandla,Kodakandla,3,9704840065,20-03-2025,1,1,1,4,1,1,1,1,1,"1,5,8,9","1,2,3,4",1
+5718,K Rani,5,TSMTO2,Kanchanapally-01,Raghunathpally,16,8106508532,20-03-2025,1,1,1,2,1,1,1,1,1,"2,3,4","2,3",1
+5719,M yadalaxmi,5,TSMTO2,Ashwaraopally,Raghunath pally,16,9573817677,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,5,6,7,8,9","1,2,3,4",1
+5720,P Kavitha,5,TSMTO2,Thimmampet,Thimmampet,18,9502493470,20-03-2025,1,2,1,2,1,1,1,1,1,6,1,1
+5721,Marikanti upendra,5,TSMTO2,Kodakandla,Kodakandla,4,7893954657,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5722,V Annapurna,5,TSMTO2,Ankushapur,Narmetta,23,8106943890,20-03-2025,1,1,1,2,1,1,1,1,1,"1,8","1,2",1
+5723,Nampally Swapna,5,TSMTO2,Shivunipally,Ghanpur stn,16,8297909999,20-03-2025,1,1,1,4,1,1,1,1,1,1,3,1
+5724,N Dhanalaxmi,5,TSMTO2,Kanchanpally 2,Raghunathpally,16,7032467787,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5725,Pasunuti Radhika,5,TSMTO2,Zaffergadh,Zaffergadh,18,8466954681,20-03-2025,1,3,1,2,3,2,1,1,1,"1,2",1,1
+5726,K Mariya,5,TSMTO2,Kanchanapally 2,Raghunthapally  PHC,16,7702564799,20-03-2025,1,1,1,4,1,1,1,1,1,1,1,1
+5727,R Dhanamma,5,TSMTO2,Thammadapally G,Zaffergadh,3,7801004025,20-03-2025,1,1,1,2,1,1,1,1,1,1,4,1
+5728,B Kalyani MPHA F,5,TSMTO2,Bonthagattu nagaram,Narmetta,22,9652924217,20-03-2025,1,1,1,2,1,1,1,1,1,9,3,1
+5729,N.Ashritha,5,TSMTO2,Suraram,Zaffergadh,4,8309697947,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5730,G. Rajitha,5,TSMTO2,Alimpur,Bachannapet,16,9618675709,20-03-2025,1,1,1,3,1,1,1,1,1,"3,4,8","2,3",1
+5731,Maraplli Babyrani,5,TSMTO2,Waddegudem,Zaffargarh,18,7337017376,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5732,K Amrutha,5,TSMTO2,Veldanda,Narmetta,27,9866537706,20-03-2025,1,1,1,4,1,1,1,1,1,9,1,1
+5733,Ch Kavitha,5,TSMTO2,Meedikonda,Thatikonda,16,8499936198,20-03-2025,1,1,1,4,1,1,1,1,1,"6,8",1,1
+5734,Deekonda laxmi,5,TSMTO2,Zaffargadhzaffargadh,Zaffargadh,18,9908272880,20-03-2025,1,1,1,1,1,1,1,1,1,6,1,1
+5735,V. Kamalamma,5,TSMTO2,Machupahad,Narmetta,17,9951261970,20-03-2025,1,1,1,2,1,1,1,1,1,1,1,1
+5736,B.padma sri,5,TSMTO2,Seetharampururam,Devaruppula,16,960312980,20-03-2025,1,1,1,1,1,1,1,1,1,1,2,1
+5737,Anuradha,5,TSMTO2,Obulkeshwapur,Obulkeshwapur,16,9000197437,20-03-2025,1,1,1,1,1,1,1,1,1,1,2,1
+5738,Kola Baby,5,TSMTO2,Sc Basthi,Uphc ghanpur stn,4,8074143616,20-03-2025,1,2,1,2,1,1,1,2,1,"4,7,8",2,1
+5739,NY nagarani,5,TSMTO2,Thatikonda,Thatikonda,32,9959904968,20-03-2025,1,1,1,4,1,1,1,1,2,"8,9",2,1
+5740,T. Nirmala,28,TSMTO10,Bkgudem,Mattampally,27,9491594132,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5741,B.padma,28,TSMTO10,Repala,Repala,30,9849293564,20-03-2025,1,1,1,2,1,1,1,1,1,1,3,1
+5742,N.Nagamani,28,TSMTO10,Ravulapally,Sangam,3,6300044947,20-03-2025,1,1,1,3,1,1,1,1,1,3,2,1
+5743,N. vijayashanthi,28,TSMTO10,Kodur,Arvapally,17,9346055248,20-03-2025,2,2,1,1,2,2,1,1,1,8,2,1
+5744,Vadapalli Rajini,28,TSMTO10,Jalalpur,Thirumalagiri,3.5,9951051612,20-03-2025,1,1,1,3,1,1,1,1,1,"3,4","2,3",1
+5745,M.Lalitha,28,TSMTO10,Madhavaram,Repala,17,9705807689,20-03-2025,1,1,1,3,1,1,1,1,1,3,1,1
+5746,Sk Naseema,28,TSMTO10,Lingala,Penpahad,16,9666020016,20-03-2025,1,1,1,4,1,1,1,1,1,"1,3,8,9","1,2,3,4",1
+5747,Ch sailaja,28,TSMTO10,Vgpuram,Tripuravaram,17,9666891116,20-03-2025,2,1,1,2,1,1,1,1,2,8,1,2
+5748,Sk Rajiya,28,TSMTO10,Laxmipuram,Uphc kodad,9,9948185637,20-03-2025,1,1,1,3,1,1,1,1,1,8,"2,3,4",1
+5749,A padmavathi,28,TSMTO10,Tripuravaram,Tripuravaram,18,9010558542,20-03-2025,1,2,1,2,2,2,2,1,1,8,3,2
+5750,Ch.santhoshamma,28,TSMTO10,Kuchipudui,Kapugallu,17,7780693677,20-03-2025,1,1,1,4,1,1,1,1,1,3,"2,3",1
+5751,M Pushpavathi,28,TSMTO10,Nereduchela 1,Nereduchela,22,9912831251,20-03-2025,1,1,1,2,1,1,1,1,1,"1,3,4,8","1,2,3,4",1
+5752,Rsaidamma,28,TSMTO10,Gmpuram,Penpahad,18,9676475100,20-03-2025,1,1,1,4,1,1,1,1,1,"1,8","1,2,3",1
+5753,N Jyothi,28,TSMTO10,yerakaram,Kasarabad,3,9603267641,20-03-2025,3,1,2,1,3,3,1,1,1,8,1,1
+5754,PALVAI suvarna,28,TSMTO10,Uphc girinahergirinager,Girinager,15,9133364320,20-03-2025,1,1,1,4,2,2,1,1,2,5,4,2
+5755,P.Rajani,28,TSMTO10,Yathavakilla,Mattampally,17,7330663729,20-03-2025,1,1,1,3,1,1,1,1,1,"1,5,6,7,8","2,3,4",1
+5756,Challabotla Radha,28,TSMTO10,Nadigudem,Tripuravaram,15,7673915676,20-03-2025,1,1,1,4,1,1,1,1,1,"3,4,7,8","2,3,4",1
+5757,Y Ramadevi,28,TSMTO10,Siripuram,Tripuravaram,17,9989333473,20-03-2025,1,1,1,4,1,1,1,1,1,"2,4,6,7,8","1,2,3,4",1
+5758,Sandhya,28,TSMTO10,Vardhamankota,Nagaram,3,7036817947,20-03-2025,1,1,1,3,2,2,1,2,1,9,2,2
+5759,Sk Neha,28,TSMTO10,GUNDEPURI,Thirumalagiri,3,9390418341,20-03-2025,1,1,1,1,2,1,1,1,1,"1,4,8","1,3",2
+5760,P.shanthamma,28,TSMTO10,Madharam,Repala,13,9866547354,20-03-2025,1,1,1,1,1,1,1,1,1,"1,4",2,1
+5761,Vutterla Padma,28,TSMTO10,Tekumatla,Kasarabad,27,9396811022,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4",1
+5762,V Ramulamma,28,TSMTO10,Aipoor,Athmakur s,18,9908448117,20-03-2025,1,1,1,4,1,1,1,1,1,6,2,1
+5763,K Rupa,28,TSMTO10,Vempati,Ravulapally,17,9381568626,20-03-2025,1,1,1,4,1,1,1,1,1,8,"2,3",1
+5764,Sk meerabee,28,TSMTO10,Ramapuram,Chilkur,18,6304464065,20-03-2025,1,1,1,3,1,1,1,1,1,"5,8",1,1
+5765,A Jyothi,28,TSMTO10,Ramapuram,Tripuravaram,17,9701493384,20-03-2025,1,1,1,4,1,1,1,1,1,"1,6,7,8","1,2,3,4",1
+5766,N. Anitha,28,TSMTO10,Ganugabanda,Kalmalchervu,17,9701738483,20-03-2025,1,1,1,1,1,1,1,1,1,"1,4,9","2,3,4",1
+5767,Shaik Rajiya begum,28,TSMTO10,Ponugodu,Kalmalcheruvu,17,9010844812,20-03-2025,1,1,1,1,1,1,1,1,1,"1,4,9","2,3,4",1
+5768,Tsaritha,28,TSMTO10,Kokkireni,Munagala,17,9701905365,20-03-2025,1,1,1,2,1,1,1,1,1,6,1,1
+5769,J venkataramani,28,TSMTO10,9th ward,RAJEEV NAGAR,14,8106166968,20-03-2025,1,1,1,1,1,1,1,2,1,3,2,1
+5770,Sk shahin,28,TSMTO10,Chinnanemila,Maddirala,17,9652240253,20-03-2025,1,1,1,2,1,1,1,1,1,1,1,1
+5771,Ch priyanka,28,TSMTO10,Mattampally,Mattampally,3,9603085183,20-03-2025,1,1,1,3,1,1,1,1,1,"6,8","1,2,3,4",1
+5772,ARadhika,28,TSMTO10,Allipuram,Mattampalli,22,9948199133,20-03-2025,1,1,1,3,1,1,1,1,1,"1,8","1,2,3,4",1
+5773,M.mamatha,28,TSMTO10,Chillepally,Neredcherla,17,9849164390,20-03-2025,1,1,1,4,1,1,1,1,1,"3,6,9",2,1
+5774,Ch.Rajitha,28,TSMTO10,Annaram,Ravulapally,16,9121043058,20-03-2025,1,1,1,3,1,1,1,1,1,3,3,1
+5775,K Sakshi,28,TSMTO10,Somaram,Penchikaldinna,17,9848168558,20-03-2025,1,1,1,4,1,1,1,1,1,9,2,1
+5776,KOMMU RAJITHA,28,TSMTO10,Velishala,Thirumalagiri,17,9963084580,20-03-2025,1,1,1,4,1,1,1,1,1,7,1,1
+5777,A Swathi,28,TSMTO10,Gottiparthy,Ravaualapally,15,9912878721,20-03-2025,1,1,1,4,1,1,1,1,1,3,1,1
+5778,P.Savithri,28,TSMTO10,Vepalasingaram,Lingagiri,20,9848797026,20-03-2025,1,1,1,4,1,1,1,1,1,"3,6,8,9","1,2,3,4",1
+5779,Kumbam laxmi,28,TSMTO10,Munagala,Munagala,17,9492886022,20-03-2025,1,1,1,2,1,1,1,1,1,"1,6","3,4",1
+5780,M. Vijayasri,28,TSMTO10,Amaravaram,Lingagiri,20,9849101541,20-03-2025,1,1,1,4,1,1,1,1,1,8,"2,3,4",1
+5781,T Aravindamma,28,TSMTO10,Fathepuram,Penchikaldinna,18,9014884518,20-03-2025,1,1,1,4,1,1,1,1,1,1,"1,2",1
+5782,R. Madhavi,28,TSMTO10,HNR-2,Lingagiri,18,9963247676,20-03-2025,1,1,1,4,1,1,1,1,1,8,"2,3,4",1
+5783,Bandaru kavitha,28,TSMTO10,Mellacheruvu,Mellacheruvu,3,8919677017,20-03-2025,1,1,1,2,1,1,1,1,1,"1,4,5,6,8","1,2,3,4",1
+5784,G.Sunitha,28,TSMTO10,Thammaram,Chinthalapalem,17,9908041937,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5785,Yaragani hymavathi,28,TSMTO10,Vepalamadaram,Mellacheruvu,17.8,9515073672,20-03-2025,1,1,1,3,1,1,1,1,1,8,"2,3,4",1
+5786,T Umadevi,28,TSMTO10,Shanthinagar,Ananthagiri,17,9542176574,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,4,5,6",1,1
+5787,S. Rajasulochana,28,TSMTO10,Dorakunta,Ananthagiri,17,9966068468,20-03-2025,1,1,1,1,1,1,1,1,1,6,1,1
+5788,B Anjali,28,TSMTO10,Garidepally,Garidepally,4,9603342793,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9",2,1
+5789,I chandrakala,28,TSMTO10,Yathavakilla,Mattampally,26,9959327677,20-03-2025,1,1,1,2,1,1,1,1,1,"1,5,6,7,8","1,3,4",1
+5790,A suvarna kunari,28,TSMTO10,Revuru,Mellacheruvu,17,9666107176,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5791,P Yashodha,28,TSMTO10,Jalalpur,Thirumalagiri,15,9704491614,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5792,G Kalamma,28,TSMTO10,Mellacheruvu,Mellacheruvu,17,8978373252,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,5,6,7,8","1,2,3,4,5",1
+5793,Kalpana,28,TSMTO10,Kodad-1,Uphc kodad,9,9640669101,20-03-2025,1,2,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","2,3",1
+5794,B.kalyani,28,TSMTO10,Phanigiri,Nagaram,3,8978096169,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4",1
+5795,G. Prameela,28,TSMTO10,Gaddipally,Kalmalcheruvu,17,9505931008,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,6","1,2,3",1
+5796,P Bhulakmi,28,TSMTO10,Gundlaphad,Nereducherla,17,9866466215,20-03-2025,2,2,1,4,2,1,1,1,1,3,3,1
+5797,Bhavani G,28,TSMTO10,Burkacharla,Mothey,17,9347674123,20-03-2025,1,1,1,1,1,1,1,1,1,9,2,1
+5798,Kadapa rajkumari,28,TSMTO10,Rayanigudem,Garidaypally,17,9703368536,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5799,E Maheshwari,28,TSMTO10,Ramapuram,Chilkur,4,9505476131,20-03-2025,1,1,1,4,1,1,1,1,1,"8,9","2,3",1
+5800,R vijayakumari,28,TSMTO10,Chennarigudem,Chilkur,16,9391326767,20-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3,4,5,6,7,8","1,2,3,4",1
+5801,Bhukya kavitha,28,TSMTO10,Kalvapally,Garidepally,15,9705783048,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5802,M. Laxmi,28,TSMTO10,Thummagudem,Mothey,17,9392672214,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,5,6,7,8,9","1,2,3,4",1
+5803,B.Renuka,28,TSMTO10,Ramapuram,Mellacheruvu,8,8106795123,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5804,Banothu Sujatha,28,TSMTO10,Raghunadhapalem,Mattampally,17,9550361983,20-03-2025,1,1,1,2,1,1,1,1,1,"1,9","1,2,3,4",1
+5805,Ch. Laxmi,28,TSMTO10,Huzurnagar,Lingagiri,18,9502161481,20-03-2025,1,1,1,3,1,1,1,1,1,"1,3,5,8","2,3,4",1
+5806,E Manga,28,TSMTO10,Vailasingaram,Tripuravaram,17,9676212885,20-03-2025,1,1,1,4,1,1,1,1,1,"1,6,7,8","2,3,4",1
+5807,G. Prashanthi,28,TSMTO10,Huzurnagar -3,Lingagiri,18,8309701298,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5808,G Jyothi,28,TSMTO10,Noothankal,Noothankal,22,9666344650,20-03-2025,1,1,1,3,1,1,1,1,1,"1,5,8","1,2",1
+5809,Ganta vijaya,28,TSMTO10,Yelkaram,Kasarabad,16,9550208254,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3","1,2,3",1
+5810,B.nagalaxmi,28,TSMTO10,Narayanapuram,Chilukur,18,9989740844,20-03-2025,1,1,1,4,1,1,1,1,1,8,2,1
+5811,G Annapurna,28,TSMTO10,Athmakur s,Athmakur s,27,9177366629,20-03-2025,1,1,1,3,1,1,1,1,1,3,"1,2",1
+5812,V Kalamma,28,TSMTO10,Eatoor,Nagaram,30,9849505853,20-03-2025,1,1,1,3,2,1,1,1,2,"4,5,6,8","2,3",2
+5813,G varalaxmi,28,TSMTO10,Amaravaram,Lingagiri,17,9912290702,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","2,3,4",1
+5814,V.Rambai,28,TSMTO10,Guduguntlapalem,Palakaveedu,22,9000099229,20-03-2025,1,1,1,4,1,1,1,1,1,9,2,1
+5815,M.Beby,28,TSMTO10,Etoor,Nagaram,19,9963314471,20-03-2025,1,2,1,1,1,1,1,1,1,1,1,1
+5816,Pulusu Saritha,28,TSMTO10,Polumalla,Maddirala,17,9542111554,20-03-2025,1,1,1,2,1,1,1,1,1,"1,9","2,4",1
+5817,R Janamma,28,TSMTO10,Penchikaldinna,Penchikaldinna,16,9985021424,20-03-2025,1,1,1,1,1,1,1,1,1,"4,8",3,1
+5818,S.Govindamma,28,TSMTO10,Nakkagudem,Mellacheruvu,16,8978838836,20-03-2025,1,1,1,1,1,1,1,1,1,1,2,1
+5819,P.Shanthakumari,28,TSMTO10,Ananthagiri,Ananthagiri,27,9948284053,20-03-2025,1,1,1,3,1,1,1,1,1,"6,8","1,2,3,4",1
+5820,M.Nagendramma,28,TSMTO10,Palakaveedu,Palakaveedu,18,9948989424,20-03-2025,1,1,1,1,1,1,1,1,1,"1,6,8","1,2,3,4",1
+5821,Gopamma,28,TSMTO10,Kuchipudi,Kapugallu,22,9347169140,20-03-2025,1,1,1,3,1,1,1,1,1,"1,4,8","1,2,3,4,5",1
+5822,D Latha,28,TSMTO10,Hemlathanda,Mellacheruvu,3,6304239984,20-03-2025,1,1,1,4,1,1,1,1,1,"8,9","1,2",1
+5823,A. Mounika,28,TSMTO10,Ravulapally,Ravulapally,3,9550444801,20-03-2025,1,1,1,1,2,1,1,1,1,8,2,1
+5824,D kirankumari,28,TSMTO10,Chilkur,Chilkur,18,9949088987,20-03-2025,1,1,1,3,1,1,1,1,1,"1,4,5,8,9","1,2,3,4",2
+5825,G Sridevi,28,TSMTO10,Kapugal,Kapugal,27,9640780001,20-03-2025,1,1,1,3,1,1,1,1,1,"1,3,5,8,9","1,2,3,4",2
+5826,J Kalyani,28,TSMTO10,Khanapuram,Anan5,17,9948871749,20-03-2025,1,1,1,1,1,1,1,1,1,"1,5,8,9","1,2,3,4",1
+5827,P Jhansirani,28,TSMTO10,Burugadda,Lingagiri,17,7382573992,20-03-2025,1,1,1,2,1,1,1,1,1,"1,3,6,8,9","1,2,3,4",1
+5828,N. Uma,28,TSMTO10,Reddygudem,Maddirala,3,9182365215,20-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4",1
+5829,B.Govindamma,28,TSMTO10,Bethavolu,Chilukur,30,9177491896,20-03-2025,1,1,1,1,2,1,1,1,1,"3,4,6,7,8","1,2,3,4",1
+5830,N bhulaxmi,28,TSMTO10,Chilkur,Chilkur,18,9603031170,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5831,G Swaroopa rani,28,TSMTO10,Vepalasingaram,Lingagiri,17,9676842721,20-03-2025,1,1,1,2,1,1,1,1,1,"1,3,6,8,9","1,2,3,4",1
+5832,Pamula Sandyarani,28,TSMTO10,Kasarabad,Kasarabad,15,9640483106,20-03-2025,1,1,1,3,1,1,1,1,1,"1,3,5,8,9","1,2,4",1
+5833,M varalaxmi,28,TSMTO10,Dondapadu,Mellachervuv,17,9640714080,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5834,A padma,28,TSMTO10,Ganapavaram,Kapugallu,17,9010203778,20-03-2025,1,1,1,1,1,1,1,1,1,"4,5,6,8,9","1,2,3,4",1
+5835,G Nirmala,28,TSMTO10,Bethavolu,Chilkur,18,7386869318,20-03-2025,1,1,1,1,1,1,1,1,1,"3,5,8","2,4",1
+5836,M Alivelumangamma,28,TSMTO10,Lingagiri,Lingagiri,17,7382198034,20-03-2025,1,1,1,3,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","2,3,4",1
+5837,Md.Janibegum,28,TSMTO10,Ramaram,Kasarabad,15,6305012627,20-03-2025,1,1,1,1,1,1,1,1,1,"1,4,9","1,2,3",1
+5838,R seethamma,28,TSMTO10,Pedaveedu,Mattampally,17,9640744009,20-03-2025,1,1,1,4,1,1,1,1,1,"1,4",2,1
+5839,D Alivelu,28,TSMTO10,Namavaram,Mothey,23,9966180070,20-03-2025,1,1,1,2,1,1,1,1,1,"1,5,6,7,8","2,3,4",1
+5840,Sk. Parvin,28,TSMTO10,Burkacherla,Mothey,18,9640542103,20-03-2025,1,1,1,2,1,1,1,1,1,"1,3,5,6,7,8","2,3,4",1
+5841,V.phanijarani,28,TSMTO10,Mamillagudem,Mothey,18,9010843321,20-03-2025,1,1,1,2,1,1,1,1,1,"1,5,6,7,8","2,3,4",1
+5842,Medara Rani,28,TSMTO10,Vardhapuram,Mattampally,17,9705872713,20-03-2025,1,1,1,2,1,1,1,1,1,"1,3,4,5,6,9","1,2,3,4",1
+5843,M vijayakumari,28,TSMTO10,Siripuram,Tripuravaram,17,9848216553,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,4,5,8,9","1,2,3,4",1
+5844,N.SAKKUBAI,28,TSMTO10,Vardhapuram,Mattampally,26,9533968799,20-03-2025,1,1,1,4,1,1,1,1,1,"1,3,4,6,8","2,3,4",1
+5845,MandapatiSunatha,28,TSMTO10,Kalmalcheruvu,Kalmalcheruvu,15,9966326111,20-03-2025,1,1,1,1,1,1,1,1,1,9,3,1
+5846,M.Upendra,28,TSMTO10,Kesaram,Kasarabad,22,9951417965,20-03-2025,1,1,1,3,1,1,1,3,1,"1,6,8,9","1,2,3",1
+5847,T Geetha,28,TSMTO10,Krcpuram,Thripuravaram,17,8096236357,20-03-2025,1,1,1,4,1,1,1,1,1,"3,4,5,8,9","1,2,3,4",1
+5848,SNagendramma,28,TSMTO10,Gondriyala,Ananthagiri,22,9949031456,20-03-2025,1,1,1,4,1,2,1,1,1,1,1,1
+5849,V lalitha,28,TSMTO10,Huzurnagar-3,Lingagiri,23,9908310209,20-03-2025,1,1,1,2,1,1,1,1,1,"1,3,4,5,9","1,2",1
+5850,Ch shailaja,28,TSMTO10,Thungathurthy,Ravulapally,3,9110796453,20-03-2025,1,1,1,1,1,1,1,1,1,8,2,1
+5851,J.Yallamma,28,TSMTO10,Wardhamankota,Nagaram,17,9849237346,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,5,6,8,9","1,2,3,4",1
+5852,Nagamma,28,TSMTO10,Nagaram,Nagaram,17,9703778262,20-03-2025,1,1,1,3,2,1,1,2,1,9,1,2
+5853,Jampala Pallavi,28,TSMTO10,Maddirala,Maddirala,17,9912205478,20-03-2025,1,1,1,2,1,1,1,1,1,1,2,1
+5854,Mundla Renuka,28,TSMTO10,Nereducherla 1,Nereducherla,18,9966921857,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5855,Ananthu Saidamma,28,TSMTO10,Thallamalkapuram,Garidepally,17,9603055609,20-03-2025,1,2,1,4,1,1,1,1,1,1,1,1
+5856,G Sunitha,28,TSMTO10,Nereducherla 2,Nereducherla,18,9701612129,20-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5857,M Marypadmavathi,28,TSMTO10,Kasarabad,Kasarabad,25,8790107288,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,4,6,7,9","1,2,3,4",1
+5858,Ch Ruparani,28,TSMTO10,Kapugal,Kapugal,17,9182703516,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,5,8,9","1,2,3,4",1
+5859,MLaxmibai,28,TSMTO10,Pasthala,Nagaram,13,9553089772,20-03-2025,1,1,1,4,1,1,1,1,1,"3,5,6,7","2,3,4",1
+5860,B Parvathi,28,TSMTO10,D Kothapally,Nagaram,17,9542638565,20-03-2025,1,1,1,3,1,1,1,1,1,"3,5,6,7","2,3,4",1
+5861,A. Kalavathi,28,TSMTO10,Yerrapahad,Nuthankal,26,9963214237,20-03-2025,1,1,1,4,1,1,1,1,1,6,3,1
+5862,T Gopamma,28,TSMTO10,Nallabanda gudem,Anantha giri,17,9441545453,20-03-2025,1,1,1,1,1,1,1,1,1,1,"1,2",1
+5863,T Ramana,28,TSMTO10,Akupamula,Munagala,17,9848430318,20-03-2025,1,1,1,4,1,1,1,1,1,6,1,1
+5864,B jyothi,28,TSMTO10,Dudiyathanda,Chilkur,16,7671977134,20-03-2025,1,2,1,1,1,2,1,1,1,9,1,1
+5865,R KAVITHA,28,TSMTO10,AKUPAMULA,MUNAGALA,18,8919786303,20-03-2025,1,1,1,4,1,1,1,1,1,6,1,1
+5866,M Ramadevi,28,TSMTO10,Thirumalagiri,Thirumalagiri,17,9618820159,20-03-2025,1,1,1,3,1,1,1,1,1,1,1,1
+5867,Nvijayalaxmi,28,TSMTO10,Gudimalkapurm,Mellacharuvu,16,9951156733,20-03-2025,1,1,1,4,1,1,1,1,1,1,"2,3",1
+5868,A.sucharitha,28,TSMTO10,thadvai,repala,16,8519809863,20-03-2025,1,1,1,3,1,1,1,1,1,9,"1,2,3,4",1
+5869,Js sarala shantha kumari,28,TSMTO10,Dudiyathanda,Chilkur,18,9014558192,20-03-2025,1,1,1,2,1,1,1,1,1,"8,9","1,4",1
+5870,D vanitha,28,TSMTO10,Miryala,Nuthankal,12,9912913512,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2",1,1
+5871,Shanam Upendra,28,TSMTO10,Penchikaldinna,Penchikaldinna,17,9666271196,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4",1
+5872,M.Thirupathamma,28,TSMTO10,Jerripothulagudem,Chilukur,15,9177437741,20-03-2025,1,1,1,1,1,1,1,1,1,1,"3,4",1
+5873,J. Satyavathi,28,TSMTO10,Kokkireni,Munagala,27,9705007250,20-03-2025,1,1,1,4,1,1,1,1,1,6,1,1
+5874,D Vijayakumari,28,TSMTO10,Miryala,Noothankal,16,9676601818,20-03-2025,1,1,1,1,1,1,1,1,1,9,2,1
+5875,P.jayammak,28,TSMTO10,Gummadavalli,Madhirala,17,9492507178,20-03-2025,1,1,1,4,1,1,1,1,1,"1,6,8","1,2,3",1
+5876,K JAYAMMA,28,TSMTO10,Somaram,Penchikaldinna,22,9908429522,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,7",4,1
+5877,Ch Saraswathi,28,TSMTO10,Rainigudem,Garidepally,20,9010822948,20-03-2025,1,1,1,1,1,1,1,1,1,"2,3,6,8,9","1,2,3,4",1
+5878,Ch vijayalalitha,28,TSMTO10,Appannapeta,Kalmalcheruvu,22,8008649314,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,6","1,3,4",1
+5879,Ch vijayalaxmi,28,TSMTO10,Ganapavaram,Kapugal,22,9441782427,20-03-2025,1,1,1,2,1,1,1,1,1,"1,4,5,6","1,2,3,4,5",1
+5880,Y UmaRani,28,TSMTO10,Pedannemila,Nuthankal,14,8374297011,20-03-2025,1,1,1,2,1,1,1,1,1,"1,3,4,7","1,3,4",1
+5881,Anepu vani,28,TSMTO10,Mattapally,Mattamplly,17,8309742626,20-03-2025,1,1,1,1,1,1,1,1,1,"1,4,6,8","1,2,3",1
+5882,K swarnalatha,28,TSMTO10,Chennarigudem,Chilukur,18,9676548075,20-03-2025,1,2,1,1,1,1,1,1,1,9,5,1
+5883,Yeear Bharathi,28,TSMTO10,Ravlapally,Thungathurthy,17,9963577948,20-03-2025,1,1,1,4,1,1,1,1,1,1,1,1
+5884,K Swarupa,28,TSMTO10,Dirsincharla,Penchikaldinna,4,6302684902,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,7",4,1
+5885,M jayamma,28,TSMTO10,Kodad 2,Uphc,15,9346099519,20-03-2025,1,1,1,4,1,1,1,1,1,4,2,1
+5886,Ch nagakalyani,28,TSMTO10,Mallareddygudem,Mellacheruvu,16,9642130995,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5887,M neeraja,28,TSMTO10,Komarabanda,Uphc kodad,18,9963485931,21-03-2025,1,1,1,4,1,1,1,1,1,"1,6,8","1,4",1
+5888,Veeralakshmi,28,TSMTO10,Balajinagar,Kodad urban,18,8498052578,20-03-2025,1,1,1,4,1,1,1,1,1,"1,6,8,9","1,2,3,4",1
+5889,J Mangamma,28,TSMTO10,Kodad 10,Uphv kodad,9,9505129253,20-03-2025,1,1,1,3,1,1,1,1,1,8,"1,2,3,4",1
+5890,A.Meenakumari,28,TSMTO10,Dorakunta,Ananthagiri,26,9704246638,20-03-2025,1,2,1,2,2,2,1,1,2,"1,5,9","2,3",2
+5891,Dasari Venkata Ramana,28,TSMTO10,Thummalapenpahad,Athmakur S,18,9912617553,20-03-2025,1,1,1,4,1,1,1,1,1,9,3,1
+5892,Annapureddy Padmavathi,28,TSMTO10,Khanapuram,Ananthagiri,26,9908994316,20-03-2025,1,2,1,2,2,2,1,1,2,"1,5,9","2,3",2
+5893,R. Suma,28,TSMTO10,Dkothapally,Nagaram,3,7569670412,20-03-2025,1,1,1,3,1,1,1,1,1,7,2,1
+5894,K Karuna kumari,28,TSMTO10,Shanthinagar,Ananthagiri,22,9491346934,20-03-2025,1,1,1,3,1,1,1,1,1,"1,3,4,5","1,2,3,4,5",1
+5895,B. Vajramma,28,TSMTO10,Imampet,Kasarabad,18,9490850706,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,4,9","1,2,3",1
+5896,K.shalini,28,TSMTO10,Yendlapally,Kasarabad,16,9603415238,20-03-2025,1,1,1,3,1,1,1,1,1,"3,4,6,8","2,4",1
+5897,M Mani,28,TSMTO10,Velugupally,Ravulapally,3,9030236069,20-03-2025,1,1,1,2,1,1,1,1,1,"3,4,8","1,2,3",1
+5898,Jeevamma,28,TSMTO10,Thigarrai,Kapujallo,17,9553073809,20-03-2025,1,1,1,4,1,1,1,1,1,4,"2,3",1
+5899,P Santhoshi,28,TSMTO10,Patharlaphadu,Athmakur s,4,9133096278,20-03-2025,1,1,1,4,1,1,1,1,1,"3,8,9","1,3,5",1
+5900,K Chandraka,28,TSMTO10,Gudibanda,Kapugal,17,7673952801,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,4,8,9","1,2,3,4",1
+5901,N Vijayasri,28,TSMTO10,Patharlapahad,Athmakur,20,9951020545,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5902,D. Nagamani,28,TSMTO10,Kotapahad,Athmakur,3,8498986306,20-03-2025,1,1,1,4,1,1,1,1,1,"1,3,6,9","1,2,3",1
+5903,R.sujatha,28,TSMTO10,Nakkagudem,Mallacheruv,16,6304418828,20-03-2025,1,1,1,2,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5904,Kola Swarupa,28,TSMTO10,Thammaram,Mellacheruvu,3,9133852694,20-03-2025,1,1,1,3,1,1,1,1,1,"1,2,6,7,8","1,2,3",1
+5905,K Rajani,28,TSMTO10,Chilpakuntla,Nuthankal,17,9505462118,20-03-2025,1,1,1,2,1,1,1,1,1,"1,3,4","1,2,3,4",1
+5906,M. Danamma,28,TSMTO10,Nemmikal,Athmakur,15,9652172899,20-03-2025,1,1,1,1,1,1,1,1,1,"1,8",1,1
+5907,Vadapally Nagalaxmi,28,TSMTO10,Munagala,Munagala,3,7013566274,20-03-2025,1,1,1,1,2,2,1,1,1,9,3,1
+5908,P.Madhuri,28,TSMTO10,Gudibanda,Kapugal,3,9666003206,20-03-2025,1,1,1,1,1,1,1,1,1,"1,4,6,7","2,3",1
+5909,N. Radhika,28,TSMTO10,Namavaram,Mothey,17,9492884115,20-03-2025,3,1,1,2,1,1,1,1,1,"5,6,7,8","2,3,4",1
+5910,P susheela,28,TSMTO10,Girinager,Girinager,18,9059628800,20-03-2025,1,1,1,4,1,1,1,1,1,1,2,1
+5911,N Kalyani,28,TSMTO10,28th ward,Uphc Rajeev Nagar,10,9492687091,20-03-2025,1,1,1,3,1,1,1,1,1,"1,3","2,3",1
+5912,K upendra,28,TSMTO10,Gaddipally,Kalmalcheruvu,4,7670968205,20-03-2025,1,1,1,4,1,1,1,1,1,"1,4",2,1
+5913,G Avanthi,28,TSMTO10,7th ward,Uphc Rajeev nager,5,9985439903,20-03-2025,1,1,1,3,1,1,1,1,1,"1,3","2,3",1
+5914,Kambhampati Sindhuja,28,TSMTO10,Vajinepally,Mellacheruvu,3,9347010369,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5915,V Siromani,28,TSMTO10,Rajeev Nagar,Uphc1,19,9966221282,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5916,Bommisetti Gayathri,28,TSMTO10,Gudimalkapuram,Mellacheruvu,3,9347930937,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5917,M Vijaya,28,TSMTO10,Abbireddygudem,Garidepally,17,9542315344,20-03-2025,1,1,1,3,2,1,1,1,1,"1,9","1,2,3,4",1
+5918,Y. Durgamma,28,TSMTO10,Thimmapuram,Arvapally,17,9848633094,20-03-2025,1,1,1,3,2,2,2,2,2,"5,9","2,3",2
+5919,P Shanthamma,28,TSMTO10,Ganugubanda,Kalmalcheruvu,24,7989368623,20-03-2025,1,1,1,4,1,1,1,1,1,3,"1,2,3,4",1
+5920,J Annapurna,28,TSMTO10,Athmakur s,Athmakur s,17,9985473835,20-03-2025,1,1,1,4,1,1,1,1,1,9,1,1
+5921,K Padma,28,TSMTO10,Repala,Repala,18,7731812982,20-03-2025,1,1,1,1,1,1,1,1,1,"1,5,6,8,9","1,2,3,4,5",1
+5922,P. Pavani,28,TSMTO10,Thadvai,Repala,4,7075313910,20-03-2025,1,1,1,1,1,1,1,1,1,"1,4,5,6,8,9","1,2,3,4,5",1
+5923,D.veeramma,28,TSMTO10,Penpahad,Penpahad,26,9603508484,20-03-2025,1,1,1,4,2,2,1,1,1,"6,8","1,2,3",1
+5924,A Srilatha,28,TSMTO10,Nbthanda,Thirumalagiri,19,9542501613,20-03-2025,1,1,1,4,1,1,1,1,1,"1,3,4,7","1,2,3",1
+5925,R.Padma Kumari,28,TSMTO10,Mothey,Mothey,20,9553207620,20-03-2025,1,1,1,2,1,1,1,1,1,"1,5,6,7,8,9","1,2,3,4",1
+5926,D.Laxmi,28,TSMTO10,Yendlapally,Kasarabad,27,9000136206,20-03-2025,1,1,1,2,1,1,1,1,1,"3,4,5,6,8","1,3,4",1
+5927,Ch Dhanamma,28,TSMTO10,Anajipuram,Penpahad,17,9505518388,20-03-2025,1,1,1,4,2,2,2,1,1,"4,6,8","1,2,3",2
+5928,A Saritha,28,TSMTO10,Bhakthalapuram,Penpahad,17,7095508227,20-03-2025,1,1,1,4,2,2,2,1,1,"3,4,6,8","1,2,3",2
+5929,V aruna,28,TSMTO10,Kandagatla,Athmakur  s,17,8639441010,20-03-2025,1,1,1,4,1,1,1,1,1,3,1,1
+5930,Vangapally Urmila,28,TSMTO10,Kommala,Arvpally,17,8790185206,20-03-2025,1,1,1,1,2,2,1,1,1,4,2,1
+5931,Jorrigala Nagalaxmi,28,TSMTO10,Chinnanemila,Maddiralla,18,9948123399,20-03-2025,1,1,1,4,1,1,1,1,1,"1,3,6,8","1,3",1
+5932,R. Shakunthala,28,TSMTO10,Appannapeta,Kalmalchervu,17,9951929209,20-03-2025,1,1,1,4,1,1,1,1,1,"3,4,9","1,2,3,4",1
+5933,T umamaheswari,28,TSMTO10,Ramannagudem,Athamakur,22,9700537375,20-03-2025,1,1,1,1,1,1,1,1,1,"1,8",1,1
+5934,Medicanametla Narsamma,28,TSMTO10,Kalakova,Repala,18,9502477858,20-03-2025,1,1,1,1,1,1,1,1,1,"1,4,7",1,1
+5935,T Saidamma,28,TSMTO10,Mattapalli,Mattampally,17,9440753470,20-03-2025,1,1,1,3,1,1,1,1,1,"1,8","1,2,3,4",1
+5936,G.Rambai,28,TSMTO10,Kalmalcheruvu,Kalmalcheruvu,3,9392620135,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8",2,1
+5937,IHRP,28,TSMTO10,Guduguntlapalem,Nereducherla,17,9177155095,20-03-2025,1,1,1,4,1,1,1,1,1,3,2,1
+5938,N.Ramadevi,28,TSMTO10,Dondapadu,Mellacheruvu,3,9652601595,20-03-2025,1,1,1,2,1,1,1,1,1,7,2,1
+5939,G madhavi,28,TSMTO10,Cheedalla,Penphad,18,9959917611,20-03-2025,1,1,1,1,1,1,1,1,1,1,"1,2,3",1
+5940,A Jhansi Rani,28,TSMTO10,Gundepuri,Thirumalagiri,17,9618820041,20-03-2025,1,1,1,4,1,1,1,1,1,6,3,1
+5941,M Vijayalakshmi,28,TSMTO10,Sirikonda,Mothey,23,9014412488,20-03-2025,1,1,1,2,1,1,1,1,1,1,2,1
+5942,Burgula Indira,28,TSMTO10,JB THANDA,Chivemla,26,9640191627,20-03-2025,1,1,1,4,1,1,1,1,1,"1,4,8","1,2,3,4",1
+5943,Dhanamma,28,TSMTO10,Uphc kodad,Uphc kodad,9,9542657317,20-03-2025,1,1,1,3,1,1,1,1,1,8,"1,2,3,4",1
+5944,P SWAPNA,28,TSMTO10,Velugupally,Ravulapally,17,7780278833,20-03-2025,1,1,1,4,1,1,1,1,1,6,3,1
+5945,S.sandhya,28,TSMTO10,Pathasuryapet,ATHMAKUR s,17,8106488936,20-03-2025,1,1,1,1,1,1,1,1,1,1,2,1
+5946,MD Vazeer bhanu,28,TSMTO10,Pathasuryapet,Athmakur s,17,9666916046,20-03-2025,1,1,1,2,1,1,1,1,1,"1,4,5,8,9","1,2,3,4",1
+5947,కోరిపెల్లి లక్ష్మి,28,TSMTO10,Thummalaepahad,Athmakur S,23,9010220839,20-03-2025,1,1,1,4,1,1,1,1,1,"1,6,8","2,3",1
+5948,R.Mamatha,28,TSMTO10,Mukundapuram,Munagala,22,6304171550,20-03-2025,1,1,1,1,1,1,1,1,1,9,3,1
+5949,Somagani Saidamma,28,TSMTO10,Jajireddygudem,Arvapally,13,9666484399,20-03-2025,1,1,1,4,1,1,1,1,1,"1,8,9","1,2,4",1
+5950,P. Shakunthala,28,TSMTO10,Jajireddygudem,Arvapally,18,9959247577,20-03-2025,1,1,1,4,1,1,1,1,1,"1,8,9","1,2,4",1
+5951,D Saraswathi,28,TSMTO10,Chilpakuntla,Nuthankal,25,9542783769,20-03-2025,1,1,1,2,1,1,1,1,1,"1,5,9",1,1
+5952,N.Nagendramma,28,TSMTO10,Hemlathanda,Mellachervu,17,9603014945,20-03-2025,1,1,1,1,1,1,1,1,1,1,2,1
+5953,SAMALA JYOTHI,28,TSMTO10,ARVAPALLY,ARVAPALLY,22,9866694655,20-03-2025,1,1,1,3,1,1,2,1,1,"1,5,6,8,9","1,3",1
+5954,RACHA LAXMI,28,TSMTO10,Kandibanda,Mellacheruvu,17,9182425407,20-03-2025,1,1,1,1,1,1,1,1,1,1,2,1
+5955,Bellamkonda Rani,28,TSMTO10,Vkpahad,Chivemla,24,9912174321,20-03-2025,1,1,1,4,1,1,1,1,1,8,"1,2,4",1
+5956,R Nagendramma,28,TSMTO10,Komatikunta,Nereducherla,18,8179756379,20-03-2025,1,1,1,4,1,1,1,1,1,1,1,1
+5957,Jatothu sujatha,28,TSMTO10,Lingala,Penpahad,18,9705270424,20-03-2025,1,1,1,1,1,1,1,1,1,1,"2,3,4",1
+5958,Yaramalla Indira,28,TSMTO10,Chetlamukundapuram,Penpahad,16,9640771543,20-03-2025,1,1,1,4,1,1,1,1,1,1,2,1
+5959,G Chilakamma,28,TSMTO10,Girinagar,Girinagar,24,9346894505,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5960,Bandela swetha,28,TSMTO10,Kasarlapad,Arvapally,3,9392233840,20-03-2025,1,1,1,2,1,1,1,1,1,4,1,1
+5961,M Pudhpalatha,28,TSMTO10,14th ward,Ambedkar Nagar,9,9182611124,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3,4,5,9","2,3",1
+5962,Padmaja,28,TSMTO10,"10,11,12 th wards",Rajeev Nagar,27,9966644402,20-03-2025,1,1,1,4,1,1,1,1,1,"1,4,8,9","1,2,3,4",1
+5963,M.Girija,28,TSMTO10,Arvapally,PHC Arvapally,2.5,9346760134,20-03-2025,1,1,1,1,1,1,1,1,1,3,3,2
+5964,Npushpalatha,28,TSMTO10,Nuthankal,Nuthankal,18,8096405995,20-03-2025,1,1,1,2,1,1,1,1,1,3,1,1
+5965,J Nagalaxmi,28,TSMTO10,Singareddypalem,Penkahad,17,6305718273,20-03-2025,1,1,1,4,1,1,1,1,2,"8,9",2,2
+5966,M kranthi,28,TSMTO10,Janpahad,Palakedu,3.5,7093080135,20-03-2025,1,1,1,4,1,1,1,1,1,1,"3,4",1
+5967,Karnataka Kavitha,28,TSMTO10,Garidepally,Garidepally,17,9866975633,20-03-2025,1,1,1,4,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4",1
+5968,P Durgabhavani,28,TSMTO10,Penpahad,Penpahad,17,9010448565,20-03-2025,1,1,1,4,1,1,1,1,2,"3,4,8,9","2,3",2
+5969,N.vijayasusheela,28,TSMTO10,Palakaveedu,Nereducherla,19,9701681507,20-03-2025,1,1,1,4,1,1,1,1,1,"1,3,4,6,7,8","1,2,3,4,5",1
+5970,V Mamatha,28,TSMTO10,V K Pahad,Chivemla,17,9346257502,20-03-2025,1,1,1,3,1,1,1,1,1,"1,6,8","2,3,4",1
+5971,Pagidi Janamma,28,TSMTO10,Balemla,Kasrabad,3,9618015068,20-03-2025,1,1,1,2,1,1,1,1,1,"8,9","2,3,4",1
+5972,A saraswathi,28,TSMTO10,Kommala,Arvapally,18,9959753579,20-03-2025,1,1,1,2,1,1,1,1,1,3,1,1
+5973,T.Nagarani,28,TSMTO10,Kasarlapad,Arvapally,18,9052457541,20-03-2025,1,1,1,2,1,2,1,1,1,"5,6,7,8,9",3,1
+5974,T Laxmamma,28,TSMTO10,Pedanemila,Nuthankal,22,9985481631,20-03-2025,1,1,1,1,1,1,1,1,1,"3,4","2,3,4",1
+5975,Nagalaxmi,28,TSMTO10,Ann6,Ravulapally,3,9390560519,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5976,G jayamma,28,TSMTO10,Yerraphad,Nuthankal,18,9701687089,20-03-2025,1,1,1,4,1,1,1,1,1,"6,9",2,1
+5977,B J Swarnalatha,28,TSMTO10,Pandyanaikthanda,Chivemla,22,9848296745,20-03-2025,1,1,1,2,1,1,1,1,1,"3,4,5,6,8,9","1,2,3,4",1
+5978,B Jhansi,28,TSMTO10,Thallasingaram,Nuthankal,18,9849890711,20-03-2025,1,1,1,1,1,1,2,1,1,"3,4",2,1
+5979,P Sunitha,28,TSMTO10,Ailapuram,chivemla,39,16,20-03-2025,1,1,1,1,1,1,1,1,1,3,1,1
+5980,K Nagamani,28,TSMTO10,Aipoor,Athmakur S,25,9989617281,20-03-2025,1,1,1,4,1,1,1,1,1,"6,8",1,1
+5981,A sunitha,28,TSMTO10,Chetlamukundapuram,Penpahad,18,8096356641,20-03-2025,1,1,1,3,1,1,1,1,1,"3,8","2,3",1
+5982,R shirisha,28,TSMTO10,24thward,Uphc1 Rajeev nager,8,9949309227,20-03-2025,1,1,1,1,1,1,1,1,2,"2,5,9",1,1
+5983,M jayasudha,28,TSMTO10,Sirikonda,Mothey,17,9989747218,20-03-2025,1,1,1,1,1,1,1,1,2,"1,3,8,9","1,2,3,4",1
+5984,K.Renuka,28,TSMTO10,Chivvemla,Chivvemla,18,9989439087,20-03-2025,1,1,1,1,1,1,1,1,1,"3,4,5,7,9","1,2,3,4",1
+5985,M suguna  bai,28,TSMTO10,Gondriyala,Ananthagiri,18,9493650337,20-03-2025,1,2,1,2,1,1,1,1,1,9,4,4
+5986,Renuka Vempati,28,TSMTO10,Kotapahad,Athmakur,18,7989637182,20-03-2025,1,1,1,4,1,2,1,1,1,1,1,1
+5987,P Madhavi,28,TSMTO10,Malipuram,Thirumalagiri,17,8465873535,20-03-2025,1,1,1,3,1,1,1,1,1,"1,2,3","1,2,3,4,5",1
+5988,Pmanemma,28,TSMTO10,Bhakthalapuram,Penpahad,52,8790338112,20-03-2025,1,1,1,4,2,2,1,1,1,"1,7,8,9","1,2,3,4,5",3
+5989,G.Jayasree,28,TSMTO10,Singareddypalem,Penpahad,22,9704737337,20-03-2025,1,1,1,3,1,1,1,2,1,"3,4,9","1,3",1
+5990,Hemalatha,28,TSMTO10,Balemla,Kasarabad,17,7396319963,20-03-2025,1,1,1,3,1,1,1,1,1,"6,8","1,2",1
+5991,B Sujatha,28,TSMTO10,Nadigudem,Thripuravaram,13,9505093966,20-03-2025,1,1,1,1,1,1,1,1,1,3,1,1
+5992,Veeramalla Shobharani,28,TSMTO10,Ravipahad,Mothey,17,8331833955,20-03-2025,1,1,1,2,1,1,1,1,1,8,1,1
+5993,Garine Ramaadhevi,28,TSMTO10,Krcpuram,Tripuravaram,18,9948965717,20-03-2025,1,1,1,1,1,1,1,1,1,"1,2,3,4,5,6,7,8,9","1,2,3,4,5",1
+5994,L shantha,28,TSMTO10,Thallasingaram,Nuthankal,18,9550291874,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5995,Salavadi Nirmala,28,TSMTO10,Ramannagudem,Athmakur S,18,9640336096,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+5996,T.subhadrs,28,TSMTO10,N.Annaram,Penpahad,22,9959421269,20-03-2025,1,1,1,1,1,1,1,1,1,"1,7",1,1
+5997,Swarupa,28,TSMTO10,Imampet,Kasrabad,16,9247345978,20-03-2025,1,1,1,3,1,1,1,1,1,"6,8","1,2,3,4",1
+5998,M.Dhanamma,28,TSMTO10,Nellibandathanda,Thirumalagiri,4,9014535830,20-03-2025,1,1,1,2,1,1,1,1,1,"4,9","1,2,3,4",2
+5999,G shankaramma,28,TSMTO10,Chandupatla,chivemla,21,9949727301,20-03-2025,1,1,1,1,1,1,1,1,1,8,2,1
+6000,Karunamma Gattu,28,TSMTO10,18th ward,Uphc Giri Nagar,5,9885069011,20-03-2025,1,1,1,4,1,1,1,1,1,2,1,1
+6001,G shirisha,28,TSMTO10,Janphad,Neraducherla,3.6,7993572338,20-03-2025,1,2,2,4,3,3,3,2,2,3,3,3
+6002,P.Renuka,28,TSMTO10,Cheedalla,Penpahad,27,8897312113,20-03-2025,1,1,1,1,1,1,1,1,1,8,1,1
+6003,T Durgamm,28,TSMTO10,Anantharam,Penpahad,18,9398485438,20-03-2025,1,1,1,3,1,1,1,1,1,"1,8","2,3",1
+6004,Jakki Nirmala,28,TSMTO10,Urlugonda,Mothey,17,9652195156,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+6005,B Laxmamma,28,TSMTO10,N Annaram,Penpahad,18,8374844009,20-03-2025,1,1,1,4,1,1,1,2,1,8,"2,3",1
+6006,R saidamma,28,TSMTO10,Gajulamalkapuram,Penpahad,22,9182217834,20-03-2025,1,1,1,1,1,1,1,1,1,7,1,1
+6007,Ch Sukanya,28,TSMTO10,Ambedkar Nagar,UphcAmbedkar,17,9666182253,20-03-2025,1,1,1,1,1,1,1,1,1,1,1,1
+6008,G Danamma,28,TSMTO10,"17,34,35ward",UPHC Ambedkar Nagar,24,9704450065,20-03-2025,1,1,1,1,1,1,1,1,1,"1,3",2,2
+6009,B Sunitha,28,TSMTO10,Ponugodu,Kalmalcheruvu,22,9951935745,20-03-2025,1,2,1,3,1,1,1,1,1,"1,3","2,3",1
+6010,B bhanumati,28,TSMTO10,Munagala,Munagala,17,9652195036,20-03-2025,1,1,1,3,1,1,1,1,1,9,2,1
+6011,GUDEPU ARUNA,28,TSMTO10,Kalvapally,Garidepally,17,9704204004,20-03-2025,1,1,1,4,1,1,1,1,1,1,3,1
+6012,G Vijaya Kumari,28,TSMTO10,Balajinagar,UPHC kodad,22,7337332627,20-03-2025,1,1,1,4,1,1,1,1,1,1,1,1
+6013,Avenkatamma,28,TSMTO10,VELISHALA,Thirumalagiri,17,9676218668,21-03-2025,1,1,1,1,1,1,1,1,1,9,"1,2",1
