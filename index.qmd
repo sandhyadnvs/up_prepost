@@ -2,7 +2,7 @@
 title: "Pre and Posttest Analysis - Telangana"
 format: dashboard
 logo: "plots/ihrptm.jpg"
-fig-width: 9
+fig-width: 10
 fig-height: 8
 dpi: 600
 theme: journal
