@@ -524,7 +524,7 @@ pre_post_mean_pct_anm1 <- ggplot(sta2_long_anm1, aes(x = condition, y = Mean_Pct
            y = -5,  # Position slightly below the x-axis
            label = paste0(round(knowledge_gain_anm1$Gain, 1), "%"),
            size = 3.5, 
-           color = "black")
+           color = "red")
 
 # Save the plot in the "plots" directory
 ggsave("plots/pre_post_mean_pct_anm1_1.png", 
@@ -1442,7 +1442,7 @@ pre_post_mean_pct_anm2 <- ggplot(sta2_long_anm2, aes(x = condition, y = Mean_Pct
            y = -5,  # Position slightly below the x-axis
            label = paste0(round(knowledge_gain_anm2$Gain, 1), "%"),
            size = 3.5, 
-           color = "black")
+           color = "red")
 
 # Save the plot in the "plots" directory
 ggsave("plots/pre_post_mean_pct_anm2_2.png", 
@@ -2406,7 +2406,7 @@ pre_post_mean_pct_mo1 <- ggplot(sta2_long_mo1, aes(x = condition, y = Mean_Pct, 
            y = -5,  # Position slightly below the x-axis
            label = paste0(round(knowledge_gain_mo1$Gain, 1), "%"),
            size = 3.5, 
-           color = "black")
+           color = "red")
 
 # Save the plot in the "plots" directory
 ggsave("plots/pre_post_mean_pct_mo1_1.png", 
@@ -3348,7 +3348,7 @@ pre_post_mean_pct_mo2 <- ggplot(sta2_long_mo2, aes(x = condition, y = Mean_Pct, 
            y = -5,  # Position slightly below the x-axis
            label = paste0(round(knowledge_gain_mo2$Gain, 1), "%"),
            size = 3.5, 
-           color = "black")
+           color = "red")
 
 # Save the plot in the "plots" directory
 ggsave("plots/pre_post_mean_pct_mo2_2.png", 
@@ -4320,7 +4320,7 @@ pre_post_mean_pct_sn1 <- ggplot(sta2_long_sn1, aes(x = condition, y = Mean_Pct, 
            y = -5,  # Position slightly below the x-axis
            label = paste0(round(knowledge_gain_sn1$Gain, 1), "%"),
            size = 3.5, 
-           color = "black")
+           color = "red")
 
 # Save the plot in the "plots" directory
 ggsave("plots/pre_post_mean_pct_sn1.png", 
@@ -4831,6 +4831,7 @@ telangana_map_plot_sn1
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Mean Pre - Post Percentage</span>"
+#| fig-cap: "<span style='font-size:10px;'>*Red- % Knowledge gain</span>"
 
 # MO1 mean pre post
 print(pre_post_mean_pct_mo1)
@@ -4840,6 +4841,7 @@ print(pre_post_mean_pct_mo1)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Mean Pre - Post Percentage</span>"
+#| fig-cap: "<span style='font-size:10px;'>*Red- % Knowledge gain</span>"
 
 # ANM1 mean pre post
 print(pre_post_mean_pct_anm1)
@@ -4849,6 +4851,7 @@ print(pre_post_mean_pct_anm1)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Mean Pre - Post Percentage</span>"
+#| fig-cap: "<span style='font-size:10px;'>*Red- % Knowledge gain</span>"
 
 # SN1 mean pre post
 print(pre_post_mean_pct_sn1)
@@ -4861,6 +4864,7 @@ print(pre_post_mean_pct_sn1)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Relative Percentage Change</span>"
+#| fig-cap: "<span style='font-size:10px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows increase or decrease in post test scores compared to pre test scores.<br><span style='font-weight:bold;'>Positive change:</span> Participants scored higher in post test than in pretest.<br> <span style='font-weight:bold;'>Negative change:</span> Participants scored lower in post test than in pretest.</span>"
 
 # MO1 relative change
 print(plot_relative_change_mo1)
@@ -4871,6 +4875,7 @@ print(plot_relative_change_mo1)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Relative Percentage Change</span>"
+#| fig-cap: "<span style='font-size:10px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows increase or decrease in post test scores compared to pre test scores.<br><span style='font-weight:bold;'>Positive change:</span> Participants scored higher in post test than in pretest.<br> <span style='font-weight:bold;'>Negative change:</span> Participants scored lower in post test than in pretest.</span>"
 
 # ANM1 relative change
 print(plot_relative_change_anm1)
@@ -4881,6 +4886,7 @@ print(plot_relative_change_anm1)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Relative Percentage Change</span>"
+#| fig-cap: "<span style='font-size:10px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows increase or decrease in post test scores compared to pre test scores.<br><span style='font-weight:bold;'>Positive change:</span> Participants scored higher in post test than in pretest.<br> <span style='font-weight:bold;'>Negative change:</span> Participants scored lower in post test than in pretest.</span>"
 
 # SN1 relative change
 print(plot_relative_change_sn1)
@@ -4923,6 +4929,7 @@ print(districtwise_combined_percentage_plot_sn1)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Question-wise Analysis</span>"
+#| fig-cap: "<span style='font-size:10px;'>*Yellow- Test score below 50%</span>"
 
 # MO1 district wise
 df_questions_combined_mo1_gt
@@ -4932,6 +4939,7 @@ df_questions_combined_mo1_gt
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Question-wise Analysis</span>"
+#| fig-cap: "<span style='font-size:10px;'>*Yellow- Test score below 50%</span>"
 
 # ANM1 district wise
 df_questions_combined_anm1_gt
@@ -4941,6 +4949,7 @@ df_questions_combined_anm1_gt
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Question-wise Analysis</span>"
+#| fig-cap: "<span style='font-size:10px;'>*Yellow- Test score below 50%</span>"
 
 # SN1 district wise
 df_questions_combined_sn1_gt
@@ -5058,6 +5067,7 @@ print(telangana_map_plot_anm2)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Mean Pre - Post Percentage</span>"
+#| fig-cap: "<span style='font-size:10px;'>*Red- % Knowledge gain</span>"
 
 # MO1 mean pre post
 print(pre_post_mean_pct_mo2)
@@ -5067,6 +5077,7 @@ print(pre_post_mean_pct_mo2)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Mean Pre - Post Percentage</span>"
+#| fig-cap: "<span style='font-size:10px;'>*Red- % Knowledge gain</span>"
 
 # ANM1 mean pre post
 print(pre_post_mean_pct_anm2)
@@ -5079,6 +5090,7 @@ print(pre_post_mean_pct_anm2)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Relative Percentage Change</span>"
+#| fig-cap: "<span style='font-size:10px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows increase or decrease in post test scores compared to pre test scores.<br><span style='font-weight:bold;'>Positive change:</span> Participants scored higher in post test than in pretest.<br> <span style='font-weight:bold;'>Negative change:</span> Participants scored lower in post test than in pretest.</span>"
 
 # MO1 relative change
 print(plot_relative_change_mo2)
@@ -5089,6 +5101,7 @@ print(plot_relative_change_mo2)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Relative Percentage Change</span>"
+#| fig-cap: "<span style='font-size:10px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows increase or decrease in post test scores compared to pre test scores.<br><span style='font-weight:bold;'>Positive change:</span> Participants scored higher in post test than in pretest.<br> <span style='font-weight:bold;'>Negative change:</span> Participants scored lower in post test than in pretest.</span>"
 
 # ANM1 relative change
 print(plot_relative_change_anm2)
@@ -5122,6 +5135,7 @@ print(districtwise_combined_percentage_plot_anm2)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Question-wise Analysis</span>"
+#| fig-cap: "<span style='font-size:10px;'>*Yellow- Test score below 50%</span>"
 
 # MO1 district wise
 df_questions_combined_mo2_gt
@@ -5131,6 +5145,7 @@ df_questions_combined_mo2_gt
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Question-wise Analysis</span>"
+#| fig-cap: "<span style='font-size:10px;'>*Yellow- Test score below 50%</span>"
 
 # ANM1 district wise
 df_questions_combined_anm2_gt
