@@ -3840,7 +3840,7 @@ nrow(df_anm[df_anm$condition == 'qanc', ])
 
 ```{r}
 #| content: valuebox
-#| title: "SN (Approx.)- Only Kaushmabi District"
+#| title: "SN (Approx.) - Only Kaushmabi"
 #| color: success
 #| font-size-content: 5
 
