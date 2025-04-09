@@ -23,36 +23,42 @@
 "Jagtial","lscs",7.3,2,73.2,8,1.8,79.7,0.000363
 "Jagtial","sob",6,1.7,60.1,7.2,1.6,72.4,0
 "Jagtial","tb",5.2,2,52.4,6.4,1.8,64.3,0
-"Jayashankar Bhupalpally","epi",4.8,1.7,48.3,5.4,1.9,53.9,0.017124
-"Jayashankar Bhupalpally","hrt",7.1,1.9,71.2,7.3,1.8,73.2,0.402096
-"Jayashankar Bhupalpally","jau",3.5,1.3,34.7,6.2,1.8,62,0
-"Jayashankar Bhupalpally","lscs",7,1.9,69.7,7.4,1.9,74.4,0.063188
-"Jayashankar Bhupalpally","sob",7.1,1.5,70.7,6.6,1.6,66.3,0.042921
-"Jayashankar Bhupalpally","tb",6,1.6,59.5,6.2,1.6,62.4,0.188391
+"Jangaon","epi",4.4,1.8,44.1,5.9,1.8,59.2,0
+"Jangaon","hrt",6.1,2.6,60.8,7.4,1.9,73.8,2e-06
+"Jangaon","jau",3.3,1.5,33.3,7.2,1.4,72.5,0
+"Jangaon","lscs",6.7,2.3,67,7.7,2,77.1,7e-05
+"Jangaon","sob",5.7,2,57,7.2,1.6,72,0
+"Jangaon","tb",4.9,2.1,48.6,6.5,1.9,65.3,0
+"Jayashankar Bhupalpally","epi",4.8,1.6,48.4,5.4,1.9,54.1,0.015776
+"Jayashankar Bhupalpally","hrt",7.1,1.8,71.2,7.3,1.8,73.4,0.38309
+"Jayashankar Bhupalpally","jau",3.5,1.3,34.8,6.2,1.8,62,0
+"Jayashankar Bhupalpally","lscs",7,1.9,69.8,7.5,1.9,74.7,0.055152
+"Jayashankar Bhupalpally","sob",7.1,1.5,70.6,6.6,1.6,66.4,0.053383
+"Jayashankar Bhupalpally","tb",5.9,1.6,59.4,6.3,1.6,62.6,0.149632
 "Jogulamba Gadwal","epi",5.3,1.7,53.3,5.9,1.6,59.4,0.00424
 "Jogulamba Gadwal","hrt",7.8,1.6,77.5,8.1,1.2,81,0.044598
 "Jogulamba Gadwal","jau",3.9,1.3,39.2,6.2,1.6,62.3,0
 "Jogulamba Gadwal","lscs",8,1.5,79.7,8.8,1.2,87.8,1.5e-05
 "Jogulamba Gadwal","sob",6.8,1.2,68,7,1.2,69.5,0.34097
 "Jogulamba Gadwal","tb",6,1.5,60,6.7,1.4,66.8,0.000415
-"Kamareddy","epi",4.9,1.6,49,5.2,1.5,52.4,0.066005
-"Kamareddy","hrt",7,2.2,70.4,7.7,1.9,76.9,0.009443
-"Kamareddy","jau",3.8,1.6,38,5.5,1.7,55.1,0
-"Kamareddy","lscs",7.8,1.8,77.9,8.2,1.8,82,0.063771
-"Kamareddy","sob",6.3,1.6,62.5,7.2,1.7,72.3,1e-06
-"Kamareddy","tb",5.4,2,54,5.9,2,58.9,0.037318
+"Kamareddy","epi",5,1.6,50,5.3,1.6,52.9,0.044206
+"Kamareddy","hrt",7.1,2.1,71.2,7.4,2.1,74.2,0.097694
+"Kamareddy","jau",3.8,1.5,38.1,5.5,1.7,55,0
+"Kamareddy","lscs",7.8,1.8,78.4,8,1.8,80.2,0.26156
+"Kamareddy","sob",6.4,1.6,63.5,7,1.8,69.8,3.9e-05
+"Kamareddy","tb",5.5,1.9,55.4,5.8,2,58.1,0.123803
 "Karimnagar","epi",4.9,1.7,48.9,6,1.5,59.8,0
 "Karimnagar","hrt",7.1,2.1,70.5,7.3,2,72.6,0.25961
 "Karimnagar","jau",4,1.7,39.8,6.8,1.6,67.8,0
 "Karimnagar","lscs",7.2,2.2,71.8,7.7,1.9,76.6,0.010892
 "Karimnagar","sob",6.2,1.8,62.3,7,1.6,69.5,3e-06
 "Karimnagar","tb",5.1,2,50.5,5.9,1.7,58.6,2e-06
-"Khammam","epi",5.1,1.7,51.3,5.7,1.6,57.2,1e-05
-"Khammam","hrt",7.6,1.6,75.7,7.9,1.5,79,0.011313
-"Khammam","jau",4.3,1.5,43.5,6.9,1.6,68.5,0
-"Khammam","lscs",7.9,1.9,79.1,8.1,1.7,81.1,0.152374
-"Khammam","sob",6.4,1.5,63.8,6.8,1.4,67.8,0.000935
-"Khammam","tb",6.1,1.7,61.4,6.6,1.8,65.7,0.002845
+"Khammam","epi",5.1,1.7,51.2,5.7,1.6,57,1.7e-05
+"Khammam","hrt",7.6,1.6,75.8,7.9,1.5,78.7,0.022386
+"Khammam","jau",4.3,1.5,43.4,6.8,1.7,68.4,0
+"Khammam","lscs",7.9,1.9,79.1,8.1,1.7,80.9,0.210184
+"Khammam","sob",6.4,1.5,63.8,6.8,1.5,67.6,0.001899
+"Khammam","tb",6.1,1.7,61.4,6.5,1.8,65.5,0.004919
 "Komaram Bheem Asifabad","epi",4.9,1.8,49,6,1.8,59.8,5e-06
 "Komaram Bheem Asifabad","hrt",6.8,1.9,67.5,6.7,2.2,67.4,0.974696
 "Komaram Bheem Asifabad","jau",3.5,1.4,35.5,5.2,1.7,51.8,0
@@ -77,12 +83,6 @@
 "Mancherial","lscs",7.7,1.9,77,8.3,1.7,82.8,0.001567
 "Mancherial","sob",6.4,1.5,64,7.1,1.3,71.1,1e-06
 "Mancherial","tb",5.5,1.9,55.4,6.1,1.7,61.1,0.002168
-"Medak","epi",4,NA,40,1,NA,10,NA
-"Medak","hrt",9,NA,90,1,NA,10,NA
-"Medak","jau",4,NA,40,3,NA,30,NA
-"Medak","lscs",8,NA,80,1,NA,10,NA
-"Medak","sob",7,NA,70,1,NA,10,NA
-"Medak","tb",6,NA,60,0,NA,0,NA
 "Medchal Malkajgiri","epi",5.2,1.6,51.7,5.5,1.6,54.9,0.032505
 "Medchal Malkajgiri","hrt",6.9,2.1,69.4,7.5,1.9,74.6,0.005003
 "Medchal Malkajgiri","jau",4.1,1.5,40.9,5.8,1.6,58.5,0
@@ -155,6 +155,12 @@
 "Siddipet","lscs",7.7,2.1,76.7,8.4,1.7,83.5,6.7e-05
 "Siddipet","sob",6.2,1.7,62.4,7.2,1.6,72.4,0
 "Siddipet","tb",5.5,2,55.4,6.4,1.9,64.3,0
+"Suryapet","epi",4.9,1.7,49.3,6.4,1.5,64,0
+"Suryapet","hrt",6.9,2.1,69.2,7.4,1.8,73.6,0.007397
+"Suryapet","jau",4.1,1.5,40.6,6.2,1.9,62.5,0
+"Suryapet","lscs",7.6,2.1,75.9,7.8,1.8,78,0.206386
+"Suryapet","sob",6.4,1.6,64.5,6.9,1.7,68.7,0.002059
+"Suryapet","tb",5.3,1.7,52.9,6.5,1.8,64.8,0
 "Vikarabad","epi",4.7,1.5,47.5,4.8,1.4,47.7,0.91864
 "Vikarabad","hrt",6.8,2.1,68,6.9,1.9,69.4,0.654075
 "Vikarabad","jau",3.4,1.4,33.8,4.4,1.6,44,1.9e-05
@@ -185,9 +191,9 @@
 "Yadadri Bhuvanagiri","lscs",7.9,2,78.7,8.2,2.1,82.4,0.138337
 "Yadadri Bhuvanagiri","sob",6.5,1.8,65.1,7.3,1.5,73,7e-05
 "Yadadri Bhuvanagiri","tb",5.3,1.8,53.3,6.3,1.9,62.7,3.1e-05
-"Overall Average","epi",5,1.7,49.8,5.8,1.7,58.2,NA
-"Overall Average","hrt",7.1,2,70.8,7.5,1.9,74.6,NA
-"Overall Average","jau",4,1.6,40.3,6.5,1.9,65.1,NA
-"Overall Average","lscs",7.5,2,74.9,8,1.9,79.6,NA
-"Overall Average","sob",6.1,1.7,61.4,6.8,1.7,67.7,NA
-"Overall Average","tb",5.4,1.9,53.9,6,1.9,60.1,NA
+"Overall Average","epi",5,1.7,49.7,5.8,1.7,58.4,NA
+"Overall Average","hrt",7,2.1,70.5,7.4,1.9,74.4,NA
+"Overall Average","jau",4,1.6,40.1,6.5,1.9,65,NA
+"Overall Average","lscs",7.5,2,74.8,7.9,1.9,79.4,NA
+"Overall Average","sob",6.1,1.7,61.5,6.8,1.7,67.9,NA
+"Overall Average","tb",5.4,1.9,53.7,6,1.9,60.4,NA
