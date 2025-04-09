@@ -3,7 +3,7 @@ title: "Pre and Posttest Analysis - Uttar Pradesh"
 format: dashboard
 logo: "plots/ihrptm.jpg"
 fig-width: 10
-fig-height: 9
+fig-height: 8
 dpi: 600
 theme: journal
 css: styles.css
@@ -3908,7 +3908,7 @@ pre_post_mean_pct_cho
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Relative Percentage Change</span>"
-#| fig-cap: "<span style='font-size:12px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows how much scores increased or decreased after training.<br><span style='font-weight:bold;'>Positive change:</span> Means participants scored higher after training.<br> <span style='font-weight:bold;'>Negative change:</span> Means scores dropped after training.</span>"
+#| fig-cap: "<span style='font-size:10px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows increase or decrease in post test scores compared to pre test scores.<br><span style='font-weight:bold;'>Positive change:</span> Participants scored higher in post test than in pretest.<br> <span style='font-weight:bold;'>Negative change:</span> Participants scored lower in post test than in pretest.</span>"
 
 # MO relative change
 plot_relative_change_mo
@@ -3919,7 +3919,7 @@ plot_relative_change_mo
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Relative Percentage Change</span>"
-#| fig-cap: "<span style='font-size:12px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows how much scores increased or decreased after training.<br><span style='font-weight:bold;'>Positive change:</span> Means participants scored higher after training.<br> <span style='font-weight:bold;'>Negative change:</span> Means scores dropped after training.</span>"
+#| fig-cap: "<span style='font-size:10px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows increase or decrease in post test scores compared to pre test scores.<br><span style='font-weight:bold;'>Positive change:</span> Participants scored higher in post test than in pretest.<br> <span style='font-weight:bold;'>Negative change:</span> Participants scored lower in post test than in pretest.</span>"
 
 # ANM relative change
 plot_relative_change_anm
@@ -3930,7 +3930,7 @@ plot_relative_change_anm
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Relative Percentage Change</span>"
-#| fig-cap: "<span style='font-size:12px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows how much scores increased or decreased after training.<br><span style='font-weight:bold;'>Positive change:</span> Means participants scored higher after training.<br> <span style='font-weight:bold;'>Negative change:</span> Means scores dropped after training.</span>"
+#| fig-cap: "<span style='font-size:10px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows increase or decrease in post test scores compared to pre test scores.<br><span style='font-weight:bold;'>Positive change:</span> Participants scored higher in post test than in pretest.<br> <span style='font-weight:bold;'>Negative change:</span> Participants scored lower in post test than in pretest.</span>"
 
 # SN relative change
 plot_relative_change_sn
@@ -3941,7 +3941,7 @@ plot_relative_change_sn
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Relative Percentage Change</span>"
-#| fig-cap: "<span style='font-size:12px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows how much scores increased or decreased after training.<br><span style='font-weight:bold;'>Positive change:</span> Means participants scored higher after training.<br> <span style='font-weight:bold;'>Negative change:</span> Means scores dropped after training.</span>"
+#| fig-cap: "<span style='font-size:10px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows increase or decrease in post test scores compared to pre test scores.<br><span style='font-weight:bold;'>Positive change:</span> Participants scored higher in post test than in pretest.<br> <span style='font-weight:bold;'>Negative change:</span> Participants scored lower in post test than in pretest.</span>"
 
 # CHO relative change
 plot_relative_change_cho
