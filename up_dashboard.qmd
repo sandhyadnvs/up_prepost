@@ -3,7 +3,7 @@ title: "Pre and Posttest Analysis - Uttar Pradesh"
 format: dashboard
 logo: "plots/ihrptm.jpg"
 fig-width: 10
-fig-height: 8
+fig-height: 9
 dpi: 600
 theme: journal
 css: styles.css
